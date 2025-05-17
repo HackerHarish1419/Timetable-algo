@@ -1,0 +1,2817 @@
+Teacher,Day,Slot Code,Time,Type,Subject,Slot Type
+Anitha R  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Anitha R  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Anitha R  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Anitha R  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Anitha R  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Anitha R  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Anitha R  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Anitha R  -,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Anitha R  -,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Anitha R  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Anitha R  -,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Anitha R  -,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Anitha R  -,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Anitha R  -,Tue,T10,4.00-4.50,Theory,CS23431 (Lecture),Slot Type B
+Anitha R  -,Wed,T1,8.00-8.50,Theory,CS23431 (Lecture),Slot Type A
+Anitha R  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Anitha R  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Anitha R  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Anitha R  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Anitha R  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Anitha R  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Anitha R  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Anitha R  -,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Anitha R  -,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Anitha R  -,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Anitha R  -,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Anitha R  -,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Anitha R  -,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Anitha R  -,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Anitha R  -,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Anitha R  -,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Anitha R  -,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Anitha R  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Anitha R  -,Fri,T7,1.00-1.50,Theory,CS23431 (Lecture),Slot Type A
+Anitha R  -,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Anitha R  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Anitha R  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Anitha R  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Anitha R  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Anitha R  -,Sat,T10,4.00-4.50,Theory,AI23431 (Lecture),Slot Type C
+Anitha R  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Anitha R  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Anitha R  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Anitha R  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Anitha R  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Anitha R  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Anitha R  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Anitha R  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,CS23431 (Practical),Slot Type B
+Anitha R  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Anitha R  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Anitha R  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,CS23431 (Practical),Slot Type A
+Anitha R  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Anitha R  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Anitha R  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,AI23431 (Practical),Slot Type A
+Anitha R  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Anitha R  -,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Anitha R  -,Thu,L6,5.10-6.00/6.00-6.50,Lab,CS23431 (Practical),Slot Type C
+Anitha R  -,Fri,L1,8.00-8.50/8.50-9.40,Lab,AI23431 (Practical),Slot Type A
+Anitha R  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Anitha R  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,AI23431 (Practical),Slot Type A
+Anitha R  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Anitha R  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,AI23431 (Practical),Slot Type C
+Anitha R  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Anitha R  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,CS23431 (Practical),Slot Type C
+Aswin Jeba Mahir A,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Aswin Jeba Mahir A,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Aswin Jeba Mahir A,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Wed,T8,2.00-2.50,Theory,GE23217 (Lecture),Slot Type B
+Aswin Jeba Mahir A,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Aswin Jeba Mahir A,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Aswin Jeba Mahir A,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Aswin Jeba Mahir A,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Aswin Jeba Mahir A,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Aswin Jeba Mahir A,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Aswin Jeba Mahir A,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Aswin Jeba Mahir A,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Aswin Jeba Mahir A,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Aswin Jeba Mahir A,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Aswin Jeba Mahir A,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Aswin Jeba Mahir A,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Aswin Jeba Mahir A,Wed,L3,11.40-12.30/12.30-1.20,Lab,CS23221 (Practical),Slot Type B
+Aswin Jeba Mahir A,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Aswin Jeba Mahir A,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Aswin Jeba Mahir A,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Aswin Jeba Mahir A,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Aswin Jeba Mahir A,Thu,L3,11.40-12.30/12.30-1.20,Lab,CS23221 (Practical),Slot Type A
+Aswin Jeba Mahir A,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Aswin Jeba Mahir A,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Aswin Jeba Mahir A,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Aswin Jeba Mahir A,Fri,L6,5.10-6.00/6.00-6.50,Lab,CS23221 (Practical),Slot Type C
+Aswin Jeba Mahir A,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Aswin Jeba Mahir A,Sat,L2,10.00-10.50/10.50-11.40,Lab,CS23221 (Practical),Slot Type A
+Aswin Jeba Mahir A,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Aswin Jeba Mahir A,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T2,9.00-9.50,Theory,CS23432 (Lecture),Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T9,3.00-3.50,Theory,CS23432 (Lecture),Slot Type B
+Balamurugan Mohanan Nagaya,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Balamurugan Mohanan Nagaya,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Balamurugan Mohanan Nagaya,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T5/T6,12.00-12.50,Theory,CS23432 (Lecture),Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Balamurugan Mohanan Nagaya,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Tue,L4,1.20-2.10/2.10-3.00,Lab,CS23432 (Practical),Slot Type C
+Balamurugan Mohanan Nagaya,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Balamurugan Mohanan Nagaya,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Balamurugan Mohanan Nagaya,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Balamurugan Mohanan Nagaya,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Balamurugan Mohanan Nagaya,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Balamurugan Mohanan Nagaya,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Balamurugan Mohanan Nagaya,Sat,L4,1.20-2.10/2.10-3.00,Lab,CS23432 (Practical),Slot Type A
+Balavidhya,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Balavidhya,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Balavidhya,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Balavidhya,Mon,T7,1.00-1.50,Theory,MA23214 (Tutorial),Slot Type B
+Balavidhya,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Balavidhya,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Balavidhya,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Balavidhya,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Balavidhya,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Balavidhya,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Balavidhya,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Balavidhya,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Balavidhya,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Balavidhya,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Balavidhya,Wed,T1,8.00-8.50,Theory,MA23214 (Lecture),Slot Type A
+Balavidhya,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Balavidhya,Wed,T3,10.00-10.50,Theory,MA23214 (Lecture),Slot Type A
+Balavidhya,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Balavidhya,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Balavidhya,Wed,T7,1.00-1.50,Theory,MA23214 (Lecture),Slot Type A
+Balavidhya,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Balavidhya,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Balavidhya,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Balavidhya,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Balavidhya,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Balavidhya,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Balavidhya,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Balavidhya,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Balavidhya,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Balavidhya,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Balavidhya,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Balavidhya,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Balavidhya,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Balavidhya,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Balavidhya,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Balavidhya,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Balavidhya,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Balavidhya,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Balavidhya,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Balavidhya,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Balavidhya,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Balavidhya,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Balavidhya,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Balavidhya,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Balavidhya,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Balavidhya,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Balavidhya,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Balavidhya,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Balavidhya,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Balavidhya,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Balavidhya,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Balavidhya,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Balavidhya,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Balavidhya,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Balavidhya,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Balavidhya,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Balavidhya,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Balavidhya,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Balavidhya,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Balavidhya,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Balavidhya,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Balavidhya,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Balavidhya,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Balavidhya,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Devendar Rao B  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Devendar Rao B  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Devendar Rao B  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Devendar Rao B  -,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Devendar Rao B  -,Tue,T8,2.00-2.50,Theory,CS23432 (Lecture),Slot Type C
+Devendar Rao B  -,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Devendar Rao B  -,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Devendar Rao B  -,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Devendar Rao B  -,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Devendar Rao B  -,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Devendar Rao B  -,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Devendar Rao B  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Devendar Rao B  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Devendar Rao B  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Devendar Rao B  -,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Devendar Rao B  -,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Devendar Rao B  -,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Devendar Rao B  -,Fri,T10,4.00-4.50,Theory,CS23432 (Lecture),Slot Type C
+Devendar Rao B  -,Fri,T11,5.10-6.00,Theory,CS23432 (Lecture),Slot Type C
+Devendar Rao B  -,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Devendar Rao B  -,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Devendar Rao B  -,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Devendar Rao B  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,CS23432 (Practical),Slot Type B
+Devendar Rao B  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,CS23432 (Practical),Slot Type B
+Devendar Rao B  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Devendar Rao B  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Devendar Rao B  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Devendar Rao B  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Devendar Rao B  -,Tue,L6,5.10-6.00/6.00-6.50,Lab,GE23421 (Practical),Slot Type C
+Devendar Rao B  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,CS23231 (Practical),Slot Type B
+Devendar Rao B  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Devendar Rao B  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Devendar Rao B  -,Wed,L5,3.00-3.50/3.50-4.40,Lab,GE23421 (Practical),Slot Type B
+Devendar Rao B  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Devendar Rao B  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Devendar Rao B  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type A
+Devendar Rao B  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Devendar Rao B  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Devendar Rao B  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Devendar Rao B  -,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Devendar Rao B  -,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Devendar Rao B  -,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Devendar Rao B  -,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Devendar Rao B  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Divya S,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Divya S,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Divya S,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Divya S,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Divya S,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Divya S,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Divya S,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Divya S,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Divya S,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Divya S,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Divya S,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Divya S,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Divya S,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Divya S,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Divya S,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Divya S,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Divya S,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Divya S,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Divya S,Wed,T8,2.00-2.50,Theory,GE23217 (Lecture),Slot Type B
+Divya S,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Divya S,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Divya S,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Divya S,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Divya S,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Divya S,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Divya S,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Divya S,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Divya S,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Divya S,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Divya S,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Divya S,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Divya S,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Divya S,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Divya S,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Divya S,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Divya S,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Divya S,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Divya S,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Divya S,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Divya S,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Divya S,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Divya S,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Divya S,Mon,L4,1.20-2.10/2.10-3.00,Lab,GE23421 (Practical),Slot Type C
+Divya S,Mon,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type C
+Divya S,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Divya S,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Divya S,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Divya S,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Divya S,Tue,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type B
+Divya S,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Divya S,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Divya S,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Divya S,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Divya S,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Divya S,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Divya S,Thu,L6,5.10-6.00/6.00-6.50,Lab,CS23221 (Practical),Slot Type C
+Divya S,Fri,L1,8.00-8.50/8.50-9.40,Lab,CS23221 (Practical),Slot Type A
+Divya S,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Divya S,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Divya S,Fri,L4,1.20-2.10/2.10-3.00,Lab,GE23421 (Practical),Slot Type A
+Divya S,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Divya S,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Divya S,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Divya S,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Dr S Hema Surya,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,T7,1.00-1.50,Theory,MA23214 (Tutorial),Slot Type B
+Dr S Hema Surya,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Dr S Hema Surya,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Dr S Hema Surya,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Dr S Hema Surya,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Dr S Hema Surya,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Dr S Hema Surya,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Dr S Hema Surya,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Dr S Hema Surya,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Dr S Hema Surya,Fri,T7,1.00-1.50,Theory,MA23214 (Lecture),Slot Type C
+Dr S Hema Surya,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Dr S Hema Surya,Fri,T9,3.00-3.50,Theory,MA23214 (Lecture),Slot Type C
+Dr S Hema Surya,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Dr S Hema Surya,Fri,T11,5.10-6.00,Theory,MA23214 (Lecture),Slot Type C
+Dr S Hema Surya,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Dr S Hema Surya,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Dr S Hema Surya,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Dr S Hema Surya,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Dr S Hema Surya,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Dr S Hema Surya,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Dr S Hema Surya,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Dr S Hema Surya,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Dr S Hema Surya,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Dr S Hema Surya,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Dr S Hema Surya,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Dr S Hema Surya,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Dr S Hema Surya,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Dr S Hema Surya,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Dr S Hema Surya,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Dr S Hema Surya,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Dr S Hema Surya,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Dr S Hema Surya,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Dr S Hema Surya,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Dr S Hema Surya,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Dr S Hema Surya,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Dr S Hema Surya,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Dr S Hema Surya,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Dr S Hema Surya,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Dr S Hema Surya,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Gayathri   K,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Gayathri   K,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Gayathri   K,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Gayathri   K,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Gayathri   K,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Gayathri   K,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Gayathri   K,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Gayathri   K,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Gayathri   K,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Gayathri   K,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Gayathri   K,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Gayathri   K,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Gayathri   K,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Gayathri   K,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Gayathri   K,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Gayathri   K,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Gayathri   K,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Gayathri   K,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Gayathri   K,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Gayathri   K,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Gayathri   K,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Gayathri   K,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Gayathri   K,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Gayathri   K,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Gayathri   K,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Gayathri   K,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Gayathri   K,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Gayathri   K,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Gayathri   K,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Gayathri   K,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Gayathri   K,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Gayathri   K,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Gayathri   K,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Gayathri   K,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Gayathri   K,Fri,T10,4.00-4.50,Theory,CS23231 (Lecture),Slot Type B
+Gayathri   K,Sat,T1,8.00-8.50,Theory,CS23231 (Lecture),Slot Type A
+Gayathri   K,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Gayathri   K,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Gayathri   K,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Gayathri   K,Sat,T5/T6,12.00-12.50,Theory,CS23231 (Lecture),Slot Type A
+Gayathri   K,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Gayathri   K,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Gayathri   K,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Gayathri   K,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Gayathri   K,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Gayathri   K,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Gayathri   K,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Gayathri   K,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Gayathri   K,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Gayathri   K,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Gayathri   K,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Gayathri   K,Wed,L6,5.10-6.00/6.00-6.50,Lab,CS23231 (Practical),Slot Type C
+Gayathri   K,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Gayathri   K,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Gayathri   K,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Gayathri   K,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Gayathri   K,Fri,L2,10.00-10.50/10.50-11.40,Lab,CS23231 (Practical),Slot Type B
+Gayathri   K,Fri,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type B
+Gayathri   K,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Gayathri   K,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Gayathri   K,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Gayathri   K,Sat,L2,10.00-10.50/10.50-11.40,Lab,CS23231 (Practical),Slot Type A
+Gayathri   K,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Gayathri   K,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Gayathri   Maiganam,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Gayathri   Maiganam,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Gayathri   Maiganam,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Gayathri   Maiganam,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Gayathri   Maiganam,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Gayathri   Maiganam,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Gayathri   Maiganam,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Gayathri   Maiganam,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Gayathri   Maiganam,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Gayathri   Maiganam,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Gayathri   Maiganam,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Gayathri   Maiganam,Thu,T11,5.10-6.00,Theory,AI23231 (Lecture),Slot Type C
+Gayathri   Maiganam,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Gayathri   Maiganam,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Gayathri   Maiganam,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Gayathri   Maiganam,Sat,T2,9.00-9.50,Theory,AI23231 (Lecture),Slot Type A
+Gayathri   Maiganam,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Gayathri   Maiganam,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Gayathri   Maiganam,Sat,T5/T6,12.00-12.50,Theory,AI23231 (Lecture),Slot Type A
+Gayathri   Maiganam,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Gayathri   Maiganam,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Gayathri   Maiganam,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Gayathri   Maiganam,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Gayathri   Maiganam,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Gayathri   Maiganam,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Gayathri   Maiganam,Tue,L1,8.00-8.50/8.50-9.40,Lab,AI23231 (Practical),Slot Type A
+Gayathri   Maiganam,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Gayathri   Maiganam,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Gayathri   Maiganam,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Gayathri   Maiganam,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Gayathri   Maiganam,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Gayathri   Maiganam,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Gayathri   Maiganam,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Gayathri   Maiganam,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Gayathri   Maiganam,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Gayathri   Maiganam,Thu,L6,5.10-6.00/6.00-6.50,Lab,AI23231 (Practical),Slot Type C
+Gayathri   Maiganam,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Gayathri   Maiganam,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Gayathri   Maiganam,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Gayathri   Maiganam,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Gayathri   Maiganam,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Gayathri   Maiganam,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Gayathri   Maiganam,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+J Jasmine Gabriel,Mon,T1,8.00-8.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T2,9.00-9.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T3,10.00-10.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T4,11.00-11.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T7,1.00-1.50,Theory,,Slot Type A
+J Jasmine Gabriel,Mon,T8,2.00-2.50,Theory,,Slot Type A
+J Jasmine Gabriel,Tue,T3,10.00-10.50,Theory,CS23432 (Lecture),Slot Type B
+J Jasmine Gabriel,Tue,T4,11.00-11.50,Theory,,Slot Type B
+J Jasmine Gabriel,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+J Jasmine Gabriel,Tue,T7,1.00-1.50,Theory,,Slot Type B
+J Jasmine Gabriel,Tue,T8,2.00-2.50,Theory,,Slot Type B
+J Jasmine Gabriel,Tue,T9,3.00-3.50,Theory,,Slot Type B
+J Jasmine Gabriel,Tue,T10,4.00-4.50,Theory,CS23231 (Lecture),Slot Type B
+J Jasmine Gabriel,Wed,T1,8.00-8.50,Theory,,Slot Type A
+J Jasmine Gabriel,Wed,T2,9.00-9.50,Theory,,Slot Type A
+J Jasmine Gabriel,Wed,T3,10.00-10.50,Theory,,Slot Type A
+J Jasmine Gabriel,Wed,T4,11.00-11.50,Theory,CS23231 (Lecture),Slot Type A
+J Jasmine Gabriel,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+J Jasmine Gabriel,Wed,T7,1.00-1.50,Theory,,Slot Type A
+J Jasmine Gabriel,Wed,T8,2.00-2.50,Theory,,Slot Type A
+J Jasmine Gabriel,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+J Jasmine Gabriel,Thu,T7,1.00-1.50,Theory,,Slot Type C
+J Jasmine Gabriel,Thu,T8,2.00-2.50,Theory,CS23432 (Lecture),Slot Type C
+J Jasmine Gabriel,Thu,T9,3.00-3.50,Theory,,Slot Type C
+J Jasmine Gabriel,Thu,T10,4.00-4.50,Theory,,Slot Type C
+J Jasmine Gabriel,Thu,T11,5.10-6.00,Theory,,Slot Type C
+J Jasmine Gabriel,Thu,T12,6.10-7.00,Theory,CS23432 (Lecture),Slot Type C
+J Jasmine Gabriel,Fri,T3,10.00-10.50,Theory,,Slot Type B
+J Jasmine Gabriel,Fri,T4,11.00-11.50,Theory,,Slot Type B
+J Jasmine Gabriel,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+J Jasmine Gabriel,Fri,T7,1.00-1.50,Theory,,Slot Type B
+J Jasmine Gabriel,Fri,T8,2.00-2.50,Theory,CS23231 (Lecture),Slot Type B
+J Jasmine Gabriel,Fri,T9,3.00-3.50,Theory,,Slot Type B
+J Jasmine Gabriel,Fri,T10,4.00-4.50,Theory,,Slot Type B
+J Jasmine Gabriel,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T7,1.00-1.50,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T8,2.00-2.50,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T9,3.00-3.50,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T10,4.00-4.50,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T11,5.10-6.00,Theory,,Slot Type C
+J Jasmine Gabriel,Sat,T12,6.10-7.00,Theory,,Slot Type C
+J Jasmine Gabriel,Mon,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+J Jasmine Gabriel,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+J Jasmine Gabriel,Mon,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type A
+J Jasmine Gabriel,Mon,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type A
+J Jasmine Gabriel,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+J Jasmine Gabriel,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+J Jasmine Gabriel,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+J Jasmine Gabriel,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+J Jasmine Gabriel,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+J Jasmine Gabriel,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+J Jasmine Gabriel,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+J Jasmine Gabriel,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23432 (Practical),Slot Type A
+J Jasmine Gabriel,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+J Jasmine Gabriel,Thu,L5,3.00-3.50/3.50-4.40,Lab,CS23231 (Practical),Slot Type C
+J Jasmine Gabriel,Thu,L6,5.10-6.00/6.00-6.50,Lab,CS23432 (Practical),Slot Type C
+J Jasmine Gabriel,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+J Jasmine Gabriel,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+J Jasmine Gabriel,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+J Jasmine Gabriel,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+J Jasmine Gabriel,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+J Jasmine Gabriel,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+J Jasmine Gabriel,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Jebaraj Kabriel,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Jebaraj Kabriel,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Jebaraj Kabriel,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Jebaraj Kabriel,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Jebaraj Kabriel,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Jebaraj Kabriel,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Jebaraj Kabriel,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Jebaraj Kabriel,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Jebaraj Kabriel,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Jebaraj Kabriel,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Jebaraj Kabriel,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Jebaraj Kabriel,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Jebaraj Kabriel,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Jebaraj Kabriel,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Jebaraj Kabriel,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Jebaraj Kabriel,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Jebaraj Kabriel,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Jebaraj Kabriel,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Jebaraj Kabriel,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Jebaraj Kabriel,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Jebaraj Kabriel,Wed,L5,3.00-3.50/3.50-4.40,Lab,HS23221 (Practical),Slot Type B
+Jebaraj Kabriel,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Jebaraj Kabriel,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Jebaraj Kabriel,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Jebaraj Kabriel,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Jebaraj Kabriel,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Jebaraj Kabriel,Fri,L3,11.40-12.30/12.30-1.20,Lab,HS23221 (Practical),Slot Type B
+Jebaraj Kabriel,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Jebaraj Kabriel,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Jebaraj Kabriel,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Jebaraj Kabriel,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Jebaraj Kabriel,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Jebaraj Kabriel,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Kumaran U  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Kumaran U  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Kumaran U  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Kumaran U  -,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Kumaran U  -,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Kumaran U  -,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Kumaran U  -,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Kumaran U  -,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Kumaran U  -,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Kumaran U  -,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Kumaran U  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Kumaran U  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Kumaran U  -,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Kumaran U  -,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Kumaran U  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Kumaran U  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Kumaran U  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Kumaran U  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Kumaran U  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Kumaran U  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Kumaran U  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Kumaran U  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Kumaran U  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Kumaran U  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,GE23421 (Practical),Slot Type B
+Kumaran U  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Kumaran U  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Kumaran U  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Kumaran U  -,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Kumaran U  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Kumaran U  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Kumaran U  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Kumaran U  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Kumaran U  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,GE23421 (Practical),Slot Type A
+Kumaran U  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Kumaran U  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Kumaran U  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Kumaran U  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Kumaran U  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Kumaran U  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Kumaran U  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Kumaran U  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Kumaran U  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Kumaran U  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Loganathan G  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Loganathan G  -,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Loganathan G  -,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Loganathan G  -,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Loganathan G  -,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Loganathan G  -,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Loganathan G  -,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Loganathan G  -,Tue,T1,8.00-8.50,Theory,IT23231 (Lecture),Slot Type A
+Loganathan G  -,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Loganathan G  -,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Loganathan G  -,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Loganathan G  -,Tue,T5/T6,12.00-12.50,Theory,IT23231 (Lecture),Slot Type A
+Loganathan G  -,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Loganathan G  -,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Loganathan G  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Loganathan G  -,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Loganathan G  -,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Loganathan G  -,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Loganathan G  -,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Loganathan G  -,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Loganathan G  -,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Loganathan G  -,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Loganathan G  -,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Loganathan G  -,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Loganathan G  -,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Loganathan G  -,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Loganathan G  -,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Loganathan G  -,Sat,T5/T6,12.00-12.50,Theory,IT23231 (Lecture),Slot Type B
+Loganathan G  -,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Loganathan G  -,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Loganathan G  -,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Loganathan G  -,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Loganathan G  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Loganathan G  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Loganathan G  -,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Loganathan G  -,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Loganathan G  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Loganathan G  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Loganathan G  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Loganathan G  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Loganathan G  -,Wed,L5,3.00-3.50/3.50-4.40,Lab,IT23231 (Practical),Slot Type C
+Loganathan G  -,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Loganathan G  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Loganathan G  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Loganathan G  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Loganathan G  -,Thu,L5,3.00-3.50/3.50-4.40,Lab,IT23231 (Practical),Slot Type B
+Loganathan G  -,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Loganathan G  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Loganathan G  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Loganathan G  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Loganathan G  -,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Loganathan G  -,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Loganathan G  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Loganathan G  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Malathy E M,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Malathy E M,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Malathy E M,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Malathy E M,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Malathy E M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Malathy E M,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Malathy E M,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Malathy E M,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Malathy E M,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Malathy E M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Malathy E M,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Malathy E M,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Malathy E M,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Malathy E M,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Malathy E M,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Malathy E M,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Malathy E M,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Malathy E M,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Malathy E M,Wed,T10,4.00-4.50,Theory,IT23231 (Lecture),Slot Type C
+Malathy E M,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Malathy E M,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Malathy E M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Malathy E M,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Malathy E M,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Malathy E M,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Malathy E M,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Malathy E M,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Malathy E M,Thu,T12,6.10-7.00,Theory,IT23231 (Lecture),Slot Type C
+Malathy E M,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Malathy E M,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Malathy E M,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Malathy E M,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Malathy E M,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Malathy E M,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Malathy E M,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Malathy E M,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Malathy E M,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Malathy E M,Sat,T3,10.00-10.50,Theory,IT23231 (Lecture),Slot Type A
+Malathy E M,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Malathy E M,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Malathy E M,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Malathy E M,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Malathy E M,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Malathy E M,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Malathy E M,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Malathy E M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Malathy E M,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Malathy E M,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Malathy E M,Tue,L4,1.20-2.10/2.10-3.00,Lab,IT23231 (Practical),Slot Type B
+Malathy E M,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Malathy E M,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Malathy E M,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Malathy E M,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Malathy E M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Malathy E M,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Malathy E M,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Malathy E M,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Malathy E M,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Malathy E M,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Malathy E M,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Malathy E M,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Malathy E M,Sat,L2,10.00-10.50/10.50-11.40,Lab,IT23231 (Practical),Slot Type A
+Malathy E M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Malathy E M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Malikunnisha Mohamed Noorullah,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Malikunnisha Mohamed Noorullah,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Malikunnisha Mohamed Noorullah,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,L3,11.40-12.30/12.30-1.20,Lab,HS23221 (Practical),Slot Type A
+Malikunnisha Mohamed Noorullah,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Malikunnisha Mohamed Noorullah,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,L2,10.00-10.50/10.50-11.40,Lab,HS23221 (Practical),Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Malikunnisha Mohamed Noorullah,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Malikunnisha Mohamed Noorullah,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Malikunnisha Mohamed Noorullah,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Manju M,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Manju M,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Manju M,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Manju M,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Manju M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Manju M,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Manju M,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Manju M,Tue,T1,8.00-8.50,Theory,CS23431 (Lecture),Slot Type A
+Manju M,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Manju M,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Manju M,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Manju M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Manju M,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Manju M,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Manju M,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Manju M,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Manju M,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Manju M,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Manju M,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Manju M,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Manju M,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Manju M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Manju M,Thu,T7,1.00-1.50,Theory,CS23431 (Lecture),Slot Type C
+Manju M,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Manju M,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Manju M,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Manju M,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Manju M,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Manju M,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Manju M,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Manju M,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Manju M,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Manju M,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Manju M,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Manju M,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Manju M,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Manju M,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Manju M,Sat,T5/T6,12.00-12.50,Theory,CS23431 (Lecture),Slot Type B
+Manju M,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Manju M,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Manju M,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Manju M,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Manju M,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Manju M,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Manju M,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Manju M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Manju M,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Manju M,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Manju M,Tue,L3,11.40-12.30/12.30-1.20,Lab,CS23431 (Practical),Slot Type A
+Manju M,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Manju M,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Manju M,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Manju M,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23431 (Practical),Slot Type B
+Manju M,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Manju M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Manju M,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Manju M,Thu,L6,5.10-6.00/6.00-6.50,Lab,CS23431 (Practical),Slot Type C
+Manju M,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Manju M,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Manju M,Fri,L6,5.10-6.00/6.00-6.50,Lab,CS23431 (Practical),Slot Type C
+Manju M,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Manju M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Manju M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Manju M,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Meenakumari R,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Meenakumari R,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Meenakumari R,Mon,T5/T6,12.00-12.50,Theory,MA23214 (Tutorial),Slot Type B
+Meenakumari R,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Meenakumari R,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Meenakumari R,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Meenakumari R,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Meenakumari R,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Meenakumari R,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Meenakumari R,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Meenakumari R,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Meenakumari R,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Meenakumari R,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Meenakumari R,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Meenakumari R,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Meenakumari R,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Meenakumari R,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Meenakumari R,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Meenakumari R,Wed,T10,4.00-4.50,Theory,MA23214 (Lecture),Slot Type C
+Meenakumari R,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Meenakumari R,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Meenakumari R,Thu,T5/T6,12.00-12.50,Theory,MA23214 (Lecture),Slot Type C
+Meenakumari R,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Meenakumari R,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Meenakumari R,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Meenakumari R,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Meenakumari R,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Meenakumari R,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Meenakumari R,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Meenakumari R,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Meenakumari R,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Meenakumari R,Fri,T7,1.00-1.50,Theory,MA23214 (Lecture),Slot Type B
+Meenakumari R,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Meenakumari R,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Meenakumari R,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Meenakumari R,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Meenakumari R,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Meenakumari R,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Meenakumari R,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Meenakumari R,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Meenakumari R,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Meenakumari R,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Meenakumari R,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Meenakumari R,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Meenakumari R,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Meenakumari R,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Meenakumari R,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Meenakumari R,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Meenakumari R,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Meenakumari R,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Meenakumari R,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Meenakumari R,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Meenakumari R,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Meenakumari R,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Meenakumari R,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Meenakumari R,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Meenakumari R,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Meenakumari R,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Meenakumari R,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Meenakumari R,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Meenakumari R,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Meenakumari R,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Meenakumari R,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Meenakumari R,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Natarajan M S  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Natarajan M S  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Natarajan M S  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Natarajan M S  -,Tue,T7,1.00-1.50,Theory,GE23111 (Lecture),Slot Type C
+Natarajan M S  -,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Natarajan M S  -,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Natarajan M S  -,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Natarajan M S  -,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Natarajan M S  -,Tue,T12,6.10-7.00,Theory,GE23111 (Lecture),Slot Type C
+Natarajan M S  -,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Natarajan M S  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Natarajan M S  -,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Natarajan M S  -,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Natarajan M S  -,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Natarajan M S  -,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Natarajan M S  -,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Natarajan M S  -,Fri,T4,11.00-11.50,Theory,GE23111 (Lecture),Slot Type A
+Natarajan M S  -,Fri,T5/T6,12.00-12.50,Theory,GE23111 (Lecture),Slot Type A
+Natarajan M S  -,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Natarajan M S  -,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Natarajan M S  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Natarajan M S  -,Sat,T7,1.00-1.50,Theory,GE23111 (Tutorial),Slot Type C
+Natarajan M S  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Natarajan M S  -,Sat,T9,3.00-3.50,Theory,GE23111 (Tutorial),Slot Type C
+Natarajan M S  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Natarajan M S  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Natarajan M S  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Natarajan M S  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Natarajan M S  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Natarajan M S  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Natarajan M S  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Natarajan M S  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Natarajan M S  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Natarajan M S  -,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Natarajan M S  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Natarajan M S  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Natarajan M S  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Natarajan M S  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Natarajan M S  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Natarajan M S  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Natarajan M S  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Natarajan M S  -,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Natarajan M S  -,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Natarajan M S  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Natarajan M S  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Natarajan M S  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Natarajan M S  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Natarajan M S  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Natarajan M S  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Nirmala D,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Nirmala D,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Nirmala D,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Nirmala D,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Nirmala D,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Nirmala D,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Nirmala D,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Nirmala D,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Nirmala D,Tue,T4,11.00-11.50,Theory,IT23231 (Lecture),Slot Type B
+Nirmala D,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Nirmala D,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Nirmala D,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Nirmala D,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Nirmala D,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Nirmala D,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Nirmala D,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Nirmala D,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Nirmala D,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Nirmala D,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Nirmala D,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Nirmala D,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Nirmala D,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Nirmala D,Thu,T2,9.00-9.50,Theory,IT23231 (Lecture),Slot Type A
+Nirmala D,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Nirmala D,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Nirmala D,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Nirmala D,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Nirmala D,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Nirmala D,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Nirmala D,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Nirmala D,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Nirmala D,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Nirmala D,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Nirmala D,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Nirmala D,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Nirmala D,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Nirmala D,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Nirmala D,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Nirmala D,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Nirmala D,Sat,T10,4.00-4.50,Theory,IT23231 (Lecture),Slot Type C
+Nirmala D,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Nirmala D,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Nirmala D,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Nirmala D,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Nirmala D,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Nirmala D,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Nirmala D,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Nirmala D,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Nirmala D,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Nirmala D,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Nirmala D,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Nirmala D,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Nirmala D,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Nirmala D,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Nirmala D,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Nirmala D,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Nirmala D,Thu,L3,11.40-12.30/12.30-1.20,Lab,IT23231 (Practical),Slot Type A
+Nirmala D,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Nirmala D,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Nirmala D,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Nirmala D,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Nirmala D,Sat,L4,1.20-2.10/2.10-3.00,Lab,IT23231 (Practical),Slot Type C
+Nirmala D,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Nirmala D,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Poonkuzhali S,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Poonkuzhali S,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Poonkuzhali S,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Poonkuzhali S,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Poonkuzhali S,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Poonkuzhali S,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Poonkuzhali S,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Poonkuzhali S,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Poonkuzhali S,Tue,T2,9.00-9.50,Theory,CS23231 (Lecture),Slot Type A
+Poonkuzhali S,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Poonkuzhali S,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Poonkuzhali S,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Poonkuzhali S,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Poonkuzhali S,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Poonkuzhali S,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Poonkuzhali S,Thu,T5/T6,12.00-12.50,Theory,CS23231 (Lecture),Slot Type C
+Poonkuzhali S,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Poonkuzhali S,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Poonkuzhali S,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Poonkuzhali S,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Poonkuzhali S,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Poonkuzhali S,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Poonkuzhali S,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Poonkuzhali S,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Poonkuzhali S,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Poonkuzhali S,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Poonkuzhali S,Fri,T8,2.00-2.50,Theory,CS23231 (Lecture),Slot Type B
+Poonkuzhali S,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Poonkuzhali S,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Poonkuzhali S,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Poonkuzhali S,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Poonkuzhali S,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Poonkuzhali S,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Poonkuzhali S,Tue,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+Poonkuzhali S,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Poonkuzhali S,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Poonkuzhali S,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Poonkuzhali S,Wed,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+Poonkuzhali S,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Poonkuzhali S,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Poonkuzhali S,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type A
+Poonkuzhali S,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Poonkuzhali S,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Poonkuzhali S,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Poonkuzhali S,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Poonkuzhali S,Fri,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type B
+Poonkuzhali S,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Poonkuzhali S,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Poonkuzhali S,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Poonkuzhali S,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Poonkuzhali S,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Poonkuzhali S,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Prabhu A E  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Prabhu A E  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Prabhu A E  -,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Prabhu A E  -,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Prabhu A E  -,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Prabhu A E  -,Tue,T10,4.00-4.50,Theory,IT23231 (Lecture),Slot Type C
+Prabhu A E  -,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Prabhu A E  -,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Prabhu A E  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Prabhu A E  -,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Prabhu A E  -,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Prabhu A E  -,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Prabhu A E  -,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Prabhu A E  -,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Prabhu A E  -,Wed,T12,6.10-7.00,Theory,IT23231 (Lecture),Slot Type C
+Prabhu A E  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Prabhu A E  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Prabhu A E  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Prabhu A E  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Prabhu A E  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Prabhu A E  -,Thu,T7,1.00-1.50,Theory,IT23231 (Lecture),Slot Type A
+Prabhu A E  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Prabhu A E  -,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Prabhu A E  -,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Prabhu A E  -,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Prabhu A E  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Prabhu A E  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Prabhu A E  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Prabhu A E  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Prabhu A E  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Prabhu A E  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,IT23231 (Practical),Slot Type C
+Prabhu A E  -,Tue,L6,5.10-6.00/6.00-6.50,Lab,IT23231 (Practical),Slot Type C
+Prabhu A E  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Prabhu A E  -,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Prabhu A E  -,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Prabhu A E  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Prabhu A E  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Prabhu A E  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Prabhu A E  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Prabhu A E  -,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Prabhu A E  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Prabhu A E  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Prabhu A E  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Prabhu A E  -,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Prabhu A E  -,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Prabhu A E  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Prabhu A E  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Prabhu S,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Prabhu S,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Prabhu S,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Prabhu S,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Prabhu S,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Prabhu S,Mon,T9,3.00-3.50,Theory,MA23214 (Lecture),Slot Type B
+Prabhu S,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Prabhu S,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Prabhu S,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Prabhu S,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Prabhu S,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Prabhu S,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Prabhu S,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Prabhu S,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Prabhu S,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Prabhu S,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Prabhu S,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Prabhu S,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Prabhu S,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Prabhu S,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Prabhu S,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Prabhu S,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Prabhu S,Thu,T7,1.00-1.50,Theory,MA23214 (Lecture),Slot Type C
+Prabhu S,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Prabhu S,Thu,T9,3.00-3.50,Theory,MA23214 (Tutorial),Slot Type C
+Prabhu S,Thu,T10,4.00-4.50,Theory,MA23214 (Lecture),Slot Type C
+Prabhu S,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Prabhu S,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Prabhu S,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Prabhu S,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Prabhu S,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Prabhu S,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Prabhu S,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Prabhu S,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Prabhu S,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Prabhu S,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Prabhu S,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Prabhu S,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Prabhu S,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Prabhu S,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Prabhu S,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Prabhu S,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Prabhu S,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Prabhu S,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Prabhu S,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Prabhu S,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Prabhu S,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Prabhu S,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Prabhu S,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Prabhu S,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Prabhu S,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Prabhu S,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Prabhu S,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Prabhu S,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Prabhu S,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Prabhu S,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Prabhu S,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Prabhu S,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Prabhu S,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Prabhu S,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Prabhu S,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Prabhu S,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Prabhu S,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Prabhu S,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Preejith P,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Preejith P,Mon,T2,9.00-9.50,Theory,CS23231 (Lecture),Slot Type A
+Preejith P,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Preejith P,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Preejith P,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Preejith P,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Preejith P,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Preejith P,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Preejith P,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Preejith P,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Preejith P,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Preejith P,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Preejith P,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Preejith P,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Preejith P,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Preejith P,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Preejith P,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Preejith P,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Preejith P,Wed,T5/T6,12.00-12.50,Theory,CS23231 (Lecture),Slot Type A
+Preejith P,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Preejith P,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Preejith P,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Preejith P,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Preejith P,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Preejith P,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Preejith P,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Preejith P,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Preejith P,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Preejith P,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Preejith P,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Preejith P,Fri,T5/T6,12.00-12.50,Theory,CS23231 (Lecture),Slot Type B
+Preejith P,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Preejith P,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Preejith P,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Preejith P,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Preejith P,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Preejith P,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Preejith P,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Preejith P,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Preejith P,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Preejith P,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Preejith P,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Preejith P,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Preejith P,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Preejith P,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Preejith P,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Preejith P,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Preejith P,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Preejith P,Tue,L6,5.10-6.00/6.00-6.50,Lab,CS23231 (Practical),Slot Type C
+Preejith P,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Preejith P,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Preejith P,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Preejith P,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Preejith P,Thu,L2,10.00-10.50/10.50-11.40,Lab,CS23231 (Practical),Slot Type B
+Preejith P,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Preejith P,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Preejith P,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Preejith P,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Preejith P,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Preejith P,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Preejith P,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Preejith P,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Preejith P,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Preejith P,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Priya M,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Priya M,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Priya M,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Priya M,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Priya M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Priya M,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Priya M,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Priya M,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Priya M,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Priya M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Priya M,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Priya M,Tue,T8,2.00-2.50,Theory,CS23431 (Lecture),Slot Type B
+Priya M,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Priya M,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Priya M,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Priya M,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Priya M,Wed,T5/T6,12.00-12.50,Theory,CS23431 (Lecture),Slot Type B
+Priya M,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Priya M,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Priya M,Wed,T9,3.00-3.50,Theory,CS23431 (Lecture),Slot Type B
+Priya M,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Priya M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Priya M,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Priya M,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Priya M,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Priya M,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Priya M,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Priya M,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Priya M,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Priya M,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Priya M,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Priya M,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Priya M,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Priya M,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Priya M,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Priya M,Sat,T1,8.00-8.50,Theory,,Slot Type A
+Priya M,Sat,T2,9.00-9.50,Theory,,Slot Type A
+Priya M,Sat,T3,10.00-10.50,Theory,,Slot Type A
+Priya M,Sat,T4,11.00-11.50,Theory,,Slot Type A
+Priya M,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+Priya M,Sat,T7,1.00-1.50,Theory,,Slot Type A
+Priya M,Sat,T8,2.00-2.50,Theory,,Slot Type A
+Priya M,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Priya M,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Priya M,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Priya M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Priya M,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Priya M,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Priya M,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Priya M,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Priya M,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Priya M,Wed,L3,11.40-12.30/12.30-1.20,Lab,CS23431 (Practical),Slot Type B
+Priya M,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23431 (Practical),Slot Type B
+Priya M,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Priya M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Priya M,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Priya M,Thu,L6,5.10-6.00/6.00-6.50,Lab,CS23431 (Practical),Slot Type C
+Priya M,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Priya M,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Priya M,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Priya M,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Priya M,Sat,L2,10.00-10.50/10.50-11.40,Lab,CS23431 (Practical),Slot Type A
+Priya M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Priya M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Priya Nair,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Priya Nair,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Priya Nair,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Priya Nair,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Priya Nair,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Priya Nair,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Priya Nair,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Priya Nair,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Priya Nair,Tue,T4,11.00-11.50,Theory,MA23434 (Lecture),Slot Type B
+Priya Nair,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Priya Nair,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Priya Nair,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Priya Nair,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Priya Nair,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Priya Nair,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Priya Nair,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Priya Nair,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Priya Nair,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Priya Nair,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Priya Nair,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Priya Nair,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Priya Nair,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Priya Nair,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Priya Nair,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Priya Nair,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Priya Nair,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Priya Nair,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Priya Nair,Thu,T12,6.10-7.00,Theory,MA23434 (Lecture),Slot Type C
+Priya Nair,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Priya Nair,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Priya Nair,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Priya Nair,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Priya Nair,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Priya Nair,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Priya Nair,Fri,T8,2.00-2.50,Theory,MA23434 (Lecture),Slot Type A
+Priya Nair,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Priya Nair,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Priya Nair,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Priya Nair,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Priya Nair,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Priya Nair,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Priya Nair,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Priya Nair,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Priya Nair,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Priya Nair,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Priya Nair,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Priya Nair,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Priya Nair,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Priya Nair,Tue,L4,1.20-2.10/2.10-3.00,Lab,MA23434 (Practical),Slot Type B
+Priya Nair,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Priya Nair,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Priya Nair,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Priya Nair,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Priya Nair,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Priya Nair,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Priya Nair,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Priya Nair,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Priya Nair,Fri,L1,8.00-8.50/8.50-9.40,Lab,MA23434 (Practical),Slot Type A
+Priya Nair,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Priya Nair,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Priya Nair,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Priya Nair,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Priya Nair,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Priya Nair,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+PriyankaDevi S  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T7,1.00-1.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+PriyankaDevi S  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+PriyankaDevi S  -,Tue,T1,8.00-8.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T2,9.00-9.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T3,10.00-10.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T4,11.00-11.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T7,1.00-1.50,Theory,,Slot Type A
+PriyankaDevi S  -,Tue,T8,2.00-2.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T1,8.00-8.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+PriyankaDevi S  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+PriyankaDevi S  -,Thu,T5/T6,12.00-12.50,Theory,IT23231 (Lecture),Slot Type C
+PriyankaDevi S  -,Thu,T7,1.00-1.50,Theory,IT23231 (Lecture),Slot Type C
+PriyankaDevi S  -,Thu,T8,2.00-2.50,Theory,,Slot Type C
+PriyankaDevi S  -,Thu,T9,3.00-3.50,Theory,,Slot Type C
+PriyankaDevi S  -,Thu,T10,4.00-4.50,Theory,,Slot Type C
+PriyankaDevi S  -,Thu,T11,5.10-6.00,Theory,,Slot Type C
+PriyankaDevi S  -,Thu,T12,6.10-7.00,Theory,,Slot Type C
+PriyankaDevi S  -,Fri,T3,10.00-10.50,Theory,,Slot Type B
+PriyankaDevi S  -,Fri,T4,11.00-11.50,Theory,,Slot Type B
+PriyankaDevi S  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+PriyankaDevi S  -,Fri,T7,1.00-1.50,Theory,IT23231 (Lecture),Slot Type B
+PriyankaDevi S  -,Fri,T8,2.00-2.50,Theory,,Slot Type B
+PriyankaDevi S  -,Fri,T9,3.00-3.50,Theory,,Slot Type B
+PriyankaDevi S  -,Fri,T10,4.00-4.50,Theory,,Slot Type B
+PriyankaDevi S  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+PriyankaDevi S  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+PriyankaDevi S  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+PriyankaDevi S  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+PriyankaDevi S  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+PriyankaDevi S  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+PriyankaDevi S  -,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+PriyankaDevi S  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+PriyankaDevi S  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+PriyankaDevi S  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+PriyankaDevi S  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+PriyankaDevi S  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,IT23231 (Practical),Slot Type A
+PriyankaDevi S  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+PriyankaDevi S  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+PriyankaDevi S  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+PriyankaDevi S  -,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+PriyankaDevi S  -,Thu,L6,5.10-6.00/6.00-6.50,Lab,IT23231 (Practical),Slot Type C
+PriyankaDevi S  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+PriyankaDevi S  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+PriyankaDevi S  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+PriyankaDevi S  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+PriyankaDevi S  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+PriyankaDevi S  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+PriyankaDevi S  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Raja  R,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Raja  R,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Raja  R,Mon,T5/T6,12.00-12.50,Theory,CS23231 (Lecture),Slot Type B
+Raja  R,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Raja  R,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Raja  R,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Raja  R,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Raja  R,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Raja  R,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Raja  R,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Raja  R,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Raja  R,Tue,T10,4.00-4.50,Theory,GE23217 (Lecture),Slot Type C
+Raja  R,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Raja  R,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Raja  R,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Raja  R,Wed,T7,1.00-1.50,Theory,CS23231 (Lecture),Slot Type C
+Raja  R,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Raja  R,Wed,T9,3.00-3.50,Theory,CS23231 (Lecture),Slot Type C
+Raja  R,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Raja  R,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Raja  R,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Raja  R,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Raja  R,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Raja  R,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Raja  R,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Raja  R,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Raja  R,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Raja  R,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Raja  R,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Raja  R,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Raja  R,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Raja  R,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Raja  R,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Raja  R,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Raja  R,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Raja  R,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Raja  R,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Raja  R,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Raja  R,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Raja  R,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Raja  R,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Raja  R,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Raja  R,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Raja  R,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Raja  R,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Raja  R,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Raja  R,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Raja  R,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Raja  R,Tue,L6,5.10-6.00/6.00-6.50,Lab,CS23231 (Practical),Slot Type C
+Raja  R,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Raja  R,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Raja  R,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Raja  R,Thu,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+Raja  R,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Raja  R,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Raja  R,Thu,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type A
+Raja  R,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Raja  R,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Raja  R,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Raja  R,Fri,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type A
+Raja  R,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Raja  R,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Raja  R,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Raja  R,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajalakshmi B,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Rajalakshmi B,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Rajalakshmi B,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Rajalakshmi B,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Rajalakshmi B,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Rajalakshmi B,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajalakshmi B,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Rajalakshmi B,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Rajalakshmi B,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Rajalakshmi B,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Rajalakshmi B,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Rajalakshmi B,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Rajalakshmi B,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Rajalakshmi B,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Rajalakshmi B,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajalakshmi B,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Rajalakshmi B,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Rajalakshmi B,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Rajalakshmi B,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Rajalakshmi B,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Rajalakshmi B,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Rajalakshmi B,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajalakshmi B,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Rajalakshmi B,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajalakshmi B,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajalakshmi B,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajalakshmi B,Tue,L2,10.00-10.50/10.50-11.40,Lab,HS23221 (Practical),Slot Type A
+Rajalakshmi B,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajalakshmi B,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajalakshmi B,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Rajalakshmi B,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Rajalakshmi B,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajalakshmi B,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajalakshmi B,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajalakshmi B,Thu,L5,3.00-3.50/3.50-4.40,Lab,HS23221 (Practical),Slot Type C
+Rajalakshmi B,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Rajalakshmi B,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Rajalakshmi B,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Rajalakshmi B,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajalakshmi B,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajalakshmi B,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajalakshmi B,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Rajalakshmi B,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Rajasekaran A,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajasekaran A,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Rajasekaran A,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Rajasekaran A,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Rajasekaran A,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Rajasekaran A,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Rajasekaran A,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Rajasekaran A,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Rajasekaran A,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Rajasekaran A,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T4,11.00-11.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T7,1.00-1.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Rajasekaran A,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Rajasekaran A,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajasekaran A,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Rajasekaran A,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Rajasekaran A,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Rajasekaran A,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Rajasekaran A,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Rajasekaran A,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Rajasekaran A,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Rajasekaran A,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Rajasekaran A,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Rajasekaran A,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Rajasekaran A,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajasekaran A,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Rajasekaran A,Sat,T8,2.00-2.50,Theory,AI23431 (Lecture),Slot Type B
+Rajasekaran A,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Rajasekaran A,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Rajasekaran A,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajasekaran A,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Rajasekaran A,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Rajasekaran A,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajasekaran A,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Rajasekaran A,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajasekaran A,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajasekaran A,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Rajasekaran A,Wed,L3,11.40-12.30/12.30-1.20,Lab,AI23431 (Practical),Slot Type B
+Rajasekaran A,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajasekaran A,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajasekaran A,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajasekaran A,Thu,L5,3.00-3.50/3.50-4.40,Lab,AI23431 (Practical),Slot Type C
+Rajasekaran A,Thu,L6,5.10-6.00/6.00-6.50,Lab,AI23431 (Practical),Slot Type C
+Rajasekaran A,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajasekaran A,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Rajasekaran A,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajasekaran A,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajasekaran A,Sat,L2,10.00-10.50/10.50-11.40,Lab,AI23431 (Practical),Slot Type B
+Rajasekaran A,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Rajasekaran A,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajasekaran A,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajkumar M,Mon,T3,10.00-10.50,Theory,GE23111 (Lecture),Slot Type B
+Rajkumar M,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Rajkumar M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajkumar M,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Rajkumar M,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Rajkumar M,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Rajkumar M,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Rajkumar M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajkumar M,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Rajkumar M,Tue,T8,2.00-2.50,Theory,GE23111 (Tutorial),Slot Type C
+Rajkumar M,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Rajkumar M,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Rajkumar M,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Rajkumar M,Tue,T12,6.10-7.00,Theory,GE23111 (Tutorial),Slot Type C
+Rajkumar M,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Rajkumar M,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Rajkumar M,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Rajkumar M,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Rajkumar M,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Rajkumar M,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Rajkumar M,Wed,T8,2.00-2.50,Theory,GE23111 (Lecture),Slot Type A
+Rajkumar M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Rajkumar M,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Rajkumar M,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Rajkumar M,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Rajkumar M,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Rajkumar M,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Rajkumar M,Thu,T12,6.10-7.00,Theory,GE23111 (Lecture),Slot Type C
+Rajkumar M,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Rajkumar M,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Rajkumar M,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Rajkumar M,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Rajkumar M,Fri,T5/T6,12.00-12.50,Theory,GE23111 (Lecture),Slot Type A
+Rajkumar M,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Rajkumar M,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Rajkumar M,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Rajkumar M,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Rajkumar M,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Rajkumar M,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Rajkumar M,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Rajkumar M,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Rajkumar M,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Rajkumar M,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Rajkumar M,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Rajkumar M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajkumar M,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Rajkumar M,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajkumar M,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Rajkumar M,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Rajkumar M,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajkumar M,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Rajkumar M,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajkumar M,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajkumar M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Rajkumar M,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Rajkumar M,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Rajkumar M,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Rajkumar M,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Rajkumar M,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Rajkumar M,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Rajkumar M,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Rajkumar M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Rajkumar M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Rajkumar M,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Raju K,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Raju K,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Raju K,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Raju K,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Raju K,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Raju K,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Raju K,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Raju K,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Raju K,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Raju K,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Raju K,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Raju K,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Raju K,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Raju K,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Raju K,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Raju K,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Raju K,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Raju K,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Raju K,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Raju K,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Raju K,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Raju K,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Raju K,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Raju K,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Raju K,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Raju K,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Raju K,Thu,T7,1.00-1.50,Theory,AI23231 (Lecture),Slot Type A
+Raju K,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Raju K,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Raju K,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Raju K,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Raju K,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Raju K,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Raju K,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Raju K,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Raju K,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Raju K,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Raju K,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Raju K,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Raju K,Sat,T8,2.00-2.50,Theory,AI23231 (Lecture),Slot Type B
+Raju K,Sat,T9,3.00-3.50,Theory,AI23231 (Lecture),Slot Type B
+Raju K,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Raju K,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Raju K,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Raju K,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Raju K,Tue,L4,1.20-2.10/2.10-3.00,Lab,AI23231 (Practical),Slot Type C
+Raju K,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Raju K,Tue,L6,5.10-6.00/6.00-6.50,Lab,AI23231 (Practical),Slot Type C
+Raju K,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Raju K,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Raju K,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Raju K,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Raju K,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Raju K,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Raju K,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Raju K,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Raju K,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Raju K,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Raju K,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Raju K,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Raju K,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Raju K,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Raju K,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Raju K,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Ramasubramanian G  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Ramasubramanian G  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Ramasubramanian G  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Ramasubramanian G  -,Mon,T7,1.00-1.50,Theory,GE23217 (Lecture),Slot Type B
+Ramasubramanian G  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Ramasubramanian G  -,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Ramasubramanian G  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Ramasubramanian G  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Ramasubramanian G  -,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Ramasubramanian G  -,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Ramasubramanian G  -,Tue,T9,3.00-3.50,Theory,CS23432 (Lecture),Slot Type C
+Ramasubramanian G  -,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Ramasubramanian G  -,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Ramasubramanian G  -,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Ramasubramanian G  -,Wed,T1,8.00-8.50,Theory,CS23432 (Lecture),Slot Type A
+Ramasubramanian G  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Ramasubramanian G  -,Wed,T3,10.00-10.50,Theory,CS23432 (Lecture),Slot Type A
+Ramasubramanian G  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Ramasubramanian G  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Ramasubramanian G  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Ramasubramanian G  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Ramasubramanian G  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Ramasubramanian G  -,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Ramasubramanian G  -,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Ramasubramanian G  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Ramasubramanian G  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Ramasubramanian G  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Ramasubramanian G  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,CS23431 (Practical),Slot Type B
+Ramasubramanian G  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Ramasubramanian G  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,CS23431 (Practical),Slot Type B
+Ramasubramanian G  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Ramasubramanian G  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Ramasubramanian G  -,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Ramasubramanian G  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Ramasubramanian G  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Ramasubramanian G  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Ramasubramanian G  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Ramasubramanian G  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Ramasubramanian G  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Ramasubramanian G  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,CS23432 (Practical),Slot Type A
+Ramasubramanian G  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Ramasubramanian G  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,CS23432 (Practical),Slot Type B
+Ramasubramanian G  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Ramasubramanian G  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Ramasubramanian G  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Ramasubramanian G  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Ramasubramanian G  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Ramasubramanian G  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Ramesh  G,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Ramesh  G,Mon,T4,11.00-11.50,Theory,GE23111 (Lecture),Slot Type B
+Ramesh  G,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Ramesh  G,Mon,T7,1.00-1.50,Theory,,Slot Type B
+Ramesh  G,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Ramesh  G,Mon,T9,3.00-3.50,Theory,,Slot Type B
+Ramesh  G,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Ramesh  G,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Ramesh  G,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Ramesh  G,Tue,T8,2.00-2.50,Theory,GE23111 (Tutorial),Slot Type C
+Ramesh  G,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Ramesh  G,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Ramesh  G,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Ramesh  G,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Ramesh  G,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Ramesh  G,Wed,T2,9.00-9.50,Theory,GE23111 (Tutorial),Slot Type A
+Ramesh  G,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Ramesh  G,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Ramesh  G,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Ramesh  G,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Ramesh  G,Wed,T8,2.00-2.50,Theory,GE23111 (Lecture),Slot Type A
+Ramesh  G,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Ramesh  G,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Ramesh  G,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Ramesh  G,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Ramesh  G,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Ramesh  G,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Ramesh  G,Thu,T10,4.00-4.50,Theory,GE23111 (Lecture),Slot Type B
+Ramesh  G,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Ramesh  G,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Ramesh  G,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Ramesh  G,Fri,T4,11.00-11.50,Theory,GE23111 (Lecture),Slot Type A
+Ramesh  G,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Ramesh  G,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Ramesh  G,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Ramesh  G,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Ramesh  G,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Ramesh  G,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Ramesh  G,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Ramesh  G,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Ramesh  G,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Ramesh  G,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Ramesh  G,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Ramesh  G,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Ramesh  G,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Ramesh  G,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Ramesh  G,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Ramesh  G,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Ramesh  G,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Ramesh  G,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Ramesh  G,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Ramesh  G,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Ramesh  G,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Ramesh  G,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Ramesh  G,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Ramesh  G,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Ramesh  G,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Ramesh  G,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Ramesh  G,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Ramesh  G,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Ramesh  G,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Ramesh  G,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Ramesh  G,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Ramesh  G,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Renuka B S,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Renuka B S,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Renuka B S,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Renuka B S,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Renuka B S,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Renuka B S,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Renuka B S,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Renuka B S,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Renuka B S,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Renuka B S,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Renuka B S,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Renuka B S,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Renuka B S,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Renuka B S,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Renuka B S,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Renuka B S,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Renuka B S,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Renuka B S,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Renuka B S,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Renuka B S,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Renuka B S,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Renuka B S,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Renuka B S,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Renuka B S,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Renuka B S,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Renuka B S,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Renuka B S,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Renuka B S,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Renuka B S,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Renuka B S,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Renuka B S,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Renuka B S,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Renuka B S,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Renuka B S,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Renuka B S,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Renuka B S,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Renuka B S,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Renuka B S,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Renuka B S,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Renuka B S,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Renuka B S,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Renuka B S,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Renuka B S,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Renuka B S,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Renuka B S,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Renuka B S,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Renuka B S,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Renuka B S,Tue,L2,10.00-10.50/10.50-11.40,Lab,HS23221 (Practical),Slot Type A
+Renuka B S,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Renuka B S,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Renuka B S,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Renuka B S,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Renuka B S,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Renuka B S,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Renuka B S,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Renuka B S,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Renuka B S,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Renuka B S,Fri,L3,11.40-12.30/12.30-1.20,Lab,HS23221 (Practical),Slot Type B
+Renuka B S,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Renuka B S,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Renuka B S,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Renuka B S,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Renuka B S,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Renuka B S,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+S Ramkumar,Mon,T1,8.00-8.50,Theory,,Slot Type A
+S Ramkumar,Mon,T2,9.00-9.50,Theory,,Slot Type A
+S Ramkumar,Mon,T3,10.00-10.50,Theory,,Slot Type A
+S Ramkumar,Mon,T4,11.00-11.50,Theory,,Slot Type A
+S Ramkumar,Mon,T5/T6,12.00-12.50,Theory,GE23111 (Lecture),Slot Type A
+S Ramkumar,Mon,T7,1.00-1.50,Theory,,Slot Type A
+S Ramkumar,Mon,T8,2.00-2.50,Theory,GE23111 (Lecture),Slot Type A
+S Ramkumar,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+S Ramkumar,Tue,T7,1.00-1.50,Theory,,Slot Type C
+S Ramkumar,Tue,T8,2.00-2.50,Theory,,Slot Type C
+S Ramkumar,Tue,T9,3.00-3.50,Theory,,Slot Type C
+S Ramkumar,Tue,T10,4.00-4.50,Theory,,Slot Type C
+S Ramkumar,Tue,T11,5.10-6.00,Theory,GE23111 (Tutorial),Slot Type C
+S Ramkumar,Tue,T12,6.10-7.00,Theory,,Slot Type C
+S Ramkumar,Wed,T3,10.00-10.50,Theory,,Slot Type B
+S Ramkumar,Wed,T4,11.00-11.50,Theory,,Slot Type B
+S Ramkumar,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+S Ramkumar,Wed,T7,1.00-1.50,Theory,,Slot Type B
+S Ramkumar,Wed,T8,2.00-2.50,Theory,,Slot Type B
+S Ramkumar,Wed,T9,3.00-3.50,Theory,,Slot Type B
+S Ramkumar,Wed,T10,4.00-4.50,Theory,,Slot Type B
+S Ramkumar,Thu,T3,10.00-10.50,Theory,,Slot Type B
+S Ramkumar,Thu,T4,11.00-11.50,Theory,,Slot Type B
+S Ramkumar,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+S Ramkumar,Thu,T7,1.00-1.50,Theory,,Slot Type B
+S Ramkumar,Thu,T8,2.00-2.50,Theory,GE23111 (Lecture),Slot Type B
+S Ramkumar,Thu,T9,3.00-3.50,Theory,GE23111 (Tutorial),Slot Type B
+S Ramkumar,Thu,T10,4.00-4.50,Theory,,Slot Type B
+S Ramkumar,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+S Ramkumar,Fri,T7,1.00-1.50,Theory,,Slot Type C
+S Ramkumar,Fri,T8,2.00-2.50,Theory,,Slot Type C
+S Ramkumar,Fri,T9,3.00-3.50,Theory,,Slot Type C
+S Ramkumar,Fri,T10,4.00-4.50,Theory,GE23111 (Lecture),Slot Type C
+S Ramkumar,Fri,T11,5.10-6.00,Theory,,Slot Type C
+S Ramkumar,Fri,T12,6.10-7.00,Theory,,Slot Type C
+S Ramkumar,Sat,T1,8.00-8.50,Theory,,Slot Type A
+S Ramkumar,Sat,T2,9.00-9.50,Theory,,Slot Type A
+S Ramkumar,Sat,T3,10.00-10.50,Theory,,Slot Type A
+S Ramkumar,Sat,T4,11.00-11.50,Theory,,Slot Type A
+S Ramkumar,Sat,T5/T6,12.00-12.50,Theory,,Slot Type A
+S Ramkumar,Sat,T7,1.00-1.50,Theory,,Slot Type A
+S Ramkumar,Sat,T8,2.00-2.50,Theory,,Slot Type A
+S Ramkumar,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+S Ramkumar,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+S Ramkumar,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+S Ramkumar,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+S Ramkumar,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+S Ramkumar,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+S Ramkumar,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+S Ramkumar,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+S Ramkumar,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+S Ramkumar,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+S Ramkumar,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+S Ramkumar,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+S Ramkumar,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+S Ramkumar,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+S Ramkumar,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+S Ramkumar,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+S Ramkumar,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+S Ramkumar,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+S Ramkumar,Sat,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+S Ramkumar,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+S Ramkumar,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+S Ramkumar,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Sathiragavan M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Sathiragavan M,Mon,T7,1.00-1.50,Theory,MA23434 (Lecture),Slot Type C
+Sathiragavan M,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Sathiragavan M,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Sathiragavan M,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Sathiragavan M,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Sathiragavan M,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Sathiragavan M,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Sathiragavan M,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Sathiragavan M,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Sathiragavan M,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Sathiragavan M,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Sathiragavan M,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Sathiragavan M,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Sathiragavan M,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Sathiragavan M,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Sathiragavan M,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Sathiragavan M,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Sathiragavan M,Fri,T1,8.00-8.50,Theory,MA23434 (Lecture),Slot Type A
+Sathiragavan M,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Sathiragavan M,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Sathiragavan M,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Sathiragavan M,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Sathiragavan M,Fri,T7,1.00-1.50,Theory,MA23434 (Lecture),Slot Type A
+Sathiragavan M,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Sathiragavan M,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Sathiragavan M,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Sathiragavan M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Sathiragavan M,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Sathiragavan M,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Sathiragavan M,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Sathiragavan M,Tue,L2,10.00-10.50/10.50-11.40,Lab,MA23434 (Practical),Slot Type A
+Sathiragavan M,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Sathiragavan M,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Sathiragavan M,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Sathiragavan M,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Sathiragavan M,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Sathiragavan M,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Sathiragavan M,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Sathiragavan M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Sathiragavan M,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Sathiragavan M,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Sathiragavan M,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Sathiragavan M,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Sathiragavan M,Fri,L4,1.20-2.10/2.10-3.00,Lab,MA23434 (Practical),Slot Type A
+Sathiragavan M,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Sathiragavan M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Sathiragavan M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Sathiragavan M,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Selvaraju P N  -,Mon,T3,10.00-10.50,Theory,,Slot Type B
+Selvaraju P N  -,Mon,T4,11.00-11.50,Theory,,Slot Type B
+Selvaraju P N  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type B
+Selvaraju P N  -,Mon,T7,1.00-1.50,Theory,GE23111 (Lecture),Slot Type B
+Selvaraju P N  -,Mon,T8,2.00-2.50,Theory,,Slot Type B
+Selvaraju P N  -,Mon,T9,3.00-3.50,Theory,GE23111 (Lecture),Slot Type B
+Selvaraju P N  -,Mon,T10,4.00-4.50,Theory,,Slot Type B
+Selvaraju P N  -,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Selvaraju P N  -,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Selvaraju P N  -,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Selvaraju P N  -,Tue,T4,11.00-11.50,Theory,GE23111 (Lecture),Slot Type A
+Selvaraju P N  -,Tue,T5/T6,12.00-12.50,Theory,GE23111 (Tutorial),Slot Type A
+Selvaraju P N  -,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Selvaraju P N  -,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Selvaraju P N  -,Wed,T3,10.00-10.50,Theory,,Slot Type B
+Selvaraju P N  -,Wed,T4,11.00-11.50,Theory,GE23111 (Lecture),Slot Type B
+Selvaraju P N  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type B
+Selvaraju P N  -,Wed,T7,1.00-1.50,Theory,GE23111 (Tutorial),Slot Type B
+Selvaraju P N  -,Wed,T8,2.00-2.50,Theory,,Slot Type B
+Selvaraju P N  -,Wed,T9,3.00-3.50,Theory,,Slot Type B
+Selvaraju P N  -,Wed,T10,4.00-4.50,Theory,,Slot Type B
+Selvaraju P N  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Selvaraju P N  -,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Selvaraju P N  -,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Selvaraju P N  -,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Selvaraju P N  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Selvaraju P N  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Selvaraju P N  -,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Selvaraju P N  -,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Selvaraju P N  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Selvaraju P N  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Selvaraju P N  -,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Selvaraju P N  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Selvaraju P N  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Selvaraju P N  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Selvaraju P N  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Selvaraju P N  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Selvaraju P N  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Selvaraju P N  -,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Selvaraju P N  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Selvaraju P N  -,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Selvaraju P N  -,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Selvaraju P N  -,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Selvaraju P N  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Selvaraju P N  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Selvaraju P N  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Selvaraju P N  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Selvaraju P N  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Selvaraju P N  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Shanthini C,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Shanthini C,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Shanthini C,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Shanthini C,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Shanthini C,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Shanthini C,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Shanthini C,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Shanthini C,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Shanthini C,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Shanthini C,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Shanthini C,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Shanthini C,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Shanthini C,Tue,T11,5.10-6.00,Theory,MA23434 (Lecture),Slot Type C
+Shanthini C,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Shanthini C,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Shanthini C,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Shanthini C,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Shanthini C,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Shanthini C,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Shanthini C,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Shanthini C,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Shanthini C,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Shanthini C,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Shanthini C,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Shanthini C,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Shanthini C,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Shanthini C,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Shanthini C,Thu,T12,6.10-7.00,Theory,MA23434 (Lecture),Slot Type C
+Shanthini C,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Shanthini C,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Shanthini C,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Shanthini C,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Shanthini C,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Shanthini C,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Shanthini C,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Shanthini C,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Shanthini C,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Shanthini C,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Shanthini C,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Shanthini C,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Shanthini C,Sat,T9,3.00-3.50,Theory,MA23434 (Lecture),Slot Type B
+Shanthini C,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Shanthini C,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Shanthini C,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Shanthini C,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Shanthini C,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Shanthini C,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Shanthini C,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Shanthini C,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Shanthini C,Wed,L1,8.00-8.50/8.50-9.40,Lab,MA23434 (Practical),Slot Type A
+Shanthini C,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Shanthini C,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Shanthini C,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Shanthini C,Thu,L4,1.20-2.10/2.10-3.00,Lab,MA23434 (Practical),Slot Type C
+Shanthini C,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Shanthini C,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Shanthini C,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Shanthini C,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Shanthini C,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Shanthini C,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Shanthini C,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Shanthini C,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Shanthini C,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Shanthini C,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Soundarya   M,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Soundarya   M,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Soundarya   M,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Soundarya   M,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Soundarya   M,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Soundarya   M,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Soundarya   M,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Soundarya   M,Tue,T1,8.00-8.50,Theory,,Slot Type A
+Soundarya   M,Tue,T2,9.00-9.50,Theory,,Slot Type A
+Soundarya   M,Tue,T3,10.00-10.50,Theory,,Slot Type A
+Soundarya   M,Tue,T4,11.00-11.50,Theory,,Slot Type A
+Soundarya   M,Tue,T5/T6,12.00-12.50,Theory,,Slot Type A
+Soundarya   M,Tue,T7,1.00-1.50,Theory,,Slot Type A
+Soundarya   M,Tue,T8,2.00-2.50,Theory,,Slot Type A
+Soundarya   M,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Soundarya   M,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Soundarya   M,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Soundarya   M,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Soundarya   M,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Soundarya   M,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Soundarya   M,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Soundarya   M,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Soundarya   M,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Soundarya   M,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Soundarya   M,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Soundarya   M,Thu,T8,2.00-2.50,Theory,GE23217 (Lecture),Slot Type B
+Soundarya   M,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Soundarya   M,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Soundarya   M,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Soundarya   M,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Soundarya   M,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Soundarya   M,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Soundarya   M,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Soundarya   M,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Soundarya   M,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Soundarya   M,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Soundarya   M,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Soundarya   M,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Soundarya   M,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Soundarya   M,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Soundarya   M,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Soundarya   M,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Soundarya   M,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Soundarya   M,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Soundarya   M,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Soundarya   M,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Soundarya   M,Tue,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Soundarya   M,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Soundarya   M,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Soundarya   M,Tue,L4,1.20-2.10/2.10-3.00,Lab,CS23221 (Practical),Slot Type A
+Soundarya   M,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Soundarya   M,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Soundarya   M,Wed,L6,5.10-6.00/6.00-6.50,Lab,CS23221 (Practical),Slot Type C
+Soundarya   M,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Soundarya   M,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Soundarya   M,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Soundarya   M,Thu,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type B
+Soundarya   M,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Soundarya   M,Fri,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type C
+Soundarya   M,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Soundarya   M,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Soundarya   M,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Soundarya   M,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Soundarya   M,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Sree Subha S  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Sree Subha S  -,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Sree Subha S  -,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Sree Subha S  -,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Sree Subha S  -,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Sree Subha S  -,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Sree Subha S  -,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Sree Subha S  -,Tue,T3,10.00-10.50,Theory,CS23431 (Lecture),Slot Type B
+Sree Subha S  -,Tue,T4,11.00-11.50,Theory,CS23231 (Lecture),Slot Type B
+Sree Subha S  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Sree Subha S  -,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Sree Subha S  -,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Sree Subha S  -,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Sree Subha S  -,Tue,T10,4.00-4.50,Theory,CS23231 (Lecture),Slot Type B
+Sree Subha S  -,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Sree Subha S  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Sree Subha S  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Sree Subha S  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Sree Subha S  -,Wed,T5/T6,12.00-12.50,Theory,CS23431 (Lecture),Slot Type A
+Sree Subha S  -,Wed,T7,1.00-1.50,Theory,CS23231 (Lecture),Slot Type A
+Sree Subha S  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Sree Subha S  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Sree Subha S  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Sree Subha S  -,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Sree Subha S  -,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Sree Subha S  -,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Sree Subha S  -,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Sree Subha S  -,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Sree Subha S  -,Fri,T12,6.10-7.00,Theory,CS23431 (Lecture),Slot Type C
+Sree Subha S  -,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Sree Subha S  -,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Sree Subha S  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Sree Subha S  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Sree Subha S  -,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Sree Subha S  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Sree Subha S  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Sree Subha S  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type B
+Sree Subha S  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Sree Subha S  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,CS23431 (Practical),Slot Type A
+Sree Subha S  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Sree Subha S  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Sree Subha S  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23431 (Practical),Slot Type A
+Sree Subha S  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+Sree Subha S  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Sree Subha S  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type A
+Sree Subha S  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Sree Subha S  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,CS23231 (Practical),Slot Type C
+Sree Subha S  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Sree Subha S  -,Fri,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Sree Subha S  -,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Sree Subha S  -,Sat,L3,11.40-12.30/12.30-1.20,Lab,CS23431 (Practical),Slot Type B
+Sree Subha S  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Sree Subha S  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,CS23431 (Practical),Slot Type B
+Unassigned,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Unassigned,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Unassigned,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Unassigned,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Unassigned,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Unassigned,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Unassigned,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Unassigned,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Unassigned,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Unassigned,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Unassigned,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Unassigned,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Unassigned,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Unassigned,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Unassigned,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Unassigned,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Unassigned,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Unassigned,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Unassigned,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Unassigned,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Unassigned,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Unassigned,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Unassigned,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Unassigned,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Unassigned,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Unassigned,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Unassigned,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Unassigned,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Unassigned,Fri,T5/T6,12.00-12.50,Theory,,Slot Type C
+Unassigned,Fri,T7,1.00-1.50,Theory,,Slot Type C
+Unassigned,Fri,T8,2.00-2.50,Theory,,Slot Type C
+Unassigned,Fri,T9,3.00-3.50,Theory,,Slot Type C
+Unassigned,Fri,T10,4.00-4.50,Theory,,Slot Type C
+Unassigned,Fri,T11,5.10-6.00,Theory,,Slot Type C
+Unassigned,Fri,T12,6.10-7.00,Theory,,Slot Type C
+Unassigned,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Unassigned,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Unassigned,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Unassigned,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Unassigned,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Unassigned,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Unassigned,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Unassigned,Mon,L4,1.20-2.10/2.10-3.00,Lab,CS23221 (Practical),Slot Type C
+Unassigned,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Unassigned,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Unassigned,Tue,L2,10.00-10.50/10.50-11.40,Lab,CS23431 (Practical),Slot Type B
+Unassigned,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Unassigned,Tue,L4,1.20-2.10/2.10-3.00,Lab,GE23111 (Practical),Slot Type B
+Unassigned,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Unassigned,Wed,L1,8.00-8.50/8.50-9.40,Lab,AI23431 (Practical),Slot Type A
+Unassigned,Wed,L2,10.00-10.50/10.50-11.40,Lab,AI23431 (Practical),Slot Type A
+Unassigned,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Unassigned,Wed,L4,1.20-2.10/2.10-3.00,Lab,CS23431 (Practical),Slot Type A
+Unassigned,Thu,L1,8.00-8.50/8.50-9.40,Lab,CS23231 (Practical),Slot Type A
+Unassigned,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Unassigned,Thu,L3,11.40-12.30/12.30-1.20,Lab,CS23231 (Practical),Slot Type A
+Unassigned,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Unassigned,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Unassigned,Fri,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type C
+Unassigned,Fri,L6,5.10-6.00/6.00-6.50,Lab,GE23111 (Practical),Slot Type C
+Unassigned,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Unassigned,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Unassigned,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Unassigned,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Vijay K  -,Mon,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vijay K  -,Mon,T7,1.00-1.50,Theory,,Slot Type C
+Vijay K  -,Mon,T8,2.00-2.50,Theory,,Slot Type C
+Vijay K  -,Mon,T9,3.00-3.50,Theory,,Slot Type C
+Vijay K  -,Mon,T10,4.00-4.50,Theory,,Slot Type C
+Vijay K  -,Mon,T11,5.10-6.00,Theory,,Slot Type C
+Vijay K  -,Mon,T12,6.10-7.00,Theory,,Slot Type C
+Vijay K  -,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Vijay K  -,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Vijay K  -,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Vijay K  -,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Vijay K  -,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Vijay K  -,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Vijay K  -,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Vijay K  -,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Vijay K  -,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Vijay K  -,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Vijay K  -,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Vijay K  -,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vijay K  -,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Vijay K  -,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Vijay K  -,Thu,T1,8.00-8.50,Theory,,Slot Type A
+Vijay K  -,Thu,T2,9.00-9.50,Theory,,Slot Type A
+Vijay K  -,Thu,T3,10.00-10.50,Theory,,Slot Type A
+Vijay K  -,Thu,T4,11.00-11.50,Theory,,Slot Type A
+Vijay K  -,Thu,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vijay K  -,Thu,T7,1.00-1.50,Theory,,Slot Type A
+Vijay K  -,Thu,T8,2.00-2.50,Theory,,Slot Type A
+Vijay K  -,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Vijay K  -,Fri,T4,11.00-11.50,Theory,,Slot Type B
+Vijay K  -,Fri,T5/T6,12.00-12.50,Theory,,Slot Type B
+Vijay K  -,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Vijay K  -,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Vijay K  -,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Vijay K  -,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Vijay K  -,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vijay K  -,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Vijay K  -,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Vijay K  -,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Vijay K  -,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Vijay K  -,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Vijay K  -,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Vijay K  -,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Vijay K  -,Mon,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vijay K  -,Mon,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Vijay K  -,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vijay K  -,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Vijay K  -,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vijay K  -,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Vijay K  -,Wed,L1,8.00-8.50/8.50-9.40,Lab,CS23221 (Practical),Slot Type A
+Vijay K  -,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vijay K  -,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vijay K  -,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Vijay K  -,Thu,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Vijay K  -,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vijay K  -,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vijay K  -,Thu,L4,1.20-2.10/2.10-3.00,Lab,CS23221 (Practical),Slot Type A
+Vijay K  -,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vijay K  -,Fri,L3,11.40-12.30/12.30-1.20,Lab,CS23221 (Practical),Slot Type B
+Vijay K  -,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vijay K  -,Fri,L5,3.00-3.50/3.50-4.40,Lab,CS23221 (Practical),Slot Type B
+Vijay K  -,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Vijay K  -,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vijay K  -,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Vijay Muthuswamy,Mon,T1,8.00-8.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T3,10.00-10.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Vijay Muthuswamy,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Vijay Muthuswamy,Tue,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T7,1.00-1.50,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T8,2.00-2.50,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T9,3.00-3.50,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T10,4.00-4.50,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T11,5.10-6.00,Theory,,Slot Type C
+Vijay Muthuswamy,Tue,T12,6.10-7.00,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T7,1.00-1.50,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T8,2.00-2.50,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T9,3.00-3.50,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T10,4.00-4.50,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T11,5.10-6.00,Theory,,Slot Type C
+Vijay Muthuswamy,Wed,T12,6.10-7.00,Theory,,Slot Type C
+Vijay Muthuswamy,Thu,T3,10.00-10.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T4,11.00-11.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T5/T6,12.00-12.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T7,1.00-1.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T8,2.00-2.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T9,3.00-3.50,Theory,,Slot Type B
+Vijay Muthuswamy,Thu,T10,4.00-4.50,Theory,,Slot Type B
+Vijay Muthuswamy,Fri,T1,8.00-8.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T2,9.00-9.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T3,10.00-10.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T4,11.00-11.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T7,1.00-1.50,Theory,,Slot Type A
+Vijay Muthuswamy,Fri,T8,2.00-2.50,Theory,,Slot Type A
+Vijay Muthuswamy,Sat,T3,10.00-10.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T4,11.00-11.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T5/T6,12.00-12.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T7,1.00-1.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T8,2.00-2.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T9,3.00-3.50,Theory,,Slot Type B
+Vijay Muthuswamy,Sat,T10,4.00-4.50,Theory,,Slot Type B
+Vijay Muthuswamy,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Vijay Muthuswamy,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vijay Muthuswamy,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vijay Muthuswamy,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Vijay Muthuswamy,Tue,L4,1.20-2.10/2.10-3.00,Lab,HS23221 (Practical),Slot Type C
+Vijay Muthuswamy,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vijay Muthuswamy,Tue,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Vijay Muthuswamy,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Vijay Muthuswamy,Wed,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vijay Muthuswamy,Wed,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Vijay Muthuswamy,Thu,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vijay Muthuswamy,Thu,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Vijay Muthuswamy,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vijay Muthuswamy,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Vijay Muthuswamy,Fri,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Vijay Muthuswamy,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vijay Muthuswamy,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vijay Muthuswamy,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Vijay Muthuswamy,Sat,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vijay Muthuswamy,Sat,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Vijay Muthuswamy,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vijay Muthuswamy,Sat,L5,3.00-3.50/3.50-4.40,Lab,HS23221 (Practical),Slot Type B
+Vikram S T,Mon,T1,8.00-8.50,Theory,MA23214 (Lecture),Slot Type A
+Vikram S T,Mon,T2,9.00-9.50,Theory,,Slot Type A
+Vikram S T,Mon,T3,10.00-10.50,Theory,MA23214 (Lecture),Slot Type A
+Vikram S T,Mon,T4,11.00-11.50,Theory,,Slot Type A
+Vikram S T,Mon,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vikram S T,Mon,T7,1.00-1.50,Theory,,Slot Type A
+Vikram S T,Mon,T8,2.00-2.50,Theory,,Slot Type A
+Vikram S T,Tue,T3,10.00-10.50,Theory,,Slot Type B
+Vikram S T,Tue,T4,11.00-11.50,Theory,,Slot Type B
+Vikram S T,Tue,T5/T6,12.00-12.50,Theory,,Slot Type B
+Vikram S T,Tue,T7,1.00-1.50,Theory,,Slot Type B
+Vikram S T,Tue,T8,2.00-2.50,Theory,,Slot Type B
+Vikram S T,Tue,T9,3.00-3.50,Theory,,Slot Type B
+Vikram S T,Tue,T10,4.00-4.50,Theory,,Slot Type B
+Vikram S T,Wed,T1,8.00-8.50,Theory,,Slot Type A
+Vikram S T,Wed,T2,9.00-9.50,Theory,,Slot Type A
+Vikram S T,Wed,T3,10.00-10.50,Theory,,Slot Type A
+Vikram S T,Wed,T4,11.00-11.50,Theory,,Slot Type A
+Vikram S T,Wed,T5/T6,12.00-12.50,Theory,,Slot Type A
+Vikram S T,Wed,T7,1.00-1.50,Theory,,Slot Type A
+Vikram S T,Wed,T8,2.00-2.50,Theory,,Slot Type A
+Vikram S T,Thu,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vikram S T,Thu,T7,1.00-1.50,Theory,,Slot Type C
+Vikram S T,Thu,T8,2.00-2.50,Theory,,Slot Type C
+Vikram S T,Thu,T9,3.00-3.50,Theory,,Slot Type C
+Vikram S T,Thu,T10,4.00-4.50,Theory,,Slot Type C
+Vikram S T,Thu,T11,5.10-6.00,Theory,,Slot Type C
+Vikram S T,Thu,T12,6.10-7.00,Theory,,Slot Type C
+Vikram S T,Fri,T3,10.00-10.50,Theory,,Slot Type B
+Vikram S T,Fri,T4,11.00-11.50,Theory,MA23214 (Tutorial),Slot Type B
+Vikram S T,Fri,T5/T6,12.00-12.50,Theory,MA23214 (Lecture),Slot Type B
+Vikram S T,Fri,T7,1.00-1.50,Theory,,Slot Type B
+Vikram S T,Fri,T8,2.00-2.50,Theory,,Slot Type B
+Vikram S T,Fri,T9,3.00-3.50,Theory,,Slot Type B
+Vikram S T,Fri,T10,4.00-4.50,Theory,,Slot Type B
+Vikram S T,Sat,T5/T6,12.00-12.50,Theory,,Slot Type C
+Vikram S T,Sat,T7,1.00-1.50,Theory,,Slot Type C
+Vikram S T,Sat,T8,2.00-2.50,Theory,,Slot Type C
+Vikram S T,Sat,T9,3.00-3.50,Theory,,Slot Type C
+Vikram S T,Sat,T10,4.00-4.50,Theory,,Slot Type C
+Vikram S T,Sat,T11,5.10-6.00,Theory,,Slot Type C
+Vikram S T,Sat,T12,6.10-7.00,Theory,,Slot Type C
+Vikram S T,Mon,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Vikram S T,Mon,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vikram S T,Mon,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vikram S T,Mon,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Vikram S T,Tue,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vikram S T,Tue,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Vikram S T,Tue,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vikram S T,Tue,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Vikram S T,Wed,L1,8.00-8.50/8.50-9.40,Lab,,Slot Type A
+Vikram S T,Wed,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type A
+Vikram S T,Wed,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type A
+Vikram S T,Wed,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type A
+Vikram S T,Thu,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Vikram S T,Thu,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vikram S T,Thu,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C
+Vikram S T,Fri,L2,10.00-10.50/10.50-11.40,Lab,,Slot Type B
+Vikram S T,Fri,L3,11.40-12.30/12.30-1.20,Lab,,Slot Type B
+Vikram S T,Fri,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type B
+Vikram S T,Fri,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type B
+Vikram S T,Sat,L4,1.20-2.10/2.10-3.00,Lab,,Slot Type C
+Vikram S T,Sat,L5,3.00-3.50/3.50-4.40,Lab,,Slot Type C
+Vikram S T,Sat,L6,5.10-6.00/6.00-6.50,Lab,,Slot Type C

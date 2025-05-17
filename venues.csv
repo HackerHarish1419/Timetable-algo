@@ -1,0 +1,1127 @@
+﻿S.NO,REGULATION,Year,SEMESTER,ODD EVEN,DEPARTMENT,Course Code,Course Title,L,T,P,C,"As per Regulation
+L/T/P",Category,Venue,Faculty
+1,2023,1,1,ODD,Aeronautical Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+2,2023,1,1,ODD,Aeronautical Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+3,2023,1,1,ODD,Aeronautical Engineering,PH23131,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+4,2023,1,1,ODD,Aeronautical Engineering,GE23111,Engineering Graphics,4,2,0,4,6,Theory,,Aeronautical Engineering
+5,2023,1,1,ODD,Aeronautical Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Aeronautical Engineering
+6,2023,1,1,ODD,Aeronautical Engineering,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Basic electronics lab-1,Electrical and Electronics Engineering
+7,2023,1,1,ODD,Aeronautical Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+8,2023,1,1,ODD,Aeronautical Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Aeronautical Engineering
+10,2023,1,2,EVEN,Aeronautical Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,2,0,0,1,2,Theory,,English
+11,2023,1,2,EVEN,Aeronautical Engineering,MA23212,"Differential Equation and Analytical 
+Complex Functions",3,1,0,4,4,Theory,,Mathematics
+12,2023,1,2,EVEN,Aeronautical Engineering,CY23223,Engineering Chemistry ,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+13,2023,1,2,EVEN,Aeronautical Engineering,GE23211,Engineering Mechanics,2,1,0,3,3,Theory,,Aeronautical Engineering
+14,2023,1,2,EVEN,Aeronautical Engineering,AE23211,Fundamentals of Aerospace Engineering ,3,0,0,3,3,Theory,,Aeronautical Engineering
+15,2023,1,2,EVEN,Aeronautical Engineering,GE23233,Problem Solving and Python Programming,2,0,4,4,6,LOT,Computer Lab,Aeronautical Engineering
+16,2023,1,2,EVEN,Aeronautical Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Aeronautical Engineering
+17,2023,1,2,EVEN,Aeronautical Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+18,2023,1,2,EVEN,Aeronautical Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electrical), Engineering Practices Lab (Electronics)",Electrical and Electronics Engineering
+20,2023,2,3,ODD,Aeronautical Engineering,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+21,2023,2,3,ODD,Aeronautical Engineering,AE23331,Solid Mechanics,2,1,2,4,5,LOT,Strength of Materials Lab,Aeronautical Engineering
+22,2023,2,3,ODD,Aeronautical Engineering,AE23332,Fluid Mechanics and Fluid Machinery,2,1,2,4,5,LOT,Fluid Mechanics Lab,Aeronautical Engineering
+23,2023,2,3,ODD,Aeronautical Engineering,AE23333,Aero Engineering Thermodynamics,2,1,2,4,5,LOT,Thermal Lab 1,Aeronautical Engineering
+24,2023,2,3,ODD,Aeronautical Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Aeronautical Engineering
+25,2023,2,3,ODD,Aeronautical Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+26,2023,2,3,ODD,Aeronautical Engineering,AE23321,Computer Aided Modelling Laboratory,0,0,4,2,4,Laboratory,Aero CAD Lab,Aeronautical Engineering
+27,2023,2,4,EVEN,Aeronautical Engineering,MA23432,Statistics and Numerical Methods,3,0,2,4,5,LOT,Computer Lab,Mathematics
+28,2023,2,4,EVEN,Aeronautical Engineering,AE23411,Aircraft Structures - I,2,1,0,3,3,Theory,,Aeronautical Engineering
+29,2023,2,4,EVEN,Aeronautical Engineering,AE23412,Control Engineering,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+30,2023,2,4,EVEN,Aeronautical Engineering,AE23431,Incompressible Aerodynamics,2,1,2,4,5,LOT,Aerodynamics Lab,Aeronautical Engineering
+31,2023,2,4,EVEN,Aeronautical Engineering,AE23432,Aircraft Materials and Processes,3,0,2,4,5,LOT,Aircraft Structures Lab,Aeronautical Engineering
+32,2023,2,4,EVEN,Aeronautical Engineering,AE23433,Aircraft Systems and Instruments,2,0,2,3,4,LOT,Airframe Repair and Aero Engine Lab,Aeronautical Engineering
+33,2023,2,4,EVEN,Aeronautical Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+35,2023,3,5,ODD,Aeronautical Engineering,AE23511,Aircraft Propulsion,2,1,0,3,3,Theory,,Aeronautical Engineering
+36,2023,3,5,ODD,Aeronautical Engineering,AE23512,Compressible Aerodynamics,2,1,0,3,3,Theory,,Aeronautical Engineering
+37,2023,3,5,ODD,Aeronautical Engineering,AE23513,Flight Dynamics,2,1,0,3,3,Theory,,Aeronautical Engineering
+38,2023,3,5,ODD,Aeronautical Engineering,AE23531,Aircraft Structures - II,2,1,2,4,5,LOT,Aircraft Structures Lab,Aeronautical Engineering
+39,2023,3,5,ODD,Aeronautical Engineering,AEPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+40,2023,3,5,ODD,Aeronautical Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+41,2023,3,5,ODD,Aeronautical Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+42,2023,3,5,ODD,Aeronautical Engineering,AE23521,Airframe and Aero Engine Laboratory,0,0,4,2,4,Laboratory,Airframe Repair and Aero Engine Lab,Aeronautical Engineering
+45,2023,3,6,EVEN,Aeronautical Engineering,AE23611,Rocket Propulsion,2,1,0,3,3,Theory,,Aeronautical Engineering
+46,2023,3,6,EVEN,Aeronautical Engineering,AE23612,Composite Materials and Structures,3,0,0,3,3,Theory,,Aeronautical Engineering
+47,2023,3,6,EVEN,Aeronautical Engineering,AE23631,Flight Vehicle Design,3,0,2,4,5,LOT,Aero CAD Lab,Aeronautical Engineering
+48,2023,3,6,EVEN,Aeronautical Engineering,AE23632,Innovation and Design Thinking for Engineers,0,0,2,2,2,Laboratory,,Aeronautical Engineering
+49,2023,3,6,EVEN,Aeronautical Engineering,AEPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+50,2023,3,6,EVEN,Aeronautical Engineering,AE23621,Artificial Intelligence and Machine Learning for Aeronautical Engineering,0,0,4,2,4,Laboratory,Aero CAD Lab,Aeronautical Engineering
+51,2023,3,6,EVEN,Aeronautical Engineering,AE23622,Jet propulsion Laboratory,0,0,4,2,4,Laboratory,Aerodynamics Lab,Aeronautical Engineering
+52,2023,3,6,EVEN,Aeronautical Engineering,AE23623,Computational Simulation Laboratory,0,0,4,2,4,Laboratory,Aero CAD Lab,Aeronautical Engineering
+53,2023,3,6,EVEN,Aeronautical Engineering,GE23627,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Aeronautical Engineering
+55,2023,4,7,ODD,Aeronautical Engineering,AE23731,Avionics,3,0,2,4,5,LOT,Avionics Lab,Aeronautical Engineering
+56,2023,4,7,ODD,Aeronautical Engineering,GE23711,Fundamentals of Management for Engineers,3,0,0,3,3,Theory,,Aeronautical Engineering
+57,2023,4,7,ODD,Aeronautical Engineering,AEPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+58,2023,4,7,ODD,Aeronautical Engineering,AEPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+59,2023,4,7,ODD,Aeronautical Engineering,AEPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+60,2023,4,7,ODD,Aeronautical Engineering,AE23721,Project Work (Phase - I),0,0,4,2,4,Laboratory,Project Hour,Aeronautical Engineering
+63,2023,4,8,EVEN,Aeronautical Engineering,AEPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Aeronautical Engineering
+64,2023,4,8,EVEN,Aeronautical Engineering,AE23821,Project Work (Phase - II),0,0,16,8,16,Laboratory,Project Hour,Aeronautical Engineering
+65,2023,1,1,ODD,Artificial Intelligence and Data Science,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+66,2023,1,1,ODD,Artificial Intelligence and Data Science,MA23116,Mathematical Foundations for AI,3,1,0,4,4,Theory,,Mathematics
+67,2023,1,1,ODD,Artificial Intelligence and Data Science,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,English
+68,2023,1,1,ODD,Artificial Intelligence and Data Science,PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+69,2023,1,1,ODD,Artificial Intelligence and Data Science,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+70,2023,1,1,ODD,Artificial Intelligence and Data Science,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+71,2023,1,1,ODD,Artificial Intelligence and Data Science,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+72,2023,1,1,ODD,Artificial Intelligence and Data Science,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Others,,Artificial Intelligence and Data Science
+73,2023,1,2,EVEN,Artificial Intelligence and Data Science,MA23214,Probability and Inferential Statistics,3,1,0,4,4,Theory,,Mathematics
+74,2023,1,2,EVEN,Artificial Intelligence and Data Science,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Artificial Intelligence and Data Science
+75,2023,1,2,EVEN,Artificial Intelligence and Data Science,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+76,2023,1,2,EVEN,Artificial Intelligence and Data Science,IT23231,Digital Logic and Computer Architecture,3,0,2,4,5,LOT,Digital Lab-1,Artificial Intelligence and Data Science
+77,2023,1,2,EVEN,Artificial Intelligence and Data Science,AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+78,2023,1,2,EVEN,Artificial Intelligence and Data Science,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+79,2023,1,2,EVEN,Artificial Intelligence and Data Science,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+80,2023,1,2,EVEN,Artificial Intelligence and Data Science,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+81,2023,1,2,EVEN,Artificial Intelligence and Data Science,CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Artificial Intelligence and Data Science
+82,2023,2,3,ODD,Artificial Intelligence and Data Science,MA23313,Discrete Mathematics for AI,3,1,0,4,4,Theory,,Mathematics
+83,2023,2,3,ODD,Artificial Intelligence and Data Science,AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+84,2023,2,3,ODD,Artificial Intelligence and Data Science,CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+85,2023,2,3,ODD,Artificial Intelligence and Data Science,CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+86,2023,2,3,ODD,Artificial Intelligence and Data Science,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+87,2023,2,3,ODD,Artificial Intelligence and Data Science,MC23112,Environmental Science and Engineering,3,0,0,0,3,LOT,,Chemistry
+88,2023,2,4,EVEN,Artificial Intelligence and Data Science,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+89,2023,2,4,EVEN,Artificial Intelligence and Data Science,MA23434,Optimization Techniques for AI,3,0,2,4,5,LOT,Computer Lab,Mathematics
+90,2023,2,4,EVEN,Artificial Intelligence and Data Science,AI23431,Web Technology and Mobile Application,1,0,4,3,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+91,2023,2,4,EVEN,Artificial Intelligence and Data Science,AD23431,Statistical Analysis and Computing,2,0,2,3,4,LOT,Computer Lab,Artificial Intelligence and Data Science
+92,2023,2,4,EVEN,Artificial Intelligence and Data Science,CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+93,2023,2,4,EVEN,Artificial Intelligence and Data Science,CS23432,Software Construction,3,0,2,4,5,Laboratory,Computer Lab,Artificial Intelligence and Data Science
+94,2023,2,4,EVEN,Artificial Intelligence and Data Science,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+96,2023,3,5,ODD,Artificial Intelligence and Data Science,ADPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+97,2023,3,5,ODD,Artificial Intelligence and Data Science,ADPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+98,2023,3,5,ODD,Artificial Intelligence and Data Science,BA23512,Fundamentals of Accounting,3,0,0,3,3,Theory,,Artificial Intelligence and Data Science
+99,2023,3,5,ODD,Artificial Intelligence and Data Science,AD23531,Architecture for Management of Large Data Sets,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+100,2023,3,5,ODD,Artificial Intelligence and Data Science,AD23532,Framework for Data and Visual Analytics,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+101,2023,3,5,ODD,Artificial Intelligence and Data Science,CS23532,Computer Networks,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Data Science
+102,2023,3,5,ODD,Artificial Intelligence and Data Science,AD23521,Data Science Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Artificial Intelligence and Data Science
+103,2023,3,5,ODD,Artificial Intelligence and Data Science,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+104,2023,3,6,EVEN,Artificial Intelligence and Data Science,ADPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+105,2023,3,6,EVEN,Artificial Intelligence and Data Science,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+106,2023,3,6,EVEN,Artificial Intelligence and Data Science,AD23631,Data Privacy and Security,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+107,2023,3,6,EVEN,Artificial Intelligence and Data Science,AD23632,Deep Neural Networks,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+108,2023,3,6,EVEN,Artificial Intelligence and Data Science,AD23633,Design Thinking for Innovation in Data Science,1,0,2,2,3,LOT,Project Hour,Artificial Intelligence and Data Science
+109,2023,3,6,EVEN,Artificial Intelligence and Data Science,GE23622,Problem Solving Techniques,0,0,2,1,2,Others,,Placement
+110,2023,4,7,ODD,Artificial Intelligence and Data Science,ADPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+111,2023,4,7,ODD,Artificial Intelligence and Data Science,AI23712,Reinforcement Learning,3,0,0,3,3,Theory,,Artificial Intelligence and Data Science
+112,2023,4,7,ODD,Artificial Intelligence and Data Science,IT23731,Cloud and Big data Architecture,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Data Science
+113,2023,4,7,ODD,Artificial Intelligence and Data Science,AD23521,Toolkit for Data Science,0,0,2,1,2,Laboratory,Computer Lab,Artificial Intelligence and Data Science
+114,2023,4,7,ODD,Artificial Intelligence and Data Science,AD23722,Project Work (Phase - I),0,0,8,4,8,Laboratory,Project Hour,Artificial Intelligence and Data Science
+115,2023,4,8,EVEN,Artificial Intelligence and Data Science,ADPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+116,2023,4,8,EVEN,Artificial Intelligence and Data Science,ADPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Data Science
+117,2023,4,8,EVEN,Artificial Intelligence and Data Science,AD23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Artificial Intelligence and Data Science
+118,2023,1,1,ODD,Artificial Intelligence and Machine Learning,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+119,2023,1,1,ODD,Artificial Intelligence and Machine Learning,MA23116,Mathematical Foundations for AI,3,1,0,4,4,Theory,,Mathematics
+120,2023,1,1,ODD,Artificial Intelligence and Machine Learning,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,English
+121,2023,1,1,ODD,Artificial Intelligence and Machine Learning,PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+122,2023,1,1,ODD,Artificial Intelligence and Machine Learning,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+123,2023,1,1,ODD,Artificial Intelligence and Machine Learning,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+124,2023,1,1,ODD,Artificial Intelligence and Machine Learning,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electrical), Engineering Practices Lab (Electronics)",Electrical and Electronics Engineering
+125,2023,1,1,ODD,Artificial Intelligence and Machine Learning,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Mechanical Engineering
+127,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,MA23214,Probability and Inferential Statistics,3,1,0,4,4,Theory,,Mathematics
+128,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,GE23111,Engineering Graphics,2,2,0,4,6,Theory,,Mechanical Engineering
+129,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Artificial Intelligence and Machine Learning
+130,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,IT23231,Digital Logic and Computer Architecture,3,0,2,4,5,LOT,Digital Lab-1,Electronics and Communication Engineering
+131,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+132,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+133,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,HS23222/HS23223,Technical Communication II / English for Professional Competence,0,0,2,1,2,Theory,,English
+134,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+135,2023,1,2,EVEN,Artificial Intelligence and Machine Learning,CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Artificial Intelligence and Machine Learning
+136,2023,2,3,ODD,Artificial Intelligence and Machine Learning,MA23313,Discrete Mathematics for AI,3,1,0,4,4,Theory,,Mathematics
+137,2023,2,3,ODD,Artificial Intelligence and Machine Learning,BA23512,Fundamentals of Accounting,3,0,0,3,3,Theory,,MBA
+138,2023,2,3,ODD,Artificial Intelligence and Machine Learning,AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+139,2023,2,3,ODD,Artificial Intelligence and Machine Learning,CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+140,2023,2,3,ODD,Artificial Intelligence and Machine Learning,CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+141,2023,2,3,ODD,Artificial Intelligence and Machine Learning,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+142,2023,2,3,ODD,Artificial Intelligence and Machine Learning,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+143,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+144,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,MA23434,Optimization Techniques for AI,3,0,2,4,5,LOT,Computer Lab,Mathematics
+145,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,AI23431,Web Technology and Mobile Application,1,0,4,3,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+146,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+147,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,CS23432,Software Construction,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+148,2023,2,4,EVEN,Artificial Intelligence and Machine Learning,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+150,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AIPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Machine Learning
+151,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AIPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Machine Learning
+152,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AI23531,Deep Learning,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+153,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AD23532,Framework for Data and Visual Analytics,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+154,2023,3,5,ODD,Artificial Intelligence and Machine Learning,CS23532,Computer Networks,3,0,4,5,7,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+155,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AI23521,Build and Deploy Machine Learning Applications,0,0,2,1,2,Laboratory,Computer Lab,Artificial Intelligence and Machine Learning
+156,2023,3,5,ODD,Artificial Intelligence and Machine Learning,AD23521,Data Science Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Artificial Intelligence and Machine Learning
+157,2023,3,5,ODD,Artificial Intelligence and Machine Learning,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+159,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,AIPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,Computer Lab,Artificial Intelligence and Machine Learning
+160,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+161,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,AI23611,Secure Systems Engineering,3,0,0,3,3,Theory,,Artificial Intelligence and Machine Learning
+162,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,AI23631,Predictive and Prescriptive Analytics,3,0,2,4,5,LOT,,Artificial Intelligence and Machine Learning
+163,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,AI23632,Foundations of Natural Language Processing,3,0,2,4,5,LOT,,Artificial Intelligence and Machine Learning
+164,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,AI23633,Design Thinking for Innovation in Machine Learning,1,0,2,2,3,LOT,Project Hour,Artificial Intelligence and Machine Learning
+165,2023,3,6,EVEN,Artificial Intelligence and Machine Learning,GE23622,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Placement
+167,2023,4,7,ODD,Artificial Intelligence and Machine Learning,AIPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,Computer Lab,Artificial Intelligence and Machine Learning
+168,2023,4,7,ODD,Artificial Intelligence and Machine Learning,AI23711,Social and Ethical Issues in AI,1,0,0,1,1,Theory,,Artificial Intelligence and Machine Learning
+169,2023,4,7,ODD,Artificial Intelligence and Machine Learning,AI23712,Reinforcement Learning,3,0,0,3,3,Theory,,Artificial Intelligence and Machine Learning
+170,2023,4,7,ODD,Artificial Intelligence and Machine Learning,IT23731,Cloud and Big data Architecture,3,0,2,4,5,LOT,Computer Lab,Artificial Intelligence and Machine Learning
+171,2023,4,7,ODD,Artificial Intelligence and Machine Learning,AI23721,Project Work (Phase - I),0,0,8,4,8,Laboratory,Project Hour,Artificial Intelligence and Machine Learning
+173,2023,4,8,EVEN,Artificial Intelligence and Machine Learning,AIPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Machine Learning
+174,2023,4,8,EVEN,Artificial Intelligence and Machine Learning,AIPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Artificial Intelligence and Machine Learning
+175,2023,4,8,EVEN,Artificial Intelligence and Machine Learning,AI23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Artificial Intelligence and Machine Learning
+176,2023,1,1,ODD,Automobile Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+177,2023,1,1,ODD,Automobile Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+178,2023,1,1,ODD,Automobile Engineering,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Automobile Engineering
+179,2023,1,1,ODD,Automobile Engineering,AT23111,Production Technology - I,3,0,0,3,3,Theory,,Automobile Engineering
+180,2023,1,1,ODD,Automobile Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Automobile Engineering
+181,2023,1,1,ODD,Automobile Engineering,PH23131,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+182,2023,1,1,ODD,Automobile Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Automobile Engineering
+183,2023,1,1,ODD,Automobile Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+185,2023,1,2,EVEN,Automobile Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+186,2023,1,2,EVEN,Automobile Engineering,GE23211,Engineering Mechanics,2,1,0,3,3,Theory,,Automobile Engineering
+187,2023,1,2,EVEN,Automobile Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Automobile Engineering
+188,2023,1,2,EVEN,Automobile Engineering,CY23223,Engineering Chemistry ,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+189,2023,1,2,EVEN,Automobile Engineering,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+190,2023,1,2,EVEN,Automobile Engineering,GE23231,Programming Using Python,1,0,4,3,5,LOT,Auto CAD Lab,Automobile Engineering
+191,2023,1,2,EVEN,Automobile Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+192,2023,1,2,EVEN,Automobile Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+193,2023,1,2,EVEN,Automobile Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+194,2023,2,3,ODD,Automobile Engineering,MA23331,Transforms and Statistics,3,0,2,4,5,LOT,Computer Lab,Automobile Engineering
+195,2023,2,3,ODD,Automobile Engineering,AT23331,Automotive Engines,3,0,2,4,5,LOT,Thermal Lab 2,Automobile Engineering
+196,2023,2,3,ODD,Automobile Engineering,AT23332,Applied Thermodynamics,2,1,2,4,5,LOT,Thermal Lab 1,Automobile Engineering
+197,2023,2,3,ODD,Automobile Engineering,AT23333,Strength of Materials for Automobile Engineers,2,1,2,4,5,LOT,Strength of Materials Lab,Automobile Engineering
+198,2023,2,3,ODD,Automobile Engineering,AT23334,Production Technology - II,3,0,2,4,5,LOT,Manufacturing Technology II,Automobile Engineering
+199,2023,2,3,ODD,Automobile Engineering,AT23321,Computer Aided Machine Drawing Laboratory,0,0,4,2,4,Laboratory,Auto CAD Lab,Automobile Engineering
+201,2023,2,4,EVEN,Automobile Engineering,AT23411,Electric and Hybrid Vehicles - I,3,0,0,3,3,Theory,,Automobile Engineering
+202,2023,2,4,EVEN,Automobile Engineering,AT23412,Engineering Materials and Metallurgy,3,0,0,3,3,Theory,,Automobile Engineering
+203,2023,2,4,EVEN,Automobile Engineering,AT23431,Automotive Drive Line and Chassis,3,0,2,4,5,LOT,Automotive Componenets lab,Automobile Engineering
+204,2023,2,4,EVEN,Automobile Engineering,AT23432,Fluid Mechanics and Machinery for Automobile Engineers,2,1,2,4,5,LOT,Fluid Mechanics Lab,Automobile Engineering
+205,2023,2,4,EVEN,Automobile Engineering,AT23433,Theory of Machines,2,1,2,4,5,LOT,Fluid Mechanics Lab,Automobile Engineering
+206,2023,2,4,EVEN,Automobile Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,LOT,Computer Lab,Automobile Engineering
+207,2023,2,4,EVEN,Automobile Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+209,2023,3,5,ODD,Automobile Engineering,AT23511,Machine Design,2,1,0,3,3,Theory,,Automobile Engineering
+210,2023,3,5,ODD,Automobile Engineering,GE23311,Fundamentals of Management for Engineers,3,0,0,3,3,Theory,,Automobile Engineering
+211,2023,3,5,ODD,Automobile Engineering,ATPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Automobile Engineering
+212,2023,3,5,ODD,Automobile Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+213,2023,3,5,ODD,Automobile Engineering,AT23531,Automotive Electrical and Electronics,3,0,2,4,5,LOT,Electrical Machines I Lab,Automobile Engineering
+214,2023,3,5,ODD,Automobile Engineering,AT23532,Electric and Hybrid Vehicles - II,3,0,2,4,5,LOT,Auto CAD Lab,Automobile Engineering
+215,2023,3,5,ODD,Automobile Engineering,AT23521,Two and Three wheelers Laboratory,0,0,2,1,2,Laboratory,Automotive Componenets lab,Automobile Engineering
+216,2023,3,5,ODD,Automobile Engineering,AT23522,Computer Aided Vehicle Design Data Characteristics Laboratory,0,0,2,1,2,Laboratory,Auto CAD Lab,Automobile Engineering
+217,2023,3,5,ODD,Automobile Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+219,2023,3,6,EVEN,Automobile Engineering,ATPE2,Professional Elective – II,3,0,0,3,3+0+0,Professional Elective,,Automobile Engineering
+220,2023,3,6,EVEN,Automobile Engineering,OE - 2,Open Elective - II,3,0,0,3,3+0+0,Open Elective,,Common Open Elective
+221,2023,3,6,EVEN,Automobile Engineering,AT23631,Automotive System Design,2,1,2,4,2+1+2,LOT,Auto CAD Lab,Automobile Engineering
+222,2023,3,6,EVEN,Automobile Engineering,AT23632,Vehicle Dynamics,2,1,2,4,2+1+2,LOT,Auto CAD Lab,Automobile Engineering
+223,2023,3,6,EVEN,Automobile Engineering,AT23633,Automotive Fuels and Lubricants,3,0,2,4,3+0+2,LOT,Vehicle Maintenance lab,Automobile Engineering
+224,2023,3,6,EVEN,Automobile Engineering,GE23627,Problem Solving Techniques,0,0,2,1,0+0+2,Others,,Placement
+225,2023,3,6,EVEN,Automobile Engineering,AT23621,Design Thinking and Innovation for Automobile Engineers,0,0,4,2,0+0+4,Laboratory,,Automobile Engineering
+227,2023,4,7,ODD,Automobile Engineering,AT23711,Automotive Pollution and Control,3,0,0,3,3,Theory,,Automobile Engineering
+228,2023,4,7,ODD,Automobile Engineering,AT23712,Intelligent Vehicle System,3,0,0,3,3,Theory,,Automobile Engineering
+229,2023,4,7,ODD,Automobile Engineering,AT23713,Automotive Safety,3,0,0,3,3,Theory,,Automobile Engineering
+230,2023,4,7,ODD,Automobile Engineering,ATPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Automobile Engineering
+231,2023,4,7,ODD,Automobile Engineering,AT23721,AI and ML for Automobile Engineers,0,0,4,2,4,LOT,Computer Lab,Automobile Engineering
+232,2023,4,7,ODD,Automobile Engineering,AT23722,Vehicle Maintenance Laboratory,0,0,2,1,2,Laboratory,Automotive Componenets lab,Automobile Engineering
+233,2023,4,7,ODD,Automobile Engineering,AT23723,Computer Aided Analysis laboratory,0,0,2,1,2,Laboratory,Auto CAD Lab,Automobile Engineering
+234,2023,4,7,ODD,Automobile Engineering,AT237X,Industrial Training,0,0,2,1,2,Others,Project Hour,Automobile Engineering
+236,2023,4,8,EVEN,Automobile Engineering,ATPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Automobile Engineering
+237,2023,4,8,EVEN,Automobile Engineering,ATPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Automobile Engineering
+238,2023,4,8,EVEN,Automobile Engineering,AT23821,Project Work,0,0,20,10,20,Laboratory,Project Hour,Automobile Engineering
+239,2023,1,1,ODD,Biomedical Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+240,2023,1,1,ODD,Biomedical Engineering,MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+241,2023,1,1,ODD,Biomedical Engineering,GE23111,Engineering Graphics,2,2,0,4,6,Theory,,Mechanical Engineering
+242,2023,1,1,ODD,Biomedical Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Biomedical Engineering
+243,2023,1,1,ODD,Biomedical Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+244,2023,1,1,ODD,Biomedical Engineering,CY23131,Chemistry For Electronics Engineering,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+245,2023,1,1,ODD,Biomedical Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+247,2023,1,2,EVEN,Biomedical Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+248,2023,1,2,EVEN,Biomedical Engineering,ME23211,Engineering Mechanics for Biomedical Engineers,3,1,0,4,4,Theory,,Mechanical Engineering
+249,2023,1,2,EVEN,Biomedical Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Biomedical Engineering
+250,2023,1,2,EVEN,Biomedical Engineering,CS23232,Fundamentals of Data Structures using C,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+251,2023,1,2,EVEN,Biomedical Engineering,PH23231,Physics for Bioscience,3,0,2,4,5,LOT,Physics Lab,Physics
+252,2023,1,2,EVEN,Biomedical Engineering,BM23231,Electric Circuits and Machines,3,0,2,4,5,LOT,Engineering Practices Lab (Electronics),Biomedical Engineering
+253,2023,1,2,EVEN,Biomedical Engineering,HS23222/HS23223,Technical Communication II / English for Professional Competence,0,0,2,1,2,Laboratory,,English
+254,2023,1,2,EVEN,Biomedical Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+255,2023,2,3,ODD,Biomedical Engineering,MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+256,2023,2,3,ODD,Biomedical Engineering,BM23311,Human Anatomy and Physiology,3,0,0,3,3,Theory,,Biomedical Engineering
+257,2023,2,3,ODD,Biomedical Engineering,BM23312,Biomedical Instrumentation,3,0,0,3,3,Theory,,Biomedical Engineering
+258,2023,2,3,ODD,Biomedical Engineering,BM23313,Biochemical Science,3,0,0,3,3,Theory,,Biomedical Engineering
+259,2023,2,3,ODD,Biomedical Engineering,BM23331,Electronic Devices & Circuits,3,0,2,4,5,LOT,Electronics and instrumentation,Biomedical Engineering
+260,2023,2,3,ODD,Biomedical Engineering,BM23332,Sensors and Measurements,2,0,2,3,4,LOT,Power Electronics Lab,Biomedical Engineering
+261,2023,2,3,ODD,Biomedical Engineering,BM23321,Biochemistry and Physiology Laboratory,0,0,4,2,4,Laboratory,Biochemistry lab,Biomedical Engineering
+262,2023,2,3,ODD,Biomedical Engineering,BM23322,Biomedical Instrumentation Laboratory,0,0,4,2,4,Laboratory,Diagnostic and therapeutic equipment lab,Biomedical Engineering
+264,2023,2,4,EVEN,Biomedical Engineering,BM23411,Analog and Digital Integrated Circuits,3,0,0,3,3,Theory,,Biomedical Engineering
+265,2023,2,4,EVEN,Biomedical Engineering,BM23412,Principles of Communication Systems,3,0,0,3,3,Theory,,Biomedical Engineering
+266,2023,2,4,EVEN,Biomedical Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Biomedical Engineering
+267,2023,2,4,EVEN,Biomedical Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+268,2023,2,4,EVEN,Biomedical Engineering,MA23416,Probability and Random Process,3,1,0,4,4,Theory,,Mathematics
+269,2023,2,4,EVEN,Biomedical Engineering,BM23431,Pathology and Microbiology,2,0,2,3,4,LOT,microbiology lab,Biomedical Engineering
+270,2023,2,4,EVEN,Biomedical Engineering,CS23336,Introduction to Python Programming,1,0,4,3,5,LOT,Computer Lab,Computer Science and Engineering
+271,2023,2,4,EVEN,Biomedical Engineering,BM23421,Analog and Digital Integrated Circuits Laboratory,0,0,4,2,4,Laboratory,Electronics and instrumentation,Biomedical Engineering
+272,2023,2,4,EVEN,Biomedical Engineering,BM23422,PCB Design Laboratory,0,0,2,1,2,Laboratory,Medical Image processing lab,Biomedical Engineering
+273,2023,2,4,EVEN,Biomedical Engineering,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+274,2023,3,5,ODD,Biomedical Engineering,BM23511,Biocontrol systems,3,0,0,3,3,Theory,,Biomedical Engineering
+275,2023,3,5,ODD,Biomedical Engineering,BM23512,Diagnostic and Therapeutic Equipment,3,0,0,3,3,Theory,,Biomedical Engineering
+276,2023,3,5,ODD,Biomedical Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+277,2023,3,5,ODD,Biomedical Engineering,BMPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+278,2023,3,5,ODD,Biomedical Engineering,BM23531,Signals and Systems Analysis,1,1,2,3,4,LOT,Medical Image processing lab,Biomedical Engineering
+279,2023,3,5,ODD,Biomedical Engineering,BM23532,Microcontroller and Embedded System Design,3,0,2,4,5,LOT,Microprocessor lab-1,Biomedical Engineering
+280,2023,3,5,ODD,Biomedical Engineering,CS23422,Python Programming for Machine Learning,1,0,4,3,4,LOT,Computer Lab,Computer Science and Engineering
+281,2023,3,5,ODD,Biomedical Engineering,BM23521,Diagnostic and Therapeutic Equipment Laboratory,0,0,4,2,4,Laboratory,Diagnostic and therapeutic equipment lab,Biomedical Engineering
+282,2023,3,5,ODD,Biomedical Engineering,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+283,2023,3,6,EVEN,Biomedical Engineering,BM23611,Radiological Equipment,3,0,0,3,3,Theory,,Biomedical Engineering
+284,2023,3,6,EVEN,Biomedical Engineering,BM23612,Biomechanics,3,1,0,4,4,Theory,,Biomedical Engineering
+285,2023,3,6,EVEN,Biomedical Engineering,BMPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+286,2023,3,6,EVEN,Biomedical Engineering,BMPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+287,2023,3,6,EVEN,Biomedical Engineering,BM23631,Biosignal Processing,1,1,2,3,4,LOT,Medical Image processing lab,Biomedical Engineering
+288,2023,3,6,EVEN,Biomedical Engineering,BM23632,Physiological Modeling Laboratory,1,0,2,2,3,LOT,Medical Image processing lab,Biomedical Engineering
+289,2023,3,6,EVEN,Biomedical Engineering,BM23633,Design thinking for Innovation in Biomedical Engineering,1,0,2,2,3,LOT,Project Hour,Biomedical Engineering
+290,2023,3,6,EVEN,Biomedical Engineering,BM23621,Medical Industrial Training,0,0,2,1,2,Laboratory,,Biomedical Engineering
+291,2023,3,6,EVEN,Biomedical Engineering,GE23621,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Biomedical Engineering
+293,2023,4,7,ODD,Biomedical Engineering,BM23711,Comprehension In Biomedical Engineering,1,0,0,1,1,Theory,,Biomedical Engineering
+294,2023,4,7,ODD,Biomedical Engineering,BMPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+295,2023,4,7,ODD,Biomedical Engineering,BMPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+296,2023,4,7,ODD,Biomedical Engineering,BMPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Biomedical Engineering
+297,2023,4,7,ODD,Biomedical Engineering,BM23731,Medical Image Processing,2,1,2,4,5,LOT,Medical Image processing lab,Biomedical Engineering
+298,2023,4,7,ODD,Biomedical Engineering,BM23721,Artificial Intelligence and Machine learning for Biomedical Engineering,0,0,4,2,4,LOT,Diagnostic and therapeutic equipment lab,Biomedical Engineering
+299,2023,4,7,ODD,Biomedical Engineering,BM23722,Project Work (Phase - I),0,0,6,3,6,Laboratory,Project Hour,Biomedical Engineering
+300,2023,4,7,ODD,Biomedical Engineering,BM23723,Hospital Training,0,0,2,1,2,Laboratory,,Biomedical Engineering
+301,2023,4,7,ODD,Biomedical Engineering,VAP,Value Added Lab ,,,3,,,Laboratory,,Biomedical Engineering
+303,2023,4,8,EVEN,Biomedical Engineering,BM23821,Project Work (Phase - II),0,0,16,8,16,Laboratory,Project Hour,Biomedical Engineering
+304,2023,1,1,ODD,Biotechnology,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+305,2023,1,1,ODD,Biotechnology,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+306,2023,1,1,ODD,Biotechnology,CY23132,Chemistry for Technologists,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+307,2023,1,1,ODD,Biotechnology,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+308,2023,1,1,ODD,Biotechnology,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+309,2023,1,1,ODD,Biotechnology,BT23131,Microbiology,2,0,4,4,6,LOT,microbiology lab,Biotechnology
+310,2023,1,1,ODD,Biotechnology,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+311,2023,1,1,ODD,Biotechnology,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Biotechnology
+312,2023,1,2,EVEN,Biotechnology,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Theory,,English
+313,2023,1,2,EVEN,Biotechnology,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+314,2023,1,2,EVEN,Biotechnology,PH23231,Physics for Bioscience,3,0,2,4,5,LOT,Physics Lab,Physics
+315,2023,1,2,EVEN,Biotechnology,GE23231,Programming Using Python,1,0,4,3,5,LOT,Computer Lab,Computer Science and Engineering
+316,2023,1,2,EVEN,Biotechnology,GE23212,Basic Civil and Mechanical Engineering,3,0,0,3,3,Theory,,Mechanical Engineering
+317,2023,1,2,EVEN,Biotechnology,BT23211,Biochemistry,3,0,0,3,3,Theory,,Biotechnology
+318,2023,1,2,EVEN,Biotechnology,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+319,2023,1,2,EVEN,Biotechnology,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Biotechnology
+320,2023,1,2,EVEN,Biotechnology,BT23221,Biochemistry Laboratory,0,0,4,2,4,Laboratory,Biochemistry lab,Biotechnology
+321,2023,2,3,ODD,Biotechnology,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+322,2023,2,3,ODD,Biotechnology,BT23311,Enzyme Technology and Biotransformations,3,0,0,3,3,Theory,,Biotechnology
+323,2023,2,3,ODD,Biotechnology,BT23312,Stoichiometry and Fluid Mechanics,3,1,0,3,4,Theory,,Biotechnology
+324,2023,2,3,ODD,Biotechnology,BT23313,Molecular Biology,3,0,3,3,3,Theory,,Biotechnology
+325,2023,2,3,ODD,Biotechnology,BT23314,Cell Biology,3,0,0,3,3,Theory,,Biotechnology
+326,2023,2,3,ODD,Biotechnology,BT23321,Basic Food and Enzyme Technology Laboratory,0,0,2,1,2,Laboratory,microbiology lab,Biotechnology
+327,2023,2,3,ODD,Biotechnology,BT23331,Analytical Techniques in Biotechnology,2,0,2,3,4,LOT,Biochemistry lab,Biotechnology
+329,2023,2,4,EVEN,Biotechnology,MA23431,"Probability, Statistics and Reliability",3,0,2,4,5,LOT,Computer Lab,Mathematics
+330,2023,2,4,EVEN,Biotechnology,BT23411,Food Biotechnology,3,0,0,3,3,Theory,,Biotechnology
+331,2023,2,4,EVEN,Biotechnology,BT23412,Genetic Engineering,3,0,0,3,3,Theory,,Biotechnology
+332,2023,2,4,EVEN,Biotechnology,BT23413,Thermodynamics and Heat transfer,3,1,0,3,4,Theory,,Biotechnology
+333,2023,2,4,EVEN,Biotechnology,BT23414,Basic Industrial Biotechnology,3,0,0,3,3,Theory,,Biotechnology
+334,2023,2,4,EVEN,Biotechnology,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Information Technology
+335,2023,2,4,EVEN,Biotechnology,BT23421,Chemical Engineering Laboratory for Biotechnologists,0,0,4,2,4,Laboratory,Fluid Mechanics Lab,Biotechnology
+336,2023,2,4,EVEN,Biotechnology,BT23422,Molecular Biology and Genetic Engineering Laboratory,0,0,4,2,4,Laboratory,"Immunology lab, Genetic engineering lab",Biotechnology
+337,2023,2,4,EVEN,Biotechnology,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+338,2023,3,5,ODD,Biotechnology,BT23511,Bioprocess Principles,3,0,0,3,3,Theory,,Biotechnology
+339,2023,3,5,ODD,Biotechnology,BT23512,Bioinformatics,3,0,0,3,3,Theory,,Biotechnology
+340,2023,3,5,ODD,Biotechnology,BT23513,Separation Process Principles,3,1,0,3,4,Theory,,Biotechnology
+341,2023,3,5,ODD,Biotechnology,BTPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Biotechnology
+342,2023,3,5,ODD,Biotechnology,BTPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Biotechnology
+343,2023,3,5,ODD,Biotechnology,BTPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Biotechnology
+344,2023,3,5,ODD,Biotechnology,BT23521,Bioprocess Laboratory- I,0,0,4,2,4,Laboratory,Bioprocess lab,Biotechnology
+345,2023,3,5,ODD,Biotechnology,BT23522,Bioinformatics Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Biotechnology
+346,2023,3,5,ODD,Biotechnology,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+348,2023,3,6,EVEN,Biotechnology,BT23611,Bioprocess Technology,3,0,0,3,3,Theory,,Biotechnology
+349,2023,3,6,EVEN,Biotechnology,BT23612,Chemical Reaction Engineering,3,0,0,3,3,Theory,,Biotechnology
+350,2023,3,6,EVEN,Biotechnology,BTPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Biotechnology
+351,2023,3,6,EVEN,Biotechnology,BMPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Biotechnology
+352,2023,3,6,EVEN,Biotechnology,BMPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Biotechnology
+353,2023,3,6,EVEN,Biotechnology,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+354,2023,3,6,EVEN,Biotechnology,BT23621,Bioprocess Laboratory II,0,0,4,2,4,Laboratory,Bioprocess lab,Biotechnology
+355,2023,3,6,EVEN,Biotechnology,BT23622,Innovation and Design Thinking for Biotechnologists,0,0,4,2,4,Laboratory,Project Hour,Biotechnology
+356,2023,3,6,EVEN,Biotechnology,BT23623,Numerical Programming for Biotechnologists,0,0,2,1,2,Laboratory,Computer Lab,Biotechnology
+357,2023,3,6,EVEN,Biotechnology,GE23622,Problem Solving Techniques,0,0,2,1,2,Others,,Placement
+359,2023,4,7,ODD,Biotechnology,BT23711,Downstream Processing,3,0,0,3,3,Theory,,Biotechnology
+360,2023,4,7,ODD,Biotechnology,BT23712,Immunology,3,0,0,3,3,Theory,,Biotechnology
+361,2023,4,7,ODD,Biotechnology,BT23713,Protein Engineering,3,0,0,3,3,Theory,,Biotechnology
+362,2023,4,7,ODD,Biotechnology,BT23714,Comprehensive Course for Biotechnologists,2,0,0,2,2,Theory,,Biotechnology
+363,2023,4,7,ODD,Biotechnology,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+364,2023,4,7,ODD,Biotechnology,BT23721,Downstream Processing Lab,0,0,4,2,4,Laboratory,Downstream processing lab,Biotechnology
+365,2023,4,7,ODD,Biotechnology,BT23722,Immunology lab,0,0,4,2,4,Laboratory,Immunology lab,Biotechnology
+366,2023,4,7,ODD,Biotechnology,BT23723,Artificial Intelligence and Machine Learning for Biotechnologist,0,0,4,2,4,Laboratory,Computer Application in Chemical Engg lab,Biotechnology
+367,2023,4,7,ODD,Biotechnology,BT23724,Industry Training (2 weeks Training during vacation),0,0,0,1,0,Others,,Biotechnology
+368,2023,4,7,ODD,Biotechnology,CR23P62,Microfluidics Laboratory,0,0,2,1,2,Laboratory,MEMS Lab,Biotechnology
+370,2023,4,8,EVEN,Biotechnology,BT23821,Project Work,0,0,24,12,24,Laboratory,Project Hour,Biotechnology
+371,2023,1,1,ODD,Chemical Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+372,2023,1,1,ODD,Chemical Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+373,2023,1,1,ODD,Chemical Engineering,PH23111,Physics for Chemical Engineering,3,0,0,3,3,Theory,,Physics
+374,2023,1,1,ODD,Chemical Engineering,CY23312,Chemistry for Technologists,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+375,2023,1,1,ODD,Chemical Engineering,GE23111,Engineering Graphics,2,2,0,4,4,Theory,,Mechanical Engineering
+376,2023,1,1,ODD,Chemical Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electrical), Engineering Practices Lab (Electronics)",Mechanical Engineering
+377,2023,1,1,ODD,Chemical Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+378,2023,1,1,ODD,Chemical Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Chemical Engineering
+380,2023,1,2,EVEN,Chemical Engineering,HS23222/HS23223,Technical Communication II / English for Professional Competence,0,0,2,1,2,Theory,,English
+381,2023,1,2,EVEN,Chemical Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+382,2023,1,2,EVEN,Chemical Engineering,CH23211,Introduction to Chemical Engineering,3,0,0,3,3,Theory,,Chemical Engineering
+383,2023,1,2,EVEN,Chemical Engineering,GE23233,Problem Solving and Python Programming,2,0,4,4,4,LOT,Computer Lab,Computer Science and Engineering
+384,2023,1,2,EVEN,Chemical Engineering,PH23233,Material Science,3,0,2,4,4,LOT,Physics Lab,Physics
+385,2023,1,2,EVEN,Chemical Engineering,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,4,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+386,2023,1,2,EVEN,Chemical Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,1,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Civil Engineering
+387,2023,1,2,EVEN,Chemical Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Chemical Engineering
+388,2023,1,2,EVEN,Chemical Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Chemical Engineering
+389,2023,2,3,ODD,Chemical Engineering,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+390,2023,2,3,ODD,Chemical Engineering,CY23334,Physical and Organic Chemistry,3,0,2,4,4,LOT,Chemistry Lab,Chemistry
+391,2023,2,3,ODD,Chemical Engineering,CH23311,Solid Mechanics,2,1,0,3,3,Theory,,Chemical Engineering
+392,2023,2,3,ODD,Chemical Engineering,CH23312,Chemical Process Calculations,2,1,0,3,3,Theory,,Chemical Engineering
+393,2023,2,3,ODD,Chemical Engineering,CH23313,Chemical Process Industries,3,0,0,3,3,Theory,,Chemical Engineering
+394,2023,2,3,ODD,Chemical Engineering,CH23331,Fluid Mechanics for Chemical Engineers,3,1,2,4,6,LOT,Fluid Mechanics Lab,Chemical Engineering
+396,2023,2,4,EVEN,Chemical Engineering,MA23431,"Probability, Statistics and Reliability",3,0,2,4,4,Theory,,Mathematics
+397,2023,2,4,EVEN,Chemical Engineering,CH23411,Thermodynamics,3,0,0,3,3,Theory,,Chemical Engineering
+398,2023,2,4,EVEN,Chemical Engineering,CH23412,Heat Transfer,3,0,0,3,3,Theory,,Chemical Engineering
+399,2023,2,4,EVEN,Chemical Engineering,CH23431,Particle science and Technology,3,0,2,4,5,LOT,Particle Science and Technology Lab,Chemical Engineering
+400,2023,2,4,EVEN,Chemical Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+401,2023,2,4,EVEN,Chemical Engineering,CS23411,Python Programming for Machine Learning,1,0,4,3,3,LOT,Computer Application in Chemical Engg lab,Computer Science and Engineering
+402,2023,2,4,EVEN,Chemical Engineering,GE23327,Soft Skills – I,0,0,2,1,1,Laboratory,SoftSkill,Placement
+403,2023,2,4,EVEN,Chemical Engineering,CH23421,Technical Analysis Lab,0,0,4,2,4,Laboratory,Technical Analysis Lab,Chemical Engineering
+404,2023,3,5,ODD,Chemical Engineering,CH23511,Process Engineering Economics,3,0,0,3,3,Theory,,Chemical Engineering
+405,2023,3,5,ODD,Chemical Engineering,CH23512,Chemical Engineering Thermodynamics,3,0,0,3,3,Theory,,Chemical Engineering
+406,2023,3,5,ODD,Chemical Engineering,CH23513,Mass Transfer I,3,0,0,3,3,Theory,,Chemical Engineering
+407,2023,3,5,ODD,Chemical Engineering,CH23514,Chemical Reaction Engineering I,3,0,0,3,3,Theory,,Chemical Engineering
+408,2023,3,5,ODD,Chemical Engineering,CHPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Chemical Engineering
+409,2023,3,5,ODD,Chemical Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+410,2023,3,5,ODD,Chemical Engineering,GE23427,Soft Skills – II,0,0,2,1,1,Laboratory,SoftSkill,Placement
+411,2023,3,5,ODD,Chemical Engineering,CH23521,Heat Transfer Lab,0,0,4,2,4,Laboratory,Thermal Lab 1,Chemical Engineering
+412,2023,3,5,ODD,Chemical Engineering,CR23P51,Microfluidics Laboratory,0,0,2,1,,Laboratory,,Electrical and Electronics Engineering
+414,2023,3,6,EVEN,Chemical Engineering,CH23611,Mass Transfer II,3,0,0,3,3,Theory,,Chemical Engineering
+415,2023,3,6,EVEN,Chemical Engineering,CH23612,Chemical Reaction Engineering II,3,0,0,3,3,Theory,,Chemical Engineering
+416,2023,3,6,EVEN,Chemical Engineering,CH23613,Process Control,3,0,0,3,3,Theory,,Chemical Engineering
+417,2023,3,6,EVEN,Chemical Engineering,CH23614,Process Equipment Design,3,0,0,3,3,Theory,,Chemical Engineering
+418,2023,3,6,EVEN,Chemical Engineering,CHPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Chemical Engineering
+419,2023,3,6,EVEN,Chemical Engineering,GE23627,Problem Solving Techniques,0,0,2,1,1,Others,,Placement
+420,2023,3,6,EVEN,Chemical Engineering,CH23621,Mass Transfer Lab,0,0,4,2,4,Laboratory,Thermal Lab 1,Chemical Engineering
+421,2023,3,6,EVEN,Chemical Engineering,CH23622,Innovation and Design thinking for Chemical Engineers,0,0,4,2,4,Laboratory,Project Hour,Chemical Engineering
+422,2023,3,6,EVEN,Chemical Engineering,VAP,Value Added Program,,,,,,Others,,Chemical Engineering
+424,2023,4,7,ODD,Chemical Engineering,CH23711,Transport Phenomena,3,0,0,3,3,Theory,,Chemical Engineering
+425,2023,4,7,ODD,Chemical Engineering,CH23712,Comprehensive Chemical Engineering,3,0,0,3,3,Theory,,Chemical Engineering
+426,2023,4,7,ODD,Chemical Engineering,CH23713,Computer Applications in Chemical Engineering,3,0,0,3,3,Theory,,Chemical Engineering
+427,2023,4,7,ODD,Chemical Engineering,CH23714,Process Plant Utilities,3,0,0,3,3,Theory,,Chemical Engineering
+428,2023,4,7,ODD,Chemical Engineering,CHPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Chemical Engineering
+429,2023,4,7,ODD,Chemical Engineering,CHPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Chemical Engineering
+430,2023,4,7,ODD,Chemical Engineering,CH23721,Chemical Reaction Engineering lab,0,0,4,2,4,Laboratory,Chemical Reaction Engineering Lab,Chemical Engineering
+431,2023,4,7,ODD,Chemical Engineering,CH23722,Process Control Lab,0,0,4,2,4,Laboratory,Process Control Lab,Chemical Engineering
+432,2023,4,7,ODD,Chemical Engineering,CH23723,Artificial Intelligence and Machine Learning for Chemical Engineers,0,0,4,2,4,Laboratory,Computer Application in Chemical Engg lab,Chemical Engineering
+433,2023,4,8,EVEN,Chemical Engineering,CHPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Chemical Engineering
+434,2023,4,8,EVEN,Chemical Engineering,CH23811,Project Work,0,0,24,12,24,Laboratory,Project Hour,Chemical Engineering
+435,2023,1,1,ODD,Civil Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Civil Engineering
+436,2023,1,1,ODD,Civil Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+437,2023,1,1,ODD,Civil Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+438,2023,1,1,ODD,Civil Engineering,CE23111,Building Materials,3,0,0,3,3,Theory,,Civil Engineering
+439,2023,1,1,ODD,Civil Engineering,CE23112,Engineering Drawing for Civil Engineers,2,0,4,4,6,Theory,,Civil Engineering
+440,2023,1,1,ODD,Civil Engineering,PH23131,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+441,2023,1,1,ODD,Civil Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Civil Engineering
+442,2023,1,1,ODD,Civil Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+444,2023,1,2,EVEN,Civil Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Civil Engineering
+445,2023,1,2,EVEN,Civil Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+446,2023,1,2,EVEN,Civil Engineering,GE23211,Engineering Mechanics,2,1,0,3,3,Theory,,Civil Engineering
+447,2023,1,2,EVEN,Civil Engineering,CY23223,Engineering Chemistry ,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+448,2023,1,2,EVEN,Civil Engineering,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+449,2023,1,2,EVEN,Civil Engineering,GE23231,Programming Using Python,1,0,4,3,5,LOT,Computer Lab,Civil Engineering
+450,2023,1,2,EVEN,Civil Engineering,CE23221,Computer Aided Building Drawing for Civil Engineers,0,0,4,2,4,Laboratory,Computer Lab (Arch),Civil Engineering
+451,2023,1,2,EVEN,Civil Engineering,HS23221,Technical Communication II,0,0,2,1,2,Laboratory,,English
+452,2023,1,2,EVEN,Civil Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+453,2023,1,2,EVEN,Civil Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Civil Engineering
+454,2023,2,3,ODD,Civil Engineering,CE23311,Strength of Materials I,3,0,0,3,3,Theory,,Civil Engineering
+455,2023,2,3,ODD,Civil Engineering,CE23312,Fluid Mechanics,3,0,0,3,3,Theory,,Civil Engineering
+456,2023,2,3,ODD,Civil Engineering,CE23313,"Construction Techniques, Equipment and Practice",3,0,0,3,3,Theory,,Civil Engineering
+457,2023,2,3,ODD,Civil Engineering,CE23331,Surveying,3,0,2,4,5,LOT,Concrete & Survey Lab,Civil Engineering
+458,2023,2,3,ODD,Civil Engineering,MA23331,Transforms and Statistics,3,0,2,4,5,LOT,Computer Lab,Mathematics
+459,2023,2,3,ODD,Civil Engineering,CE23321,Construction Materials Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Civil Engineering
+460,2023,2,3,ODD,Civil Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Civil Engineering
+462,2023,2,4,EVEN,Civil Engineering,CE23411,Strength of Materials II,3,0,0,3,3,Theory,,Civil Engineering
+463,2023,2,4,EVEN,Civil Engineering,CE23412,Hydraulics and Irrigation Structures,3,0,0,3,3,Theory,,Civil Engineering
+464,2023,2,4,EVEN,Civil Engineering,CE23413,Water Supply Engineering,3,0,0,3,3,Theory,,Civil Engineering
+465,2023,2,4,EVEN,Civil Engineering,CE23414,Highway and Railway Engineering,3,0,0,3,3,Theory,,Civil Engineering
+466,2023,2,4,EVEN,Civil Engineering,CE23431,Soil Mechanics,3,0,2,4,5,LOT,Soil Mechanics & Highway Lab,Civil Engineering
+467,2023,2,4,EVEN,Civil Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+468,2023,2,4,EVEN,Civil Engineering,CE23421,Strength of Materials and Hydraulic Engineering Laboratory,0,0,4,2,4,Laboratory,Strength of Materials Lab,Civil Engineering
+469,2023,2,4,EVEN,Civil Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+471,2023,3,5,ODD,Civil Engineering,CE23511,Design of Reinforced Concrete Elements,3,1,0,4,4,Theory,,Civil Engineering
+472,2023,3,5,ODD,Civil Engineering,CE23512,Foundation Engineering,3,0,0,3,3,Theory,,Civil Engineering
+473,2023,3,5,ODD,Civil Engineering,CE23513,Waste Water Engineering,3,0,0,3,3,Theory,,Civil Engineering
+474,2023,3,5,ODD,Civil Engineering,CE23531,Structural Analysis,3,0,2,4,5,LOT,Computer Lab (Arch),Civil Engineering
+475,2023,3,5,ODD,Civil Engineering,CEPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Civil Engineering
+476,2023,3,5,ODD,Civil Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+477,2023,3,5,ODD,Civil Engineering,CE23521,Water and Waste Water Analysis Laboratory,0,0,4,2,4,Laboratory,Chemistry Lab,Civil Engineering
+479,2023,3,5,ODD,Civil Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Civil Engineering
+481,2023,3,6,EVEN,Civil Engineering,CE23611,Design of Steel Structures,3,1,0,4,4,Theory,,Civil Engineering
+482,2023,3,6,EVEN,Civil Engineering,CE23612,"Construction, Planning,Scheduling and Management",3,0,0,3,3,Theory,,Civil Engineering
+483,2023,3,6,EVEN,Civil Engineering,CE23613,Structural Dynamics and Earthquake Engineering,3,0,0,3,3,Theory,,Civil Engineering
+484,2023,3,6,EVEN,Civil Engineering,CEPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Civil Engineering
+485,2023,3,6,EVEN,Civil Engineering,CE23631,Structural Design and Drawing,3,0,2,4,5,LOT,Computer Lab (Arch),Civil Engineering
+486,2023,3,6,EVEN,Civil Engineering,CE23632,Design Thinking for innovation in Civil Engineering,1,0,2,2,3,Laboratory,,Civil Engineering
+490,2023,4,7,ODD,Civil Engineering,CE23711,"Estimation, Costing and Valuation Engineering",3,0,0,3,3,Theory,,Civil Engineering
+491,2023,4,7,ODD,Civil Engineering,CE23712,Hydrology,3,0,0,3,3,Theory,,Civil Engineering
+492,2023,4,7,ODD,Civil Engineering,CEPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Civil Engineering
+493,2023,4,7,ODD,Civil Engineering,CEPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Civil Engineering
+494,2023,4,7,ODD,Civil Engineering,CE23721,Building Information Modelling,0,0,4,2,4,Laboratory,MCT CAD Lab,Civil Engineering
+496,2023,4,7,ODD,Civil Engineering,CE23723,Artificial Intelligence and Machine Learning for Civil Engineers,0,0,4,2,4,Others,,Civil Engineering
+497,2023,4,7,ODD,Civil Engineering,CE237X,Seminar/ Others,,,,,,Others,,Civil Engineering
+498,2023,4,8,EVEN,Civil Engineering,CEPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Civil Engineering
+499,2023,4,8,EVEN,Civil Engineering,CEPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Civil Engineering
+500,2023,4,8,EVEN,Civil Engineering,CE23821,Project Work,0,0,12,6,12,Laboratory,Project Hour,Civil Engineering
+501,2023,1,1,ODD,Computer Science and Design,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+502,2023,1,1,ODD,Computer Science and Design,MA23113,Mathematics for Design,3,1,0,4,4,Theory,,Mathematics
+503,2023,1,1,ODD,Computer Science and Design,CD23111,Design Drawing and Sketching,2,1,0,3,3,Theory,,Computer Science and Design
+504,2023,1,1,ODD,Computer Science and Design,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Computer Science and Design
+505,2023,1,1,ODD,Computer Science and Design,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+506,2023,1,1,ODD,Computer Science and Design,PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+507,2023,1,1,ODD,Computer Science and Design,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+508,2023,1,1,ODD,Computer Science and Design,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Computer Science and Design
+509,2023,1,2,EVEN,Computer Science and Design,MA23214,Probability and Inferential Statistics,3,1,0,4,4,Theory,,Mathematics
+510,2023,1,2,EVEN,Computer Science and Design,CD23211,Foundation in Digital StoryTelling,3,0,0,3,3,Theory,,Computer Science and Design
+511,2023,1,2,EVEN,Computer Science and Design,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Computer Science and Design
+512,2023,1,2,EVEN,Computer Science and Design,CD23231,Visual Communication Foundations,2,0,4,4,6,LOT,Computer Lab,Computer Science and Design
+513,2023,1,2,EVEN,Computer Science and Design,IT23231,Digital Logic and Computer Architecture,3,0,2,4,5,LOT,Digital Lab-1,Electronics and Communication Engineering
+514,2023,1,2,EVEN,Computer Science and Design,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+515,2023,1,2,EVEN,Computer Science and Design,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+516,2023,1,2,EVEN,Computer Science and Design,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+517,2023,1,2,EVEN,Computer Science and Design,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+518,2023,2,3,ODD,Computer Science and Design,MA23313,Discrete Mathematics for AI,3,1,0,4,4,Theory,,Mathematics
+519,2023,2,3,ODD,Computer Science and Design,CD23331,Design Processes and Perspectives,3,0,2,4,5,LOT,Computer Lab,Computer Science and Design
+520,2023,2,3,ODD,Computer Science and Design,CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+521,2023,2,3,ODD,Computer Science and Design,CD23332,UI and UX design,2,0,4,4,6,LOT,Computer Lab,Computer Science and Design
+522,2023,2,3,ODD,Computer Science and Design,CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+523,2023,2,3,ODD,Computer Science and Design,CD23321,Python Programming for Design,0,0,6,3,6,Laboratory,Computer Lab,Computer Science and Design
+524,2023,2,4,EVEN,Computer Science and Design,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+525,2023,2,4,EVEN,Computer Science and Design,MA23433,Mathematical Modelling and Simulation,3,0,2,4,5,LOT,Computer Lab,Mathematics
+526,2023,2,4,EVEN,Computer Science and Design,AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+527,2023,2,4,EVEN,Computer Science and Design,CS23432,Software Construction,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+528,2023,2,4,EVEN,Computer Science and Design,CS23532,Computer Networks,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+529,2023,2,4,EVEN,Computer Science and Design,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+530,2023,2,4,EVEN,Computer Science and Design,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+531,2023,2,4,EVEN,Computer Science and Design,CD23421,Industry Internship (2/4 weeks),0,0,0,1,0,Others,,Computer Science and Design
+533,2023,3,5,ODD,Computer Science and Design,CDPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Computer Science and Design
+534,2023,3,5,ODD,Computer Science and Design,CD23531,Animation and Graphics,2,0,6,5,8,LOT,Computer Lab,Computer Science and Design
+535,2023,3,5,ODD,Computer Science and Design,CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Design
+536,2023,3,5,ODD,Computer Science and Design,CS23531,Web Programming,1,0,4,3,5,LOT,Computer Lab,Computer Science and Design
+537,2023,3,5,ODD,Computer Science and Design,CD23532,Design Thinking for Innovation in Product Development,1,0,2,2,3,Laboratory,Project Hour,Computer Science and Design
+538,2023,3,5,ODD,Computer Science and Design,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+539,2023,3,6,EVEN,Computer Science and Design,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+540,2023,3,6,EVEN,Computer Science and Design,CDPE2,Professional Elective – II,3,0,2,4,5,Professional Elective,Computer Lab,Computer Science and Design
+541,2023,3,6,EVEN,Computer Science and Design,CD23631,Game Design and Development,2,0,4,4,6,LOT,Computer Lab,Computer Science and Design
+542,2023,3,6,EVEN,Computer Science and Design,AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Computer Science and Design
+543,2023,3,6,EVEN,Computer Science and Design,CD23621,"Mobile Application Design and Development
+Laboratory ",0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Design
+544,2023,3,6,EVEN,Computer Science and Design,CD23622,Animated Educational Content/YouTube videos ,0,0,6,3,6,Laboratory,Computer Lab,Computer Science and Design
+546,2023,4,7,ODD,Computer Science and Design,CDPE3,Professional Elective – III,3,0,0,3,4,Professional Elective,,Computer Science and Design
+547,2023,4,7,ODD,Computer Science and Design,CDPE4,Professional Elective – IV,3,0,2,4,4,Professional Elective,Computer Lab,Computer Science and Design
+548,2023,4,7,ODD,Computer Science and Design,CD23731,Film Making and Radio Podcasting,2,0,2,3,3,LOT,Computer Lab,Computer Science and Design
+549,2023,4,7,ODD,Computer Science and Design,CD23721,Visual Effects,0,0,6,3,0,Laboratory,Computer Lab,Computer Science and Design
+550,2023,4,7,ODD,Computer Science and Design,CD23722,Capstone Project Phase 1*,0,0,8,4,0,Laboratory,Project Hour,Computer Science and Design
+551,2023,4,8,EVEN,Computer Science and Design,CDPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Computer Science and Design
+552,2023,4,8,EVEN,Computer Science and Design,CDPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Computer Science and Design
+553,2023,4,8,EVEN,Computer Science and Design,CD23821,Capstone Project Phase 2* ,0,0,12,6,0,Laboratory,Project Hour,Computer Science and Design
+554,2023,1,1,ODD,Computer Science and Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+555,2023,1,1,ODD,Computer Science and Engineering,MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+556,2023,1,1,ODD,Computer Science and Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Computer Science and Design
+557,2023,1,1,ODD,Computer Science and Engineering,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+558,2023,1,1,ODD,Computer Science and Engineering,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+559,2023,1,1,ODD,Computer Science and Engineering,PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+560,2023,1,1,ODD,Computer Science and Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+561,2023,1,1,ODD,Computer Science and Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+562,2023,1,2,EVEN,Computer Science and Engineering,MA23213,Discrete Mathematical Structures ,3,1,0,4,4,Theory,,Mathematics
+563,2023,1,2,EVEN,Computer Science and Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Computer Science and Design
+564,2023,1,2,EVEN,Computer Science and Engineering,EC23232,Digital Logic and Microprocessor,3,0,2,4,5,LOT,Microprocessor lab-1,Electronics and Communication Engineering
+565,2023,1,2,EVEN,Computer Science and Engineering,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+566,2023,1,2,EVEN,Computer Science and Engineering,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+567,2023,1,2,EVEN,Computer Science and Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+568,2023,1,2,EVEN,Computer Science and Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+569,2023,1,2,EVEN,Computer Science and Engineering,CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Engineering
+570,2023,1,2,EVEN,Computer Science and Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+571,2023,2,3,ODD,Computer Science and Engineering,MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+572,2023,2,3,ODD,Computer Science and Engineering,CS23311,Computer Architecture,3,0,0,3,3,Theory,,Computer Science and Engineering
+573,2023,2,3,ODD,Computer Science and Engineering,CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+574,2023,2,3,ODD,Computer Science and Engineering,CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+575,2023,2,3,ODD,Computer Science and Engineering,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+576,2023,2,3,ODD,Computer Science and Engineering,CS23334,Fundamentals of Data Science,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+577,2023,2,4,EVEN,Computer Science and Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+578,2023,2,4,EVEN,Computer Science and Engineering,BA23512,Fundamentals of Accounting,3,0,0,3,3,Theory,,Computer Science and Engineering
+579,2023,2,4,EVEN,Computer Science and Engineering,MA23435,"Probability, Statistics and Simulation ",3,0,2,4,4,LOT,,Mathematics
+580,2023,2,4,EVEN,Computer Science and Engineering,CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+581,2023,2,4,EVEN,Computer Science and Engineering,CS23432,Software Construction,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+582,2023,2,4,EVEN,Computer Science and Engineering,CS23433,Design Thinking for Innovation in Computer Science,1,0,2,2,3,LOT,Project Hour,Computer Science and Engineering
+583,2023,2,4,EVEN,Computer Science and Engineering,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+585,2023,3,5,ODD,Computer Science and Engineering,CS23511,Theory of Computation,3,1,0,4,4,Theory,,Computer Science and Engineering
+586,2023,3,5,ODD,Computer Science and Engineering,CS23512,Fundamentals of Mobile Computing,3,0,0,3,3,Theory,,Computer Science and Engineering
+587,2023,3,5,ODD,Computer Science and Engineering,CSPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+588,2023,3,5,ODD,Computer Science and Engineering,CS23531,Web Programming,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+589,2023,3,5,ODD,Computer Science and Engineering,CS23532,Computer Networks,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+590,2023,3,5,ODD,Computer Science and Engineering,AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+591,2023,3,5,ODD,Computer Science and Engineering,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+592,2023,3,6,EVEN,Computer Science and Engineering,CSPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+593,2023,3,6,EVEN,Computer Science and Engineering,CS23631,Compiler Design,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+594,2023,3,6,EVEN,Computer Science and Engineering,CS23632,Cryptography and Network Security,2,0,2,3,4,LOT,Computer Lab,Computer Science and Engineering
+595,2023,3,6,EVEN,Computer Science and Engineering,CS23633,Cloud Computing,2,0,2,3,4,LOT,Computer Lab,Computer Science and Engineering
+596,2023,3,6,EVEN,Computer Science and Engineering,AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+597,2023,3,6,EVEN,Computer Science and Engineering,CS23621,Mobile Application Development Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Engineering
+600,2023,4,7,ODD,Computer Science and Engineering,CSPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+601,2023,4,7,ODD,Computer Science and Engineering,CSPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+602,2023,4,7,ODD,Computer Science and Engineering,CSPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+603,2023,4,7,ODD,Computer Science and Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+604,2023,4,7,ODD,Computer Science and Engineering,CS23721,Project Work (Phase - I),0,0,6,3,6,Laboratory,Project Hour,Computer Science and Engineering
+605,2023,4,8,EVEN,Computer Science and Engineering,CSPE7,Professional Elective – VII,3,0,0,3,3,Professional Elective,,Computer Science and Engineering
+606,2023,4,8,EVEN,Computer Science and Engineering,CS23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Computer Science and Engineering
+607,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+608,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+609,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Computer Science and Engineering (Cyber Security)
+610,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+611,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+612,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+613,2023,1,1,ODD,Computer Science and Engineering (Cyber Security),GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+615,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),MA23213,Discrete Mathematical Structures ,3,1,0,4,4,Theory,,Mathematics
+616,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Computer Science and Engineering (Cyber Security)
+617,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),EC23232,Digital Logic and Microprocessor,3,0,2,4,5,LOT,Microprocessor lab-1,Electronics and Communication Engineering
+618,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+619,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+620,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+621,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+622,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Engineering (Cyber Security)
+623,2023,1,2,EVEN,Computer Science and Engineering (Cyber Security),MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+624,2023,2,3,ODD,Computer Science and Engineering (Cyber Security),MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+625,2023,2,3,ODD,Computer Science and Engineering (Cyber Security),CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+626,2023,2,3,ODD,Computer Science and Engineering (Cyber Security),CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+627,2023,2,3,ODD,Computer Science and Engineering (Cyber Security),CS23532,Computer Networks,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+628,2023,2,3,ODD,Computer Science and Engineering (Cyber Security),CR23331,Cryptography,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+629,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+630,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),MA23435,"Probability, Statistics and Simulation ",3,0,2,4,4,LOT,,Computer Science and Engineering (Cyber Security)
+631,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+632,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),CR23431,Network Security,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+633,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+634,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),CR23432,Design Thinking for Innovation in Computer Science,1,0,2,2,3,LOT,Project Hour,Computer Science and Engineering (Cyber Security)
+635,2023,2,4,EVEN,Computer Science and Engineering (Cyber Security),GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+637,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),CRPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+638,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),CS23531,Web Programming,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+639,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+640,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),CR23531,Ethical Hacking,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+641,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),CR23532,Cyber and Digital Forensics,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+642,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),CS23432,Software Construction,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+643,2023,3,5,ODD,Computer Science and Engineering (Cyber Security),GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+644,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),CR23611,Cyber Laws and Security Policies,3,0,0,3,3,Theory,,MBA
+645,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),CRPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+646,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),CR23631,Malware Analysis,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+647,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),CR23632,Blockchain Technologies,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+648,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+649,2023,3,6,EVEN,Computer Science and Engineering (Cyber Security),CS23621,Mobile Application Development Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Engineering (Cyber Security)
+652,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),CRPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+653,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),CRPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+654,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),CRPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+655,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+656,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),CR23731,Blockchain Development in Hyper ledger Fabric,2,0,2,3,4,LOT,Computer Lab,Computer Science and Engineering (Cyber Security)
+657,2023,4,7,ODD,Computer Science and Engineering (Cyber Security),CR23721,Project Work (Phase - I),0,0,6,3,6,Laboratory,Project Hour,Computer Science and Engineering (Cyber Security)
+659,2023,4,8,EVEN,Computer Science and Engineering (Cyber Security),CRPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Computer Science and Engineering (Cyber Security)
+660,2023,4,8,EVEN,Computer Science and Business Systems,CR23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Computer Science and Engineering (Cyber Security)
+661,2023,1,1,ODD,Computer Science and Business Systems,HS23112,Business Communication and Value Science – I,2,0,0,2,2,Theory,,English
+662,2023,1,1,ODD,Computer Science and Business Systems,MA23115,Discrete Mathematics,3,1,0,4,4,Theory,,Mathematics
+663,2023,1,1,ODD,Computer Science and Business Systems,MA23114,Probability and Calculus,3,1,0,4,4,Theory,,Mathematics
+664,2023,1,1,ODD,Computer Science and Business Systems,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Computer Science and Business Systems
+665,2023,1,1,ODD,Computer Science and Business Systems,CB23131,Fundamentals of Computer Science,2,0,4,4,6,LOT,Computer Lab,Computer Science and Business Systems
+666,2023,1,1,ODD,Computer Science and Business Systems,EE23131,Principles of Electrical Engineering,2,0,2,3,4,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+667,2023,1,1,ODD,Computer Science and Business Systems,PH23133,Physics for Computing Science,3,0,2,4,5,LOT,Physics Lab,Physics
+669,2023,1,2,EVEN,Computer Science and Business Systems,MA23211,Linear Algebra,3,1,0,4,4,Theory,,Mathematics
+670,2023,1,2,EVEN,Computer Science and Business Systems,BA23212,Fundamentals of Economics,2,0,0,2,2,Theory,,MBA
+671,2023,1,2,EVEN,Computer Science and Business Systems,MA23231,Statistical Modeling,3,0,2,4,5,LOT,Computer Lab,Mathematics
+672,2023,1,2,EVEN,Computer Science and Business Systems,CB23231,Data Structures &Algorithms,2,1,4,5,7,LOT,Computer Lab,Computer Science and Business Systems
+673,2023,1,2,EVEN,Computer Science and Business Systems,EC23242,Principles of Electronics,2,0,2,3,4,LOT,Engineering Practices Lab (Electronics),Electronics and Communication Engineering
+674,2023,1,2,EVEN,Computer Science and Business Systems,CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Computer Science and Business Systems
+675,2023,1,2,EVEN,Computer Science and Business Systems,HS23223,Business Communication & Value Science – II,0,0,4,2,4,Laboratory,,English
+676,2023,1,2,EVEN,Computer Science and Business Systems,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Computer Science and Business Systems
+677,2023,2,3,ODD,Computer Science and Business Systems,CB23311,Formal Language and Automata Theory,3,0,0,3,3,Theory,,Computer Science and Engineering
+678,2023,2,3,ODD,Computer Science and Business Systems,CB23312,Computer Organization and Architecture,3,0,0,3,3,Theory,,Computer Science and Business Systems
+679,2023,2,3,ODD,Computer Science and Business Systems,CB23331,Computational Statistics,3,0,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+680,2023,2,3,ODD,Computer Science and Business Systems,CB23332,Software Engineering,3,0,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+681,2023,2,3,ODD,Computer Science and Business Systems,CB23333,Database Technology,3,0,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+682,2023,2,3,ODD,Computer Science and Business Systems,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Computer Science and Business Systems
+683,2023,2,3,ODD,Computer Science and Business Systems,MC23313,Environmental Sciences,3,0,0,0,3,Theory,,Chemistry
+684,2023,2,4,EVEN,Computer Science and Business Systems,CB23411,"Introduction to Innovation, IP Management and Entrepreneurship",3,0,0,3,3,Theory,,Computer Science and Engineering
+685,2023,2,4,EVEN,Computer Science and Business Systems,BA23412,Fundamentals of Management,2,0,0,2,2,Theory,,Computer Science and Business Systems
+686,2023,2,4,EVEN,Computer Science and Business Systems,CB23431,Operating System Concepts,3,0,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+687,2023,2,4,EVEN,Computer Science and Business Systems,CB23432,Software Design with UML,2,0,2,3,4,LOT,Computer Lab,Computer Science and Business Systems
+688,2023,2,4,EVEN,Computer Science and Business Systems,CB23433,Analysis of Algorithms and Design,2,1,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+689,2023,2,4,EVEN,Computer Science and Business Systems,MA23437,Optimization Techniques,3,0,2,4,5,LOT,Computer Lab,Mathematics
+690,2023,2,4,EVEN,Computer Science and Business Systems,HS23421,Business Communication and Value Science – III,0,0,4,2,4,Laboratory,,English
+691,2023,2,4,EVEN,Computer Science and Business Systems,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+692,2023,3,5,ODD,Computer Science and Business Systems,BA23511,Principles of Financial Management,2,0,0,2,2,Theory,,Computer Science and Engineering
+693,2023,3,5,ODD,Computer Science and Business Systems,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+694,2023,3,5,ODD,Computer Science and Business Systems,CB23531,Computer Network Technology,3,0,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+695,2023,3,5,ODD,Computer Science and Business Systems,CB23532,Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+696,2023,3,5,ODD,Computer Science and Business Systems,CBPE1,Professional Elective – I,2,1,2,4,5,Professional Elective,Computer Lab,Computer Science and Engineering
+697,2023,3,5,ODD,Computer Science and Business Systems,CB23521,Design Thinking for Innovation in Computer Science and Business Systems,1,0,2,2,3,LOT,Project Hour,Computer Science and Business Systems
+698,2023,3,5,ODD,Computer Science and Business Systems,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+701,2023,3,6,EVEN,Computer Science and Business Systems,BA23611,Financial and Cost Accounting,2,0,0,2,2,Theory,,MBA
+702,2023,3,6,EVEN,Computer Science and Business Systems,BA23612,Business Strategy,2,0,0,2,2,Theory,,MBA
+703,2023,3,6,EVEN,Computer Science and Business Systems,CB23631,Machine Learning,2,1,2,4,5,LOT,Computer Lab,Computer Science and Engineering
+704,2023,3,6,EVEN,Computer Science and Business Systems,CB23632,"Cloud, Micro services and Application",2,1,2,4,5,LOT,Computer Lab,Computer Science and Business Systems
+705,2023,3,6,EVEN,Computer Science and Business Systems,CB23633,Usability Design of Software Applications,2,0,2,3,4,LOT,Computer Lab,Computer Science and Business Systems
+706,2023,3,6,EVEN,Computer Science and Business Systems,CBPE2,Professional Elective – II,3,0,2,4,5,Professional Elective,Computer Lab,Computer Science and Business Systems
+707,2023,3,6,EVEN,Computer Science and Business Systems,HS23621,Business Communication & Value Science – IV,0,0,4,2,4,Laboratory,,English
+710,2023,4,7,ODD,Computer Science and Business Systems,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+711,2023,4,7,ODD,Computer Science and Business Systems,CB23731,Data Visualization Techniques,2,0,2,3,4,LOT,Computer Lab,Computer Science and Business Systems
+712,2023,4,7,ODD,Computer Science and Business Systems,CB23732,IT Project Management,2,0,2,3,4,LOT,Computer Lab,Computer Science and Business Systems
+713,2023,4,7,ODD,Computer Science and Business Systems,CBPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Computer Science and Business Systems
+714,2023,4,7,ODD,Computer Science and Business Systems,CBPE4,Professional Elective – IV,2,1,2,4,5,Professional Elective,Computer Lab,Computer Science and Engineering
+715,2023,4,7,ODD,Computer Science and Business Systems,CB23721,Project Evaluation I,0,0,4,2,4,Laboratory,,Computer Science and Business Systems
+717,2023,4,8,EVEN,Computer Science and Business Systems,CBPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,Computer Lab,Computer Science and Business Systems
+718,2023,4,8,EVEN,Computer Science and Business Systems,CBPE6,Professional Elective – VI,2,0,2,3,4,Professional Elective,Computer Lab,Computer Science and Business Systems
+719,2023,4,8,EVEN,Computer Science and Business Systems,CB23821,Project Evaluation II,0,0,16,8,16,Laboratory,,Computer Science and Business Systems
+721,2023,1,1,ODD,Electrical and Electronics Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+722,2023,1,1,ODD,Electrical and Electronics Engineering,MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+723,2023,1,1,ODD,Electrical and Electronics Engineering,CY23131,Chemistry For Electronics Engineering,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+724,2023,1,1,ODD,Electrical and Electronics Engineering,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+725,2023,1,1,ODD,Electrical and Electronics Engineering,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+726,2023,1,1,ODD,Electrical and Electronics Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+727,2023,1,1,ODD,Electrical and Electronics Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Electrical and Electronics Engineering
+728,2023,1,1,ODD,Electrical and Electronics Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Electrical and Electronics Engineering
+729,2023,1,2,EVEN,Electrical and Electronics Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+730,2023,1,2,EVEN,Electrical and Electronics Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+731,2023,1,2,EVEN,Electrical and Electronics Engineering,PH23232,Physics for Electronics Engineering,3,0,2,4,5,LOT,Physics Lab,Physics
+732,2023,1,2,EVEN,Electrical and Electronics Engineering,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+733,2023,1,2,EVEN,Electrical and Electronics Engineering,EE23212,Electric Circuits,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+734,2023,1,2,EVEN,Electrical and Electronics Engineering,EE23221,Electric Circuits Laboratory,0,0,2,1,2,Laboratory,"Electronic Devices & Circuits Lab, Power Electronics Lab",Electrical and Electronics Engineering
+735,2023,1,2,EVEN,Electrical and Electronics Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+736,2023,1,2,EVEN,Electrical and Electronics Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+737,2023,1,2,EVEN,Electrical and Electronics Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Electrical and Electronics Engineering
+738,2023,2,3,ODD,Electrical and Electronics Engineering,MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+739,2023,2,3,ODD,Electrical and Electronics Engineering,EE23311,Electromagnetic Theory,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+740,2023,2,3,ODD,Electrical and Electronics Engineering,EE23312,Electrical Machines – I,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+741,2023,2,3,ODD,Electrical and Electronics Engineering,EE23313,Measurements and Instrumentation,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+742,2023,2,3,ODD,Electrical and Electronics Engineering,EE23314,Electronic Devices and Circuits,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+743,2023,2,3,ODD,Electrical and Electronics Engineering,EE23315,Power Plant Engineering,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+744,2023,2,3,ODD,Electrical and Electronics Engineering,EE23321,Electronic Devices and Circuits Laboratory,0,0,2,1,,Laboratory,Electronic Devices & Circuits Lab,Electrical and Electronics Engineering
+745,2023,2,3,ODD,Electrical and Electronics Engineering,CS23336,Introduction to Python Programming,1,0,4,3,1,LOT,Computer Lab,Electrical and Electronics Engineering
+747,2023,2,4,EVEN,Electrical and Electronics Engineering,EE23411,Electrical Machines – II,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+748,2023,2,4,EVEN,Electrical and Electronics Engineering,EE23412,Transmission and Distribution,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+749,2023,2,4,EVEN,Electrical and Electronics Engineering,EE23431,Digital Logic Circuits,3,0,2,4,5,LOT,Power Electronics Lab,Electrical and Electronics Engineering
+750,2023,2,4,EVEN,Electrical and Electronics Engineering,EE23432,Linear Integrated Circuits and Applications,3,0,2,4,3,LOT,Electronic Devices & Circuits Lab,Electrical and Electronics Engineering
+751,2023,2,4,EVEN,Electrical and Electronics Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+752,2023,2,4,EVEN,Electrical and Electronics Engineering,EE23421,Electrical Machines Laboratory,0,0,4,2,4,Laboratory,,Electrical and Electronics Engineering
+753,2023,2,4,EVEN,Electrical and Electronics Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+754,2023,2,4,EVEN,Electrical and Electronics Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Electrical and Electronics Engineering
+756,2023,3,5,ODD,Electrical and Electronics Engineering,EE23511,Power System Analysis,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+757,2023,3,5,ODD,Electrical and Electronics Engineering,EE23512,Power Electronics,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+758,2023,3,5,ODD,Electrical and Electronics Engineering,EE23513,Control Systems,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+759,2023,3,5,ODD,Electrical and Electronics Engineering,EEPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+760,2023,3,5,ODD,Electrical and Electronics Engineering,EE23531,"Microprocessors, Microcontrollers and Applications",3,0,2,4,5,LOT,Microprocessor and Microcontrollers Lab,Electrical and Electronics Engineering
+761,2023,3,5,ODD,Electrical and Electronics Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+762,2023,3,5,ODD,Electrical and Electronics Engineering,EE23521,Control and Instrumentation Laboratory,0,0,2,1,2,Laboratory,Power System Simulation Lab,Electrical and Electronics Engineering
+763,2023,3,5,ODD,Electrical and Electronics Engineering,EE23522,Innovation and Design Thinking for Electrical Engineers,0,0,4,2,4,Laboratory,Project Hour,Electrical and Electronics Engineering
+764,2023,3,5,ODD,Electrical and Electronics Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+766,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23611,Protection and Switchgear,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+767,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23612,Solid State Drives,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+768,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23613,Electric Energy Utilization and Conservation,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+769,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23631,Applications of IoT in Electrical Engineering,2,0,2,3,4,LOT,Power System Simulation Lab,Electrical and Electronics Engineering
+770,2023,3,6,EVEN,Electrical and Electronics Engineering,EEPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+771,2023,3,6,EVEN,Electrical and Electronics Engineering,EEPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+772,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23621,Power Electronics and Drives Laboratory,0,0,2,1,2,Laboratory,Power Electronics Lab,Electrical and Electronics Engineering
+773,2023,3,6,EVEN,Electrical and Electronics Engineering,EE23622,Applications of AI and ML in Electrical Engineering,0,0,4,2,4,Laboratory,,Electrical and Electronics Engineering
+774,2023,3,6,EVEN,Electrical and Electronics Engineering,GE23627,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Placement
+776,2023,4,7,ODD,Electrical and Electronics Engineering,EE23711,Smart Grid,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+777,2023,4,7,ODD,Electrical and Electronics Engineering,EE23712,Power System Operation and Control,3,0,0,3,3,Theory,,Electrical and Electronics Engineering
+778,2023,4,7,ODD,Electrical and Electronics Engineering,EE23731,Renewable Energy Systems,3,0,2,4,5,LOT,Power System Simulation Lab,Electrical and Electronics Engineering
+779,2023,4,7,ODD,Electrical and Electronics Engineering,EEPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+780,2023,4,7,ODD,Electrical and Electronics Engineering,EE23721,Power System Simulation Laboratory,0,0,4,2,4,Laboratory,,Electrical and Electronics Engineering
+781,2023,4,7,ODD,Electrical and Electronics Engineering,EE23722,Project ( Phase-I ),0,0,8,4,8,Laboratory,Project Hour,Electrical and Electronics Engineering
+784,2023,4,8,EVEN,Electrical and Electronics Engineering,EEPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+785,2023,4,8,EVEN,Electrical and Electronics Engineering,EEPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Electrical and Electronics Engineering
+786,2023,4,8,EVEN,Electrical and Electronics Engineering,EE23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Electrical and Electronics Engineering
+787,2023,1,1,ODD,Electronics and Communication Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+788,2023,1,1,ODD,Electronics and Communication Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Electronics and Communication Engineering
+789,2023,1,1,ODD,Electronics and Communication Engineering,MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+790,2023,1,1,ODD,Electronics and Communication Engineering,EC23131,Electron Devices,3,0,2,4,5,LOT,,Electronics and Communication Engineering
+791,2023,1,1,ODD,Electronics and Communication Engineering,CY23131,Chemistry For Electronics Engineering,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+792,2023,1,1,ODD,Electronics and Communication Engineering,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+793,2023,1,1,ODD,Electronics and Communication Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electronics and Communication Engineering
+794,2023,1,1,ODD,Electronics and Communication Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+795,2023,1,2,EVEN,Electronics and Communication Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+796,2023,1,2,EVEN,Electronics and Communication Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Electronics and Communication Engineering
+797,2023,1,2,EVEN,Electronics and Communication Engineering,EE23132,Basic Electrical Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+798,2023,1,2,EVEN,Electronics and Communication Engineering,PH23232,Physics for Electronics Engineering,3,0,2,4,5,LOT,Physics Lab,Physics
+799,2023,1,2,EVEN,Electronics and Communication Engineering,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Computer Science and Engineering
+800,2023,1,2,EVEN,Electronics and Communication Engineering,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+801,2023,1,2,EVEN,Electronics and Communication Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electrical), Engineering Practices Lab (Electronics)",Mechanical Engineering
+802,2023,1,2,EVEN,Electronics and Communication Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+803,2023,1,2,EVEN,Electronics and Communication Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+804,2023,2,3,ODD,Electronics and Communication Engineering,MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+805,2023,2,3,ODD,Electronics and Communication Engineering,EC23311,Analog Circuits –I,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+806,2023,2,3,ODD,Electronics and Communication Engineering,EC23312,Electromagnetic Fields,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+807,2023,2,3,ODD,Electronics and Communication Engineering,EC23313,Digital Principles and System Design,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+808,2023,2,3,ODD,Electronics and Communication Engineering,EC23331,Microprocessors and Microcontrollers,3,0,2,4,5,LOT,Microprocessor and Microcontrollers Lab,Electronics and Communication Engineering
+809,2023,2,3,ODD,Electronics and Communication Engineering,CS23336,Introduction to Python Programming,1,0,4,3,5,LOT,Computer Lab,Computer Science and Engineering
+810,2023,2,3,ODD,Electronics and Communication Engineering,EC23321,Analog and Digital Circuits Laboratory,0,0,4,2,4,Laboratory,"Basic electronics lab-1, Digital Lab-1",Electronics and Communication Engineering
+812,2023,2,4,EVEN,Electronics and Communication Engineering,EC23411,Signals and Systems,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+813,2023,2,4,EVEN,Electronics and Communication Engineering,EC23412,Transmission Lines and Waveguides,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+814,2023,2,4,EVEN,Electronics and Communication Engineering,EC23413,Communication Theory,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+815,2023,2,4,EVEN,Electronics and Communication Engineering,EC23431,Analog Circuits-II,3,0,2,4,5,LOT,LIC Lab,Electronics and Communication Engineering
+816,2023,2,4,EVEN,Electronics and Communication Engineering,MA23436,Probability and Random Processes,3,0,2,4,5,LOT,Computer Lab,Mathematics
+817,2023,2,4,EVEN,Electronics and Communication Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+818,2023,2,4,EVEN,Electronics and Communication Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,DSP Lab,Computer Science and Engineering
+820,2023,3,5,ODD,Electronics and Communication Engineering,EC23511,Control System Engineering,2,1,0,3,3,Theory,,Electronics and Communication Engineering
+821,2023,3,5,ODD,Electronics and Communication Engineering,EC23512,Modern Digital Communication,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+822,2023,3,5,ODD,Electronics and Communication Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+823,2023,3,5,ODD,Electronics and Communication Engineering,ECPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+824,2023,3,5,ODD,Electronics and Communication Engineering,ECPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+825,2023,3,5,ODD,Electronics and Communication Engineering,EC23531,Digital Signal Processing,2,1,2,4,5,LOT,DSP Lab,Electronics and Communication Engineering
+826,2023,3,5,ODD,Electronics and Communication Engineering,EC23521,Communication Systems Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Electronics and Communication Engineering
+827,2023,3,5,ODD,Electronics and Communication Engineering,EC23522,Industrial Internship,0,0,2,1,2,Laboratory,,Electronics and Communication Engineering
+828,2023,3,5,ODD,Electronics and Communication Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+829,2023,3,6,EVEN,Electronics and Communication Engineering,EC23611,Antenna Theory and Wave Propagation,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+830,2023,3,6,EVEN,Electronics and Communication Engineering,OE - 2,Open Elective - II,0,0,6,3,6,Open Elective,,Common Open Elective
+831,2023,3,6,EVEN,Electronics and Communication Engineering,EC23631,VLSI and Chip Design,3,0,2,4,5,LOT,VLSI Lab,Electronics and Communication Engineering
+832,2023,3,6,EVEN,Electronics and Communication Engineering,EC23632,Communication Networks,3,0,2,4,5,LOT,Computer Lab,Electronics and Communication Engineering
+833,2023,3,6,EVEN,Electronics and Communication Engineering,EC23633,Wireless Communication,2,0,2,3,4,LOT,Optical and Microwave Lab,Electronics and Communication Engineering
+834,2023,3,6,EVEN,Electronics and Communication Engineering,GE23627,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Placement
+835,2023,3,6,EVEN,Electronics and Communication Engineering,EC23621,Design Thinking for Innovation in ECE,0,0,4,2,4,Laboratory,Project Hour,Electronics and Communication Engineering
+837,2023,4,7,ODD,Electronics and Communication Engineering,ECPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+838,2023,4,7,ODD,Electronics and Communication Engineering,ECPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+839,2023,4,7,ODD,Electronics and Communication Engineering,EC23731,Optical Communication and Networks,2,0,2,3,4,LOT,Computer Lab,Electronics and Communication Engineering
+840,2023,4,7,ODD,Electronics and Communication Engineering,EC23732,RF and Microwave Engineering,2,0,2,3,4,LOT,Optical and Microwave Lab,Electronics and Communication Engineering
+841,2023,4,7,ODD,Electronics and Communication Engineering,EC23733,Embedded and Real Time Systems,3,0,2,4,5,LOT,Embedded System Laboratory (ECE),Electronics and Communication Engineering
+842,2023,4,7,ODD,Electronics and Communication Engineering,EC23721,Artificial Intelligence and Machine Learning for Electronic Engineering,0,0,4,2,4,Laboratory,DSP Lab,Electronics and Communication Engineering
+844,2023,4,8,EVEN,Electronics and Communication Engineering,ECPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+845,2023,4,8,EVEN,Electronics and Communication Engineering,ECPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Electronics and Communication Engineering
+846,2023,4,8,EVEN,Electronics and Communication Engineering,EC23821,Project Work,0,0,20,10,20,Laboratory,Project Hour,Electronics and Communication Engineering
+847,2023,1,1,ODD,Food Technology,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+848,2023,1,1,ODD,Food Technology,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+849,2023,1,1,ODD,Food Technology,CY23132,Chemistry for Technologists,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+850,2023,1,1,ODD,Food Technology,GE23111,Engineering graphics,2,0,4,4,6,Laboratory,,Mechanical Engineering
+851,2023,1,1,ODD,Food Technology,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Civil Engineering
+852,2023,1,1,ODD,Food Technology,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+853,2023,1,1,ODD,Food Technology,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Food Technology
+855,2023,1,2,EVEN,Food Technology,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Theory,,English
+856,2023,1,2,EVEN,Food Technology,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+857,2023,1,2,EVEN,Food Technology,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+858,2023,1,2,EVEN,Food Technology,PH23231,Physics for Bioscience,3,0,2,4,5,LOT,Physics Lab,Physics
+859,2023,1,2,EVEN,Food Technology,GE23233,Problem Solving and Python Programming,2,0,4,4,6,LOT,Computer Lab,Computer Science and Engineering
+860,2023,1,2,EVEN,Food Technology,FT23201,Food chemistry,3,0,0,3,3,Theory,,Chemistry
+861,2023,1,2,EVEN,Food Technology,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Food Technology
+862,2023,1,2,EVEN,Food Technology,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Food Technology
+863,2023,1,2,EVEN,Food Technology,FT23211,Food Chemistry Laboratory,0,0,4,2,4,Laboratory,Food chemistry Lab,Food Technology
+864,2023,2,3,ODD,Food Technology,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+865,2023,2,3,ODD,Food Technology,FT23301,Food Microbiology,3,0,0,3,3,Theory,,Food Technology
+866,2023,2,3,ODD,Food Technology,FT23302,Biochemistry & Nutrition,3,0,0,3,3,Theory,,Food Technology
+867,2023,2,3,ODD,Food Technology,FT23303,Food Process Calculations,3,0,0,3,3,Theory,,Food Technology
+868,2023,2,3,ODD,Food Technology,FT23304,"Fluid Mechanics in Food
+Processes",3,0,0,3,3,Theory,,Civil Engineering
+869,2023,2,3,ODD,Food Technology,FT23305,Food Additives,3,0,0,3,3,Theory,,Food Technology
+870,2023,2,3,ODD,Food Technology,FT23311,Food Microbiology Laboratory,0,0,4,2,4,Laboratory,Food Microbiology Lab,Food Technology
+871,2023,2,3,ODD,Food Technology,FT23312,"Biochemistry & Nutrition
+Laboratory",0,0,4,2,4,Laboratory,Biochemistry lab,Food Technology
+872,2023,2,4,EVEN,Food Technology,MA23431,"Probability, Statistics and Reliability",3,1,0,4,4,Theory,,Mathematics
+873,2023,2,4,EVEN,Food Technology,FT23401,"Unit operations in Food
+Industries",3,0,0,3,3,Theory,,Food Technology
+874,2023,2,4,EVEN,Food Technology,FT23402,"Food Processing and
+Preservation Technology",3,0,0,3,3,Theory,,Food Technology
+875,2023,2,4,EVEN,Food Technology,FT23403,"Thermodynamics for Food
+Technologists",3,0,0,3,3,Theory,,Mechanical Engineering
+876,2023,2,4,EVEN,Food Technology,MC23301,"Essence of Indian Traditional Knowledge
+(Non-Credit course)",2,0,0,0,2,Theory,,Food Technology
+877,2023,2,4,EVEN,Food Technology,GE19304,"Fundamentals of
+Management for Engineers",3,0,0,3,3,Theory,,Food Technology
+878,2023,2,4,EVEN,Food Technology,CS23411,Python Programming for Machine Learning,1,0,4,3,5,LOT,Computer Lab,Information Technology
+879,2023,2,4,EVEN,Food Technology,FT23411,Unit operations in Food Industries Laboratory,0,0,4,2,4,Laboratory,Food chemistry Lab,Food Technology
+880,2023,2,4,EVEN,Food Technology,FT23412,Food Processing and Preservation Laboratory,0,0,4,2,4,Laboratory,Food Processing and Preservation Lab,Food Technology
+881,2023,2,4,EVEN,Food Technology,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+882,2023,3,5,ODD,Food Technology,FT23501,Food Analysis,3,0,0,3,3,Theory,,Food Technology
+883,2023,3,5,ODD,Food Technology,FT23502,Food Product Technology,3,0,0,3,3,Theory,,Food Technology
+884,2023,3,5,ODD,Food Technology,FT23503,"Heat and Mass Transfer in
+Food Processing",3,0,0,3,3,Theory,,Food Technology
+885,2023,3,5,ODD,Food Technology,FTPE1,Professional Elective – I,3,0,2,4,5,Professional Elective,,Food Technology
+886,2023,3,5,ODD,Food Technology,FTPE2,Professional Elective – II,3,0,2,4,5,Professional Elective,,Food Technology
+887,2023,3,5,ODD,Food Technology,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+888,2023,3,5,ODD,Food Technology,FT23511,Food Analysis Lab,0,0,4,2,4,Laboratory,Biochemistry lab,Food Technology
+889,2023,3,5,ODD,Food Technology,FT23512,"Food Product Technology
+Laboratory",0,0,4,2,4,Laboratory,Food Processing and Preservation Lab,Food Technology
+890,2023,3,5,ODD,Food Technology,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+891,2023,3,6,EVEN,Food Technology,FT23601,Professional Ethics,3,0,0,3,3,Theory,,Food Technology
+892,2023,3,6,EVEN,Food Technology,FT23602,"Refrigeration and Cold Chain
+Management",3,0,0,3,3,Theory,,Food Technology
+893,2023,3,6,EVEN,Food Technology,FTPE3,Professional Elective – III,3,0,2,4,5,Professional Elective,,Food Technology
+894,2023,3,6,EVEN,Food Technology,FTPE4,Professional Elective – IV,3,0,2,4,5,Professional Elective,,Food Technology
+895,2023,3,6,EVEN,Food Technology,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+896,2023,3,6,EVEN,Food Technology,CR19P62,Microfluidics Laboratory,0,0,4,2,4,Laboratory,MEMS Lab,Food Technology
+898,2023,3,6,EVEN,Food Technology,FT23611,"Innovation and Design thinking
+for Food Technologists",0,0,4,2,4,Laboratory,,Food Technology
+899,2023,4,7,ODD,Food Technology,FT23701,"Food Quality, Safety Standards
+and Certification",3,0,0,3,3,Theory,,Food Technology
+900,2023,4,7,ODD,Food Technology,FT23702,"Comprehensive course for
+Food Technologists.",3,0,0,3,3,Theory,,Food Technology
+901,2023,4,7,ODD,Food Technology,FT23703,"Functional Foods and
+Nutraceuticals",3,0,0,3,3,Theory,,Food Technology
+902,2023,4,7,ODD,Food Technology,FT23704,Sensory evaluation in foods,3,0,0,2,3,Theory,,Food Technology
+903,2023,4,7,ODD,Food Technology,FTPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Food Technology
+904,2023,4,7,ODD,Food Technology,FTPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Food Technology
+905,2023,4,7,ODD,Food Technology,FT23711,"Problem solving using AI-ML
+for Food Technologists.",0,0,4,2,0,LOT,Computer Lab,Food Technology
+907,2023,4,8,EVEN,Food Technology,FT23801,Internship/ Project Work,0,0,20,10,20,Laboratory,Project Hour,Food Technology
+908,2023,1,1,ODD,Information Technology,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+909,2023,1,1,ODD,Information Technology,MA23111,Linear Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+910,2023,1,1,ODD,Information Technology,GE23111,Engineering Graphics,2,2,0,4,4,Theory,,Mechanical Engineering
+911,2023,1,1,ODD,Information Technology,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Information Technology
+912,2023,1,1,ODD,Information Technology,EE23133,Basic Electrical and Electronics Engineering,3,0,2,4,5,Laboratory,Electrical Machines I Lab,Electrical and Electronics Engineering
+913,2023,1,1,ODD,Information Technology,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Information Technology
+914,2023,1,1,ODD,Information Technology,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+915,2023,1,1,ODD,Information Technology,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+916,2023,1,2,EVEN,Information Technology,MA23213,Discrete Mathematical Structures ,3,1,0,4,4,Theory,,Mathematics
+917,2023,1,2,EVEN,Information Technology,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Information Technology
+918,2023,1,2,EVEN,Information Technology,PH23132,Physics for Information Science,3,0,2,4,5,LOT,Physics Lab,Physics
+919,2023,1,2,EVEN,Information Technology,EC23331,Microprocessors and Microcontrollers,3,0,2,4,5,LOT,Basic electronics lab-1,Electronics and Communication Engineering
+920,2023,1,2,EVEN,Information Technology,CS23231,Data Structures,3,0,4,5,7,LOT,Computer Lab,Information Technology
+921,2023,1,2,EVEN,Information Technology,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Electrical and Electronics Engineering
+922,2023,1,2,EVEN,Information Technology,CS23221,Python Programming Lab,0,0,4,2,4,Laboratory,Computer Lab,Information Technology
+923,2023,1,2,EVEN,Information Technology,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+924,2023,1,2,EVEN,Information Technology,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Information Technology
+925,2023,2,3,ODD,Information Technology,MA23312,Fourier series and Number theory,3,1,0,4,4,Theory,,Mathematics
+926,2023,2,3,ODD,Information Technology,EC23314,Analog and Digital Communication,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+927,2023,2,3,ODD,Information Technology,CS23331,Design and Analysis of Algorithms,3,0,2,4,5,LOT,Computer Lab,Information Technology
+928,2023,2,3,ODD,Information Technology,CS23332,Database Management Systems,3,0,4,5,7,LOT,Computer Lab,Information Technology
+929,2023,2,3,ODD,Information Technology,CS23333,Object Oriented Programming Using JAVA,1,0,6,4,7,LOT,Computer Lab,Information Technology
+930,2023,2,3,ODD,Information Technology,IT23231,Digital Logic and Computer Architecture,3,0,2,4,5,LOT,Digital Lab-1,Information Technology
+931,2023,2,4,EVEN,Information Technology,MA23435,"Probability, Statistics and Simulation ",3,0,2,4,5,Theory,,Mathematics
+932,2023,2,4,EVEN,Information Technology,GE23311,Fundamentals of Management for Engineers,3,0,0,3,3,Theory,,Information Technology
+933,2023,2,4,EVEN,Information Technology,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+934,2023,2,4,EVEN,Information Technology,CS23431,Operating Systems,3,0,4,5,7,LOT,Computer Lab,Information Technology
+935,2023,2,4,EVEN,Information Technology,CS23432,Software Construction,3,0,2,4,5,LOT,Computer Lab,Information Technology
+936,2023,2,4,EVEN,Information Technology,IT23431,Software Testing,2,0,2,3,4,LOT,Computer Lab,Information Technology
+937,2023,2,4,EVEN,Information Technology,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+940,2023,3,5,ODD,Information Technology,ITPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Information Technology
+941,2023,3,5,ODD,Information Technology,IT23511,Automata Theory & Compiler Design,3,0,0,3,3,Theory,,Information Technology
+942,2023,3,5,ODD,Information Technology,IT23531,Computer Vision,3,0,2,4,5,LOT,Computer Lab,Information Technology
+943,2023,3,5,ODD,Information Technology,CS23531,Web Programming,1,0,6,4,7,LOT,Computer Lab,Information Technology
+944,2023,3,5,ODD,Information Technology,AI23231,Principles of Artificial Intelligence,3,0,2,4,5,LOT,Computer Lab,Information Technology
+945,2023,3,5,ODD,Information Technology,CS23532,Computer Networks,3,0,4,5,7,LOT,Computer Lab,Information Technology
+946,2023,3,5,ODD,Information Technology,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+947,2023,3,6,EVEN,Information Technology,ITPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Information Technology
+948,2023,3,6,EVEN,Information Technology,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+949,2023,3,6,EVEN,Information Technology,CS23512,Fundamentals of Mobile Computing,3,0,0,3,3,Theory,,Information Technology
+950,2023,3,6,EVEN,Information Technology,CS23632,Cryptography and Network Security,2,0,2,3,5,LOT,Computer Lab,Information Technology
+951,2023,3,6,EVEN,Information Technology,AI23331,Fundamentals of Machine Learning,3,0,2,4,5,LOT,Computer Lab,Information Technology
+952,2023,3,6,EVEN,Information Technology,IT23631,"Design Thinking for Innovation in Information
+ Technology",1,0,2,2,3,LOT,Project Hour,Information Technology
+953,2023,3,6,EVEN,Information Technology,CS23621,Mobile Application Development Laboratory,0,0,4,2,4,Laboratory,Computer Lab,Information Technology
+956,2023,4,7,ODD,Information Technology,ITPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Information Technology
+957,2023,4,7,ODD,Information Technology,ITPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Information Technology
+958,2023,4,7,ODD,Information Technology,IT23731,Cloud and Big data Architecture,3,0,2,4,5,LOT,Computer Lab,Information Technology
+959,2023,4,7,ODD,Information Technology,IT23721,Data Science using R,0,0,4,2,4,Laboratory,Computer Lab,Information Technology
+960,2023,4,7,ODD,Information Technology,IT23722,Project Work (Phase - I),0,0,6,3,6,Laboratory,Project Hour,Information Technology
+962,2023,4,8,EVEN,Information Technology,ITPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Information Technology
+963,2023,4,8,EVEN,Information Technology,ITPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Information Technology
+964,2023,4,8,EVEN,Information Technology,IT23821,Project Work (Phase - II),0,0,12,6,12,Laboratory,Project Hour,Information Technology
+965,2023,1,1,ODD,Mechanical Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+966,2023,1,1,ODD,Mechanical Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+967,2023,1,1,ODD,Mechanical Engineering,GE23111,Engineering Graphics,2,0,4,4,6,Theory,,Mechanical Engineering
+968,2023,1,1,ODD,Mechanical Engineering,EC23111,Basic Electronics Engineering,3,0,0,3,3,Theory,,Electronics and Communication Engineering
+969,2023,1,1,ODD,Mechanical Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Mechanical Engineering
+970,2023,1,1,ODD,Mechanical Engineering,PH23131,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+971,2023,1,1,ODD,Mechanical Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+972,2023,1,1,ODD,Mechanical Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Chemistry
+974,2023,1,2,EVEN,Mechanical Engineering,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Theory,,English
+975,2023,1,2,EVEN,Mechanical Engineering,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+976,2023,1,2,EVEN,Mechanical Engineering,GE23211,Engineering Mechanics,2,1,0,3,3,Theory,,Mechanical Engineering
+977,2023,1,2,EVEN,Mechanical Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Mechanical Engineering
+978,2023,1,2,EVEN,Mechanical Engineering,CY23223,Engineering Chemistry ,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+979,2023,1,2,EVEN,Mechanical Engineering,EE23132,Basic Electrical Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+980,2023,1,2,EVEN,Mechanical Engineering,GE23233,Problem Solving and Python Programming,2,0,4,4,6,LOT,Computer Lab,Mechanical Engineering
+981,2023,1,2,EVEN,Mechanical Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Electrical and Electronics Engineering
+983,2023,2,3,ODD,Mechanical Engineering,ME23311,Engineering Thermodynamics,3,1,0,4,4,Theory,,Mechanical Engineering
+984,2023,2,3,ODD,Mechanical Engineering,ME23312,Manufacturing Technology I,3,0,0,3,3,Theory,,Mechanical Engineering
+985,2023,2,3,ODD,Mechanical Engineering,ME23313,Kinematics of Machinery,3,0,0,3,3,Theory,,Mechanical Engineering
+986,2023,2,3,ODD,Mechanical Engineering,MA23331,Transforms and Statistics,3,0,2,4,5,LOT,Computer Lab,Mathematics
+987,2023,2,3,ODD,Mechanical Engineering,ME23331,Strength of Materials,3,0,2,4,5,LOT,Strength of Materials Lab,Mechanical Engineering
+988,2023,2,3,ODD,Mechanical Engineering,ME23321,Manufacturing Technology Laboratory I,0,0,2,1,2,Laboratory,Manufacturing Technology I,Mechanical Engineering
+989,2023,2,3,ODD,Mechanical Engineering,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Mechanical Engineering
+991,2023,2,4,EVEN,Mechanical Engineering,ME23411,Engineering Materials and Metallurgy,3,0,0,3,3,Theory,,Mechanical Engineering
+992,2023,2,4,EVEN,Mechanical Engineering,ME23412,Manufacturing Technology II,3,0,0,3,3,Theory,,Mechanical Engineering
+993,2023,2,4,EVEN,Mechanical Engineering,ME23431,Dynamics of Machines,3,0,3,4,6,LOT,Dynamics Lab,Mechanical Engineering
+994,2023,2,4,EVEN,Mechanical Engineering,ME23432,Fluid Mechanics and Machinery,3,0,3,4,6,LOT,Fluid Mechanics Lab,Mechanical Engineering
+995,2023,2,4,EVEN,Mechanical Engineering,ME23433,Thermal Engineering,3,0,3,4,6,LOT,Thermal Lab 1,Mechanical Engineering
+996,2023,2,4,EVEN,Mechanical Engineering,GE23421,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+997,2023,2,4,EVEN,Mechanical Engineering,ME23421,Computer Aided Machine Drawing Laboratory,0,0,4,2,4,Laboratory,Mech CAD Lab,Mechanical Engineering
+998,2023,2,4,EVEN,Mechanical Engineering,ME23422,"Manufacturing Technology
+ Laboratory II",0,0,4,2,4,Laboratory,Manufacturing Technology II,Mechanical Engineering
+1000,2023,3,5,ODD,Mechanical Engineering,GE23511,Economics for Engineers,3,0,0,3,3,Theory,,Mechanical Engineering
+1001,2023,3,5,ODD,Mechanical Engineering,ME23511,Machine Design,3,0,0,3,4,Theory,,Mechanical Engineering
+1002,2023,3,5,ODD,Mechanical Engineering,MEPE1,Professional Elective – I,3,0,0,3,4,Professional Elective,,Mechanical Engineering
+1003,2023,3,5,ODD,Mechanical Engineering,OE - 1,Open Elective - I,3,0,0,3,4,Open Elective,,Common Open Elective
+1004,2023,3,5,ODD,Mechanical Engineering,ME23531,Heat and Mass Transfer,3,0,2,4,5,LOT,Thermal Lab 1,Mechanical Engineering
+1005,2023,3,5,ODD,Mechanical Engineering,ME23532,Metrology and Measurements,3,0,2,4,5,LOT,Metrology & Measurement Lab,Mechanical Engineering
+1006,2023,3,5,ODD,Mechanical Engineering,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+1007,2023,3,5,ODD,Mechanical Engineering,ME23521,Component Modeling Laboratory,0,0,4,2,4,Laboratory,Mech CAD Lab,Mechanical Engineering
+1010,2023,3,6,EVEN,Mechanical Engineering,ME23611,Additive Manufacturing,3,0,0,3,3,Theory,,Mechanical Engineering
+1011,2023,3,6,EVEN,Mechanical Engineering,ME23612,Design of Transmission systems,3,0,0,3,3,Theory,,Mechanical Engineering
+1012,2023,3,6,EVEN,Mechanical Engineering,ME23613,Finite Element Analysis,3,0,0,3,3,Theory,,Mechanical Engineering
+1013,2023,3,6,EVEN,Mechanical Engineering,ME23614,Total Quality Management,3,0,0,3,3,Theory,,Mechanical Engineering
+1014,2023,3,6,EVEN,Mechanical Engineering,MEPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Mechanical Engineering
+1015,2023,3,6,EVEN,Mechanical Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+1016,2023,3,6,EVEN,Mechanical Engineering,ME23631,Robotics Laboratory,1,0,2,2,3,Laboratory,Isaac Asimov Laboratory,Mechanical Engineering
+1017,2023,3,6,EVEN,Mechanical Engineering,GE23621,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Mechanical Engineering
+1018,2023,3,6,EVEN,Mechanical Engineering,ME23622,"Simulation and Analysis
+ Laboratory",0,0,3,2,3,Laboratory,Mech CAD Lab,Mechanical Engineering
+1019,2023,3,6,EVEN,Mechanical Engineering,ME23623,"Innovation and Design thinking for
+ Mechanical Engineer",0,0,3,2,3,Laboratory,,Mechanical Engineering
+1021,2023,4,7,ODD,Mechanical Engineering,ME23711,"Process Planning and Cost
+ Estimation",3,0,0,3,3,Theory,,Mechanical Engineering
+1022,2023,4,7,ODD,Mechanical Engineering,MEPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Mechanical Engineering
+1023,2023,4,7,ODD,Mechanical Engineering,MEPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Mechanical Engineering
+1024,2023,4,7,ODD,Mechanical Engineering,ME23731,"Artificial Intelligence for
+ Mechanical Engineers",2,0,4,4,6,LOT,Mech CAD Lab,Mechanical Engineering
+1025,2023,4,7,ODD,Mechanical Engineering,ME23732,Mechatronics,3,0,2,4,5,LOT,Mechatronics Lab,Mechanical Engineering
+1026,2023,4,7,ODD,Mechanical Engineering,ME23721,Comprehension,0,0,2,1,2,Laboratory,,Mechanical Engineering
+1027,2023,4,7,ODD,Mechanical Engineering,ME23723,Project Work (Phase - I),0,0,2,1,2,Laboratory,Project Hour,Mechanical Engineering
+1029,2023,4,8,EVEN,Mechanical Engineering,MEPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Mechanical Engineering
+1030,2023,4,8,EVEN,Mechanical Engineering,ME23821,Project Work,0,0,18,9,18,Laboratory,Project Hour,Mechanical Engineering
+1032,2023,1,1,ODD,Mechatronics Engineering,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+1033,2023,1,1,ODD,Mechatronics Engineering,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+1034,2023,1,1,ODD,Mechatronics Engineering,GE23111,Engineering Graphics,2,2,0,4,4,Theory,,Mechatronics
+1035,2023,1,1,ODD,Mechatronics Engineering,GE23211,Engineering Mechanics,2,1,0,3,3,Theory,,Mechatronics
+1036,2023,1,1,ODD,Mechatronics Engineering,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Mechatronics
+1037,2023,1,1,ODD,Mechatronics Engineering,EE23132,Basic Electrical Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+1038,2023,1,1,ODD,Mechatronics Engineering,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechatronics
+1039,2023,1,1,ODD,Mechatronics Engineering,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+1040,2023,1,1,ODD,Mechatronics Engineering,MT23121,Computer Aided Drawing Lab,0,0,2,1,2,Laboratory,MCT CAD Lab,Mechatronics
+1041,2023,1,1,ODD,Mechatronics Engineering,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,Mechatronics
+1042,2023,1,2,EVEN,Mechatronics Engineering,MA23212,Differential Equation and Analytical Functions,3,1,0,4,4,Theory,,Mathematics
+1043,2023,1,2,EVEN,Mechatronics Engineering,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Mechatronics
+1044,2023,1,2,EVEN,Mechatronics Engineering,CY23312,Chemistry for Electronics Engineering,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+1045,2023,1,2,EVEN,Mechatronics Engineering,PH23141,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+1046,2023,1,2,EVEN,Mechatronics Engineering,GE23131,Programming using C,1,0,6,4,7,LOT,Computer Lab,Computer Science and Engineering
+1047,2023,1,2,EVEN,Mechatronics Engineering,MT23131,Elements of Mechatronics,2,0,2,3,4,LOT,MCT CAD Lab,Mechatronics
+1048,2023,1,2,EVEN,Mechatronics Engineering,HS23222/HS23223,Technical Communication II / English for Professional Competence,0,0,2,1,2,Laboratory,,English
+1049,2023,1,2,EVEN,Mechatronics Engineering,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,English
+1050,2023,2,3,ODD,Mechatronics Engineering,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+1051,2023,2,3,ODD,Mechatronics Engineering,MT23311,Analog Circuits and Drives,2,0,2,3,3,LOT,Microprocessor and Microcontrollers Lab,Mechatronics
+1052,2023,2,3,ODD,Mechatronics Engineering,MT23313,Mechanics of Solids,3,0,2,4,3,LOT,Strength of Materials Lab,Mechatronics
+1053,2023,2,3,ODD,Mechatronics Engineering,MT23332,Digital System Design,2,0,2,3,3,LOT,MCT CAD Lab,Mechatronics
+1054,2023,2,3,ODD,Mechatronics Engineering,MT23431,Manufacturing Technology,3,0,2,4,5,LOT,Manufacturing Technology I,Mechatronics
+1055,2023,2,3,ODD,Mechatronics Engineering,GE23233,Problem Solving and Python Programming,2,0,4,4,6,LOT,Computer Lab,Mechatronics
+1057,2023,2,4,EVEN,Mechatronics Engineering,MA23432,Statistics and Numerical Methods,3,0,2,4,4,LOT,Computer Lab,Mathematics
+1058,2023,2,4,EVEN,Mechatronics Engineering,MT23312,Fluid mechanics and Thermal Sciences,3,0,0,3,3,Theory,,Mechatronics
+1059,2023,2,4,EVEN,Mechatronics Engineering,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+1060,2023,2,4,EVEN,Mechatronics Engineering,MT23432,Microcontrollers and Embedded Systems,3,0,2,4,5,LOT,Microprocessor lab-1,Mechatronics
+1061,2023,2,4,EVEN,Mechatronics Engineering,MT23433,Sensors and Instrumentation,3,0,2,4,5,LOT,Industrial Automation Lab,Mechatronics
+1062,2023,2,4,EVEN,Mechatronics Engineering,MT23434,System Dynamics and Control,2,0,2,3,4,LOT,MCT CAD Lab,Mechatronics
+1063,2023,2,4,EVEN,Mechatronics Engineering,MT23421,Fluid mechanics and Thermal Sciences Laboratory,0,0,4,2,4,Laboratory,Fluid Mechanics Lab,Mechatronics
+1064,2023,2,4,EVEN,Mechatronics Engineering,GE23327,Soft Skills – I,0,0,2,1,2,Laboratory,SoftSkill,Placement
+1066,2023,3,5,ODD,Mechatronics Engineering,MT23511,Design of Mechatronics System,3,0,0,3,3,Theory,,Mechatronics
+1067,2023,3,5,ODD,Mechatronics Engineering,MT23532,Theory of Machines And Mechanisms,3,1,0,4,4,Theory,,Mechatronics
+1068,2023,3,5,ODD,Mechatronics Engineering,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+1069,2023,3,5,ODD,Mechatronics Engineering,MTPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Mechatronics
+1070,2023,3,5,ODD,Mechatronics Engineering,MT23531,Industrial Electronics,3,0,2,4,5,LOT,Power Electronics Lab,Mechatronics
+1071,2023,3,5,ODD,Mechatronics Engineering,MT23533,Python Programming for Machine Learning,1,0,4,3,5,LOT,Computer Lab,Mechatronics
+1072,2023,3,5,ODD,Mechatronics Engineering,MT23521,Theory of Machines Laboratory,0,0,2,1,2,Laboratory,Dynamics Lab,Mechatronics
+1073,2023,3,5,ODD,Mechatronics Engineering,MT23521,Industry Internship,0,0,2,1,2,Laboratory,,Mechatronics
+1074,2023,3,5,ODD,Mechatronics Engineering,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Mechatronics
+1076,2023,3,6,EVEN,Mechatronics Engineering,GE23311,Fundamentals of Management for Engineers,3,0,0,3,3,Theory,,Mechatronics
+1077,2023,3,6,EVEN,Mechatronics Engineering,MT23611,Fundamentals of Machine Design,2,1,0,3,3,Theory,,Mechatronics
+1078,2023,3,6,EVEN,Mechatronics Engineering,MTPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Mechatronics
+1079,2023,3,6,EVEN,Mechatronics Engineering,MT23631,Industrial Robotics,2,0,4,4,6,LOT,Isaac Asimov Laboratory,Mechatronics
+1080,2023,3,6,EVEN,Mechatronics Engineering,MT23632,Applied Hydraulics and Pneumatics,2,0,4,4,6,LOT,Mechatronics Lab,Mechatronics
+1081,2023,3,6,EVEN,Mechatronics Engineering,GE23621,Problem Solving Techniques,1,0,2,2,3,Laboratory,,Mechatronics
+1082,2023,3,6,EVEN,Mechatronics Engineering,MT23621,Design Thinking For Innovation In Mechatronics Engineering,0,0,2,1,2,Laboratory,Project Hour,Mechatronics
+1084,2023,4,7,ODD,Mechatronics Engineering,MTPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Mechatronics
+1085,2023,4,7,ODD,Mechatronics Engineering,MTPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Mechatronics
+1086,2023,4,7,ODD,Mechatronics Engineering,MT23731,Industrial Automation,2,0,4,4,6,LOT,Industrial Automation Lab,Mechatronics
+1087,2023,4,7,ODD,Mechatronics Engineering,MT23732,Machine Vision,2,0,4,4,6,LOT,MCT CAD Lab,Mechatronics
+1088,2023,4,7,ODD,Mechatronics Engineering,MT23721,Computer Aided Engineering Laboratory,0,0,2,1,2,Laboratory,MCT CAD Lab,Mechatronics
+1089,2023,4,7,ODD,Mechatronics Engineering,MT23721,"Mechatronics Engineering Problem Solving using AI, ML and DL",0,0,4,2,4,Laboratory,Computer Lab,Mechatronics
+1090,2023,4,7,ODD,Mechatronics Engineering,MT23722,Project Work (Phase - I),0,0,4,2,4,Laboratory,Project Hour,Mechatronics
+1092,2023,4,8,EVEN,Mechatronics Engineering,MTPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Mechatronics
+1093,2023,4,8,EVEN,Mechatronics Engineering,MTPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Mechatronics
+1094,2023,4,8,EVEN,Mechatronics Engineering,MT23821,Project Work (Phase - II),0,0,16,8,,Laboratory,Project Hour,Mechatronics
+1095,2023,1,1,ODD,Robotics and Automation,HS23111,Technical Communication -I,2,0,0,2,2,Theory,,English
+1096,2023,1,1,ODD,Robotics and Automation,MA23112,Algebra and Calculus,3,1,0,4,4,Theory,,Mathematics
+1097,2023,1,1,ODD,Robotics and Automation,GE23111,Engineering Graphics,2,2,0,4,4,Theory,,Mechanical Engineering
+1098,2023,1,1,ODD,Robotics and Automation,RO23111,Introduction To Mechanical Systems,2,1,0,3,3,Theory,,Robotics and Automation
+1099,2023,1,1,ODD,Robotics and Automation,EE23132,Basic Electrical Engineering,3,0,2,4,5,LOT,Electrical Machines I Lab,Electrical and Electronics Engineering
+1100,2023,1,1,ODD,Robotics and Automation,GE23121,Engineering Practices – Civil and Mechanical,0,0,2,1,2,Laboratory,Machine shop - EPL - 1,Mechanical Engineering
+1101,2023,1,1,ODD,Robotics and Automation,GE23122,Engineering Practices – Electrical and Electronics,0,0,2,1,2,Laboratory,"Engineering Practices Lab (Electronics), Engineering Practices Lab (Electrical)",Electrical and Electronics Engineering
+1102,2023,1,1,ODD,Robotics and Automation,MC23112,Environmental Science and Engineering,3,0,0,0,3,Theory,,English
+1103,2023,1,1,ODD,Robotics and Automation,GE23117,தமிழர் மரபு /Heritage of Tamils,1,0,0,1,1,Theory,,Robotics and Automation
+1105,2023,1,2,EVEN,Robotics and Automation,MA23212,Differential Equations and Complex Variables,3,1,0,4,4,Theory,,Mathematics
+1106,2023,1,2,EVEN,Robotics and Automation,CY23131,Chemistry For Electronics Engineering,3,0,2,4,5,LOT,Chemistry Lab,Chemistry
+1107,2023,1,2,EVEN,Robotics and Automation,PH23131,Physics of Materials,3,0,2,4,5,LOT,Physics Lab,Physics
+1108,2023,1,2,EVEN,Robotics and Automation,GE23233,Problem Solving and Python Programming,2,0,4,4,6,LOT,Computer Lab,Robotics and Automation
+1109,2023,1,2,EVEN,Robotics and Automation,HS23221/HS23222,Technical Communication II/ English for Professional Competence,0,0,2,1,2,Laboratory,,English
+1110,2023,1,2,EVEN,Robotics and Automation,RO23221,Computer Aided Modeling Laboratory,0,0,4,2,4,Laboratory,Isaac Asimov Laboratory,Robotics and Automation
+1111,2023,1,2,EVEN,Robotics and Automation,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,1,0,0,1,1,Theory,,Robotics and Automation
+1112,2023,1,2,EVEN,Robotics and Automation,MC23111,Indian Constitution and Freedom Movement,3,0,0,0,3,Theory,,Robotics and Automation
+1113,2023,2,3,ODD,Robotics and Automation,MA23311,Transforms and Applied Partial Differential Equations,3,1,0,4,4,Theory,,Mathematics
+1114,2023,2,3,ODD,Robotics and Automation,RO23311,Analog and Digital Electronics,3,0,0,3,3,Theory,,Robotics and Automation
+1115,2023,2,3,ODD,Robotics and Automation,RO23312,Theory of Mechanisms and Machines-I,3,1,0,4,4,Theory,,Robotics and Automation
+1116,2023,2,3,ODD,Robotics and Automation,RO23313,Sensors in Automation,3,0,0,3,3,Theory,,Robotics and Automation
+1117,2023,2,3,ODD,Robotics and Automation,RO23331,Elements of Manufacturing Process,2,0,2,3,4,LOT,Manufacturing Technology II,Robotics and Automation
+1118,2023,2,3,ODD,Robotics and Automation,RO23332,Mechanics of Materials,3,0,2,4,5,LOT,Dynamics Lab,Robotics and Automation
+1119,2023,2,3,ODD,Robotics and Automation,CS23422,Python Programming for Machine Learning,0,0,4,2,4,Laboratory,Computer Lab,Robotics and Automation
+1120,2023,2,4,EVEN,Robotics and Automation,RO23411,Fluid Power Systems,3,0,0,3,3,Theory,,Robotics and Automation
+1121,2023,2,4,EVEN,Robotics and Automation,RO23412,Industrial Automation and Control,3,1,0,4,4,Theory,,Robotics and Automation
+1122,2023,2,4,EVEN,Robotics and Automation,RO23413,Microcontrollers and Real Time Embedded Systems,3,0,0,3,3,Theory,,Robotics and Automation
+1123,2023,2,4,EVEN,Robotics and Automation,RO23414,Robot Kinematics and Dynamics,3,1,0,4,4,Theory,,Robotics and Automation
+1124,2023,2,4,EVEN,Robotics and Automation,MA23432,Statistics and Numerical Methods,3,0,2,4,5,LOT,Computer Lab,Mathematics
+1125,2023,2,4,EVEN,Robotics and Automation,RO23421,Mechanisms and  Robotics laboratory,0,0,4,2,4,Laboratory,Isaac Asimov Laboratory,Robotics and Automation
+1126,2023,2,4,EVEN,Robotics and Automation,RO23422,"Industrial Automation 
+ Laboratory-I",0,0,4,2,4,Laboratory,Automation Lab,Robotics and Automation
+1127,2023,2,4,EVEN,Robotics and Automation,GE23427,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Placement
+1129,2023,3,5,ODD,Robotics and Automation,RO23511,AI for Robotics,3,0,0,3,3,Theory,,Robotics and Automation
+1130,2023,3,5,ODD,Robotics and Automation,RO23512,Theory of Mechanisms and Machines-II,3,1,0,4,4,Theory,,Robotics and Automation
+1131,2023,3,5,ODD,Robotics and Automation,ME23511,Machine Design,3,0,0,3,3,Theory,,Robotics and Automation
+1132,2023,3,5,ODD,Robotics and Automation,OE - 1,Open Elective - I,3,0,0,3,3,Open Elective,,Common Open Elective
+1133,2023,3,5,ODD,Robotics and Automation,ROPE1,Professional Elective – I,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1134,2023,3,5,ODD,Robotics and Automation,RO23521,Mobile Robotics laboratory,0,0,4,2,4,Laboratory,Isaac Asimov Laboratory,Robotics and Automation
+1135,2023,3,5,ODD,Robotics and Automation,RO23522,"Industrial Automation 
+ Laboratory-II",0,0,4,2,4,Laboratory,Automation Lab,Robotics and Automation
+1136,2023,3,5,ODD,Robotics and Automation,RO23523,Internship,0,0,2,1,2,Laboratory,,Robotics and Automation
+1137,2023,3,5,ODD,Robotics and Automation,GE23521,Soft Skills – II,0,0,2,1,2,Laboratory,SoftSkill,Robotics and Automation
+1138,2023,3,6,EVEN,Robotics and Automation,ME23612,Design of Transmission systems,3,0,0,3,3,Theory,,Robotics and Automation
+1139,2023,3,6,EVEN,Robotics and Automation,RO23611,Resource Management Techniques,3,1,0,4,4,Theory,,Robotics and Automation
+1140,2023,3,6,EVEN,Robotics and Automation,ROPE2,Professional Elective – II,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1141,2023,3,6,EVEN,Robotics and Automation,ROPE3,Professional Elective – III,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1142,2023,3,6,EVEN,Robotics and Automation,RO23631,Robotic operating System,2,0,2,3,4,LOT,Isaac Asimov Laboratory,Robotics and Automation
+1143,2023,3,6,EVEN,Robotics and Automation,RO23632,Robotic Vision and Intelligence,3,0,2,4,5,LOT,Isaac Asimov Laboratory,Robotics and Automation
+1144,2023,3,6,EVEN,Robotics and Automation,RO23621,"Innovation and Design
+ thinking for Robotics and
+ Automation",0,1,2,2,3,LOT,Project Hour,Robotics and Automation
+1145,2023,3,6,EVEN,Robotics and Automation,GE23627,Problem Solving Techniques,0,0,2,1,2,Laboratory,,Robotics and Automation
+1146,2023,4,7,ODD,Robotics and Automation,RO23711,Aerial Robotics,3,0,0,3,3,Theory,,Robotics and Automation
+1147,2023,4,7,ODD,Robotics and Automation,RO23712,Humanoid Robotics,3,0,0,3,3,Theory,,Robotics and Automation
+1148,2023,4,7,ODD,Robotics and Automation,ROPE4,Professional Elective – IV,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1149,2023,4,7,ODD,Robotics and Automation,OE - 2,Open Elective - II,3,0,0,3,3,Open Elective,,Common Open Elective
+1150,2023,4,7,ODD,Robotics and Automation,RO23731,"Robot Path Planning and 
+ Programming",3,0,2,4,5,LOT,Isaac Asimov Laboratory,Robotics and Automation
+1151,2023,4,7,ODD,Robotics and Automation,RO23721,"Robotics and Automation Problem Solving using AI, ML and DL",0,0,4,2,4,Laboratory,Isaac Asimov Laboratory,Robotics and Automation
+1152,2023,4,7,ODD,Robotics and Automation,RO23722,Project Work (Phase - I),0,0,4,2,4,Laboratory,Project Hour,Robotics and Automation
+1153,2023,4,8,EVEN,Robotics and Automation,ROPE5,Professional Elective – V,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1154,2023,4,8,EVEN,Robotics and Automation,ROPE6,Professional Elective – VI,3,0,0,3,3,Professional Elective,,Robotics and Automation
+1155,2023,4,8,EVEN,Robotics and Automation,RO23821,Project Work (Phase - II),0,0,16,8,16,Laboratory,Project Hour,Robotics and Automation
+,,,,,,,,,,,,,,Computer Lab (DG02),
+,,,,,,,,,,,,,,Computer Lab (DG03),
+,,,,,,,,,,,,,,Computer Lab (Arch),
+,,,,,,,,,,,,,,Computer Lab (JL1),
+,,,,,,,,,,,,,,Computer Lab (JL2),
+,,,,,,,,,,,,,,Computer Lab (JL3),
+,,,,,,,,,,,,,,Computer Lab (JR1),
+,,,,,,,,,,,,,,Computer Lab (JR2),
+,,,,,,,,,,,,,,Computer Lab (JR3),
+,,,,,,,,,,,,,,Computer Lab (KFL01),
+,,,,,,,,,,,,,,Computer Lab (KFL02),
+,,,,,,,,,,,,,,Computer Lab (KFL03),
+,,,,,,,,,,,,,,Computer Lab (KFR01),
+,,,,,,,,,,,,,,Computer Lab (KFR02),
+,,,,,,,,,,,,,,Computer Lab (KFR03),
+,,,,,,,,,,,,,,Computer Lab (KFR04),
+,,,,,,,,,,,,,,Computer Lab (KSL03),
+,,,,,,,,,,,,,,Computer Lab (TLGL1),
+,,,,,,,,,,,,,,Computer Lab (TLGL2),
+,,,,,,,,,,,,,,Computer Lab (TLGL3),
+,,,,,,,,,,,,,,Computer Lab (TLGL4),
+,,,,,,,,,,,,,,Computer Lab (TLFL1),
+,,,,,,,,,,,,,,Computer Lab (TLFL2),
+,,,,,,,,,,,,,,Computer Lab (TLFL3),
+,,,,,,,,,,,,,,Computer Lab (TLFL4),
+,,,,,,,,,,,,,,Computer Lab (TLFL5),
+,,,,,,,,,,,,,,Computer Lab (TLFR1),
+,,,,,,,,,,,,,,Computer Lab (TLFR2),
+,,,,,,,,,,,,,,Computer Lab (TLFR3),
+,,,,,,,,,,,,,,Computer Lab (TLFR4),
+,,,,,,,,,,,,,,Computer Lab (TLFR5),
+,,,,,,,,,,,,,,Computer Lab (TLSL1),
+,,,,,,,,,,,,,,Computer Lab (TLSL2),
+,,,,,,,,,,,,,,Computer Lab (TLSR1),
