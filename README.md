@@ -53,3 +53,5 @@ Ensure the `credits` are between 1 and 5. Teachers with invalid or missing data 
 
 ```bash
 pip install pandas ortools
+
+###USE the file withslot.py and main.py
